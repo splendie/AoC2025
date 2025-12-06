@@ -1,0 +1,8163 @@
+currentPos: 50
+After turn L3, currentPos: 47
+currentPos: 47
+After turn R19, currentPos: 66
+currentPos: 66
+After turn R14, currentPos: 80
+currentPos: 80
+After turn L38, currentPos: 42
+currentPos: 42
+After turn R4, currentPos: 46
+currentPos: 46
+After turn L34, currentPos: 12
+currentPos: 12
+After turn R50, currentPos: 62
+currentPos: 62
+After turn R28, currentPos: 90
+currentPos: 90
+After turn L43, currentPos: 47
+currentPos: 47
+After turn R5, currentPos: 52
+currentPos: 52
+After turn R33, currentPos: 85
+currentPos: 85
+After turn R4, currentPos: 89
+currentPos: 89
+After turn R2, currentPos: 91
+currentPos: 91
+After turn R24, currentPos: 15
+currentPos: 15
+After turn L42, currentPos: 73
+currentPos: 73
+After turn L20, currentPos: 53
+currentPos: 53
+After turn R36, currentPos: 89
+currentPos: 89
+After turn L19, currentPos: 70
+currentPos: 70
+After turn R48, currentPos: 18
+currentPos: 18
+After turn R20, currentPos: 38
+currentPos: 38
+After turn L12, currentPos: 26
+currentPos: 26
+After turn R31, currentPos: 57
+currentPos: 57
+After turn R35, currentPos: 92
+currentPos: 92
+After turn L19, currentPos: 73
+currentPos: 73
+After turn R9, currentPos: 82
+currentPos: 82
+After turn R27, currentPos: 9
+currentPos: 9
+After turn R49, currentPos: 58
+currentPos: 58
+After turn L26, currentPos: 32
+currentPos: 32
+After turn R20, currentPos: 52
+currentPos: 52
+After turn R10, currentPos: 62
+currentPos: 62
+After turn R3, currentPos: 65
+currentPos: 65
+After turn R9, currentPos: 74
+currentPos: 74
+After turn L19, currentPos: 55
+currentPos: 55
+After turn R32, currentPos: 87
+currentPos: 87
+After turn L50, currentPos: 37
+currentPos: 37
+After turn L16, currentPos: 21
+currentPos: 21
+After turn R45, currentPos: 66
+currentPos: 66
+After turn L48, currentPos: 18
+currentPos: 18
+After turn L41, currentPos: 77
+currentPos: 77
+After turn R44, currentPos: 21
+currentPos: 21
+After turn L22, currentPos: 99
+currentPos: 99
+After turn L45, currentPos: 54
+currentPos: 54
+After turn R1, currentPos: 55
+currentPos: 55
+After turn L11, currentPos: 44
+currentPos: 44
+After turn L43, currentPos: 1
+currentPos: 1
+After turn L30, currentPos: 71
+currentPos: 71
+After turn R46, currentPos: 17
+currentPos: 17
+After turn R14, currentPos: 31
+currentPos: 31
+After turn L44, currentPos: 87
+currentPos: 87
+After turn R70, currentPos: 57
+currentPos: 57
+After turn L23, currentPos: 34
+currentPos: 34
+After turn L34, currentPos: 0
+currentPos: 0
+After turn R57, currentPos: 57
+currentPos: 57
+After turn R43, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn R90, currentPos: 88
+currentPos: 88
+After turn L88, currentPos: 0
+currentPos: 0
+After turn R79, currentPos: 79
+currentPos: 79
+After turn R21, currentPos: 0
+currentPos: 0
+After turn R49, currentPos: 49
+currentPos: 49
+After turn L12, currentPos: 37
+currentPos: 37
+After turn L88, currentPos: 49
+currentPos: 49
+After turn L80, currentPos: 69
+currentPos: 69
+After turn L95, currentPos: 74
+currentPos: 74
+After turn L14, currentPos: 60
+currentPos: 60
+After turn L93, currentPos: 67
+currentPos: 67
+After turn R22, currentPos: 89
+currentPos: 89
+After turn L59, currentPos: 30
+currentPos: 30
+After turn R87, currentPos: 17
+currentPos: 17
+After turn R83, currentPos: 0
+currentPos: 0
+After turn L32, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn R25, currentPos: 41
+currentPos: 41
+After turn L18, currentPos: 23
+currentPos: 23
+After turn L11, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn R65, currentPos: 65
+currentPos: 65
+After turn L9, currentPos: 56
+currentPos: 56
+After turn R21, currentPos: 77
+currentPos: 77
+After turn L72, currentPos: 5
+currentPos: 5
+After turn R95, currentPos: 0
+currentPos: 0
+After turn L53, currentPos: 47
+currentPos: 47
+After turn R53, currentPos: 0
+currentPos: 0
+After turn R68, currentPos: 68
+currentPos: 68
+After turn L22, currentPos: 46
+currentPos: 46
+After turn R54, currentPos: 0
+currentPos: 0
+After turn R78, currentPos: 78
+currentPos: 78
+After turn R48, currentPos: 26
+currentPos: 26
+After turn L48, currentPos: 78
+currentPos: 78
+After turn R22, currentPos: 0
+currentPos: 0
+After turn R7, currentPos: 7
+currentPos: 7
+After turn R77, currentPos: 84
+currentPos: 84
+After turn L28, currentPos: 56
+currentPos: 56
+After turn R35, currentPos: 91
+currentPos: 91
+After turn L73, currentPos: 18
+currentPos: 18
+After turn L90, currentPos: 28
+currentPos: 28
+After turn L49, currentPos: 79
+currentPos: 79
+After turn L79, currentPos: 0
+currentPos: 0
+After turn R78, currentPos: 78
+currentPos: 78
+After turn L95, currentPos: 83
+currentPos: 83
+After turn R43, currentPos: 26
+currentPos: 26
+After turn R89, currentPos: 15
+currentPos: 15
+After turn R67, currentPos: 82
+currentPos: 82
+After turn L182, currentPos: 0
+currentPos: 0
+After turn R9, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn R231, currentPos: 0
+currentPos: 0
+After turn R82, currentPos: 82
+currentPos: 82
+After turn R9, currentPos: 91
+currentPos: 91
+After turn L32, currentPos: 59
+currentPos: 59
+After turn R39, currentPos: 98
+currentPos: 98
+After turn R631, currentPos: 29
+currentPos: 29
+After turn L57, currentPos: 72
+currentPos: 72
+After turn R95, currentPos: 67
+currentPos: 67
+After turn R98, currentPos: 65
+currentPos: 65
+After turn R22, currentPos: 87
+currentPos: 87
+After turn L57, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R29, currentPos: 29
+currentPos: 29
+After turn L6, currentPos: 23
+currentPos: 23
+After turn L2, currentPos: 21
+currentPos: 21
+After turn R39, currentPos: 60
+currentPos: 60
+After turn R40, currentPos: 0
+currentPos: 0
+After turn R30, currentPos: 30
+currentPos: 30
+After turn L81, currentPos: 49
+currentPos: 49
+After turn R51, currentPos: 0
+currentPos: 0
+After turn L14, currentPos: 86
+currentPos: 86
+After turn R7, currentPos: 93
+currentPos: 93
+After turn L558, currentPos: 35
+currentPos: 35
+After turn R62, currentPos: 97
+currentPos: 97
+After turn L97, currentPos: 0
+currentPos: 0
+After turn R1, currentPos: 1
+currentPos: 1
+After turn R22, currentPos: 23
+currentPos: 23
+After turn L23, currentPos: 0
+currentPos: 0
+After turn R67, currentPos: 67
+currentPos: 67
+After turn L66, currentPos: 1
+currentPos: 1
+After turn R9, currentPos: 10
+currentPos: 10
+After turn L651, currentPos: 59
+currentPos: 59
+After turn R52, currentPos: 11
+currentPos: 11
+After turn L11, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn L96, currentPos: 20
+currentPos: 20
+After turn L920, currentPos: 0
+currentPos: 0
+After turn R31, currentPos: 31
+currentPos: 31
+After turn L431, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn L98, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn R316, currentPos: 30
+currentPos: 30
+After turn R30, currentPos: 60
+currentPos: 60
+After turn R59, currentPos: 19
+currentPos: 19
+After turn L19, currentPos: 0
+currentPos: 0
+After turn R44, currentPos: 44
+currentPos: 44
+After turn R56, currentPos: 0
+currentPos: 0
+After turn L32, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn R78, currentPos: 78
+currentPos: 78
+After turn L17, currentPos: 61
+currentPos: 61
+After turn R28, currentPos: 89
+currentPos: 89
+After turn L189, currentPos: 0
+currentPos: 0
+After turn L57, currentPos: 43
+currentPos: 43
+After turn R25, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn R84, currentPos: 0
+currentPos: 0
+After turn L82, currentPos: 18
+currentPos: 18
+After turn R69, currentPos: 87
+currentPos: 87
+After turn R22, currentPos: 9
+currentPos: 9
+After turn R2, currentPos: 11
+currentPos: 11
+After turn L11, currentPos: 0
+currentPos: 0
+After turn L92, currentPos: 8
+currentPos: 8
+After turn L8, currentPos: 0
+currentPos: 0
+After turn L60, currentPos: 40
+currentPos: 40
+After turn R65, currentPos: 5
+currentPos: 5
+After turn R95, currentPos: 0
+currentPos: 0
+After turn R24, currentPos: 24
+currentPos: 24
+After turn R53, currentPos: 77
+currentPos: 77
+After turn L683, currentPos: 94
+currentPos: 94
+After turn R16, currentPos: 10
+currentPos: 10
+After turn L710, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn R73, currentPos: 0
+currentPos: 0
+After turn R92, currentPos: 92
+currentPos: 92
+After turn R66, currentPos: 58
+currentPos: 58
+After turn R94, currentPos: 52
+currentPos: 52
+After turn R45, currentPos: 97
+currentPos: 97
+After turn L10, currentPos: 87
+currentPos: 87
+After turn R37, currentPos: 24
+currentPos: 24
+After turn L24, currentPos: 0
+currentPos: 0
+After turn L250, currentPos: 50
+currentPos: 50
+After turn R7, currentPos: 57
+currentPos: 57
+After turn R43, currentPos: 0
+currentPos: 0
+After turn R15, currentPos: 15
+currentPos: 15
+After turn L672, currentPos: 43
+currentPos: 43
+After turn L40, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn R211, currentPos: 11
+currentPos: 11
+After turn R89, currentPos: 0
+currentPos: 0
+After turn R92, currentPos: 92
+currentPos: 92
+After turn R98, currentPos: 90
+currentPos: 90
+After turn L25, currentPos: 65
+currentPos: 65
+After turn R57, currentPos: 22
+currentPos: 22
+After turn R26, currentPos: 48
+currentPos: 48
+After turn R852, currentPos: 0
+currentPos: 0
+After turn R15, currentPos: 15
+currentPos: 15
+After turn L15, currentPos: 0
+currentPos: 0
+After turn L184, currentPos: 16
+currentPos: 16
+After turn L2, currentPos: 14
+currentPos: 14
+After turn L4, currentPos: 10
+currentPos: 10
+After turn L750, currentPos: 60
+currentPos: 60
+After turn R40, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn R62, currentPos: 87
+currentPos: 87
+After turn R514, currentPos: 1
+currentPos: 1
+After turn L1, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn R52, currentPos: 71
+currentPos: 71
+After turn R95, currentPos: 66
+currentPos: 66
+After turn L66, currentPos: 0
+currentPos: 0
+After turn L4, currentPos: 96
+currentPos: 96
+After turn R4, currentPos: 0
+currentPos: 0
+After turn R46, currentPos: 46
+currentPos: 46
+After turn L3, currentPos: 43
+currentPos: 43
+After turn R12, currentPos: 55
+currentPos: 55
+After turn L55, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn L40, currentPos: 85
+currentPos: 85
+After turn R15, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn R11, currentPos: 9
+currentPos: 9
+After turn L2, currentPos: 7
+currentPos: 7
+After turn L955, currentPos: 52
+currentPos: 52
+After turn R48, currentPos: 0
+currentPos: 0
+After turn L54, currentPos: 46
+currentPos: 46
+After turn R49, currentPos: 95
+currentPos: 95
+After turn R5, currentPos: 0
+currentPos: 0
+After turn L98, currentPos: 2
+currentPos: 2
+After turn R498, currentPos: 0
+currentPos: 0
+After turn L4, currentPos: 96
+currentPos: 96
+After turn R24, currentPos: 20
+currentPos: 20
+After turn L25, currentPos: 95
+currentPos: 95
+After turn L95, currentPos: 0
+currentPos: 0
+After turn L28, currentPos: 72
+currentPos: 72
+After turn R28, currentPos: 0
+currentPos: 0
+After turn R33, currentPos: 33
+currentPos: 33
+After turn L33, currentPos: 0
+currentPos: 0
+After turn L89, currentPos: 11
+currentPos: 11
+After turn R415, currentPos: 26
+currentPos: 26
+After turn R437, currentPos: 63
+currentPos: 63
+After turn R85, currentPos: 48
+currentPos: 48
+After turn R44, currentPos: 92
+currentPos: 92
+After turn R8, currentPos: 0
+currentPos: 0
+After turn R534, currentPos: 34
+currentPos: 34
+After turn L22, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn R21, currentPos: 21
+currentPos: 21
+After turn L110, currentPos: 11
+currentPos: 11
+After turn L55, currentPos: 56
+currentPos: 56
+After turn L56, currentPos: 0
+currentPos: 0
+After turn R44, currentPos: 44
+currentPos: 44
+After turn R10, currentPos: 54
+currentPos: 54
+After turn R54, currentPos: 8
+currentPos: 8
+After turn L6, currentPos: 2
+currentPos: 2
+After turn L44, currentPos: 58
+currentPos: 58
+After turn R20, currentPos: 78
+currentPos: 78
+After turn L84, currentPos: 94
+currentPos: 94
+After turn R60, currentPos: 54
+currentPos: 54
+After turn R212, currentPos: 66
+currentPos: 66
+After turn R27, currentPos: 93
+currentPos: 93
+After turn R45, currentPos: 38
+currentPos: 38
+After turn L38, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn R58, currentPos: 16
+currentPos: 16
+After turn L480, currentPos: 36
+currentPos: 36
+After turn R464, currentPos: 0
+currentPos: 0
+After turn L52, currentPos: 48
+currentPos: 48
+After turn L93, currentPos: 55
+currentPos: 55
+After turn R28, currentPos: 83
+currentPos: 83
+After turn R517, currentPos: 0
+currentPos: 0
+After turn R21, currentPos: 21
+currentPos: 21
+After turn R98, currentPos: 19
+currentPos: 19
+After turn L51, currentPos: 68
+currentPos: 68
+After turn R332, currentPos: 0
+currentPos: 0
+After turn R938, currentPos: 38
+currentPos: 38
+After turn L38, currentPos: 0
+currentPos: 0
+After turn L19, currentPos: 81
+currentPos: 81
+After turn L3, currentPos: 78
+currentPos: 78
+After turn L78, currentPos: 0
+currentPos: 0
+After turn L55, currentPos: 45
+currentPos: 45
+After turn L19, currentPos: 26
+currentPos: 26
+After turn L326, currentPos: 0
+currentPos: 0
+After turn R125, currentPos: 25
+currentPos: 25
+After turn R75, currentPos: 0
+currentPos: 0
+After turn R83, currentPos: 83
+currentPos: 83
+After turn L83, currentPos: 0
+currentPos: 0
+After turn R17, currentPos: 17
+currentPos: 17
+After turn L82, currentPos: 35
+currentPos: 35
+After turn L88, currentPos: 47
+currentPos: 47
+After turn L10, currentPos: 37
+currentPos: 37
+After turn L37, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L78, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn R4, currentPos: 4
+currentPos: 4
+After turn R84, currentPos: 88
+currentPos: 88
+After turn L9, currentPos: 79
+currentPos: 79
+After turn R40, currentPos: 19
+currentPos: 19
+After turn R381, currentPos: 0
+currentPos: 0
+After turn L542, currentPos: 58
+currentPos: 58
+After turn L523, currentPos: 35
+currentPos: 35
+After turn L242, currentPos: 93
+currentPos: 93
+After turn R62, currentPos: 55
+currentPos: 55
+After turn R45, currentPos: 0
+currentPos: 0
+After turn R895, currentPos: 95
+currentPos: 95
+After turn L75, currentPos: 20
+currentPos: 20
+After turn R39, currentPos: 59
+currentPos: 59
+After turn R41, currentPos: 0
+currentPos: 0
+After turn L28, currentPos: 72
+currentPos: 72
+After turn R472, currentPos: 44
+currentPos: 44
+After turn L44, currentPos: 0
+currentPos: 0
+After turn L14, currentPos: 86
+currentPos: 86
+After turn L96, currentPos: 90
+currentPos: 90
+After turn R10, currentPos: 0
+currentPos: 0
+After turn R11, currentPos: 11
+currentPos: 11
+After turn R89, currentPos: 0
+currentPos: 0
+After turn R52, currentPos: 52
+currentPos: 52
+After turn R48, currentPos: 0
+currentPos: 0
+After turn R221, currentPos: 21
+currentPos: 21
+After turn L87, currentPos: 34
+currentPos: 34
+After turn R92, currentPos: 26
+currentPos: 26
+After turn L90, currentPos: 36
+currentPos: 36
+After turn L36, currentPos: 0
+currentPos: 0
+After turn L282, currentPos: 18
+currentPos: 18
+After turn L45, currentPos: 73
+currentPos: 73
+After turn R27, currentPos: 0
+currentPos: 0
+After turn L92, currentPos: 8
+currentPos: 8
+After turn R92, currentPos: 0
+currentPos: 0
+After turn L71, currentPos: 29
+currentPos: 29
+After turn R771, currentPos: 0
+currentPos: 0
+After turn R59, currentPos: 59
+currentPos: 59
+After turn R43, currentPos: 2
+currentPos: 2
+After turn R98, currentPos: 0
+currentPos: 0
+After turn R556, currentPos: 56
+currentPos: 56
+After turn L10, currentPos: 46
+currentPos: 46
+After turn L46, currentPos: 0
+currentPos: 0
+After turn R4, currentPos: 4
+currentPos: 4
+After turn R43, currentPos: 47
+currentPos: 47
+After turn L53, currentPos: 94
+currentPos: 94
+After turn R63, currentPos: 57
+currentPos: 57
+After turn R99, currentPos: 56
+currentPos: 56
+After turn L56, currentPos: 0
+currentPos: 0
+After turn R51, currentPos: 51
+currentPos: 51
+After turn L51, currentPos: 0
+currentPos: 0
+After turn L101, currentPos: 99
+currentPos: 99
+After turn L99, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn R80, currentPos: 5
+currentPos: 5
+After turn R39, currentPos: 44
+currentPos: 44
+After turn L58, currentPos: 86
+currentPos: 86
+After turn R74, currentPos: 60
+currentPos: 60
+After turn L60, currentPos: 0
+currentPos: 0
+After turn L9, currentPos: 91
+currentPos: 91
+After turn L49, currentPos: 42
+currentPos: 42
+After turn R93, currentPos: 35
+currentPos: 35
+After turn R33, currentPos: 68
+currentPos: 68
+After turn L74, currentPos: 94
+currentPos: 94
+After turn L627, currentPos: 67
+currentPos: 67
+After turn L67, currentPos: 0
+currentPos: 0
+After turn R73, currentPos: 73
+currentPos: 73
+After turn L15, currentPos: 58
+currentPos: 58
+After turn R537, currentPos: 95
+currentPos: 95
+After turn L397, currentPos: 98
+currentPos: 98
+After turn R35, currentPos: 33
+currentPos: 33
+After turn L39, currentPos: 94
+currentPos: 94
+After turn L124, currentPos: 70
+currentPos: 70
+After turn R88, currentPos: 58
+currentPos: 58
+After turn R172, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R30, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R98, currentPos: 98
+currentPos: 98
+After turn R402, currentPos: 0
+currentPos: 0
+After turn R47, currentPos: 47
+currentPos: 47
+After turn R446, currentPos: 93
+currentPos: 93
+After turn R13, currentPos: 6
+currentPos: 6
+After turn R94, currentPos: 0
+currentPos: 0
+After turn L137, currentPos: 63
+currentPos: 63
+After turn R49, currentPos: 12
+currentPos: 12
+After turn R95, currentPos: 7
+currentPos: 7
+After turn L10, currentPos: 97
+currentPos: 97
+After turn R68, currentPos: 65
+currentPos: 65
+After turn L365, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn R51, currentPos: 9
+currentPos: 9
+After turn L477, currentPos: 32
+currentPos: 32
+After turn R32, currentPos: 64
+currentPos: 64
+After turn R76, currentPos: 40
+currentPos: 40
+After turn L778, currentPos: 62
+currentPos: 62
+After turn R41, currentPos: 3
+currentPos: 3
+After turn L875, currentPos: 28
+currentPos: 28
+After turn L28, currentPos: 0
+currentPos: 0
+After turn L381, currentPos: 19
+currentPos: 19
+After turn R83, currentPos: 2
+currentPos: 2
+After turn R73, currentPos: 75
+currentPos: 75
+After turn L82, currentPos: 93
+currentPos: 93
+After turn R407, currentPos: 0
+currentPos: 0
+After turn L791, currentPos: 9
+currentPos: 9
+After turn L581, currentPos: 28
+currentPos: 28
+After turn L68, currentPos: 60
+currentPos: 60
+After turn R884, currentPos: 44
+currentPos: 44
+After turn L44, currentPos: 0
+currentPos: 0
+After turn L30, currentPos: 70
+currentPos: 70
+After turn R30, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn R17, currentPos: 86
+currentPos: 86
+After turn L23, currentPos: 63
+currentPos: 63
+After turn L63, currentPos: 0
+currentPos: 0
+After turn L51, currentPos: 49
+currentPos: 49
+After turn R68, currentPos: 17
+currentPos: 17
+After turn R33, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn L77, currentPos: 23
+currentPos: 23
+After turn L19, currentPos: 4
+currentPos: 4
+After turn R70, currentPos: 74
+currentPos: 74
+After turn L74, currentPos: 0
+currentPos: 0
+After turn R95, currentPos: 95
+currentPos: 95
+After turn L96, currentPos: 99
+currentPos: 99
+After turn L99, currentPos: 0
+currentPos: 0
+After turn L64, currentPos: 36
+currentPos: 36
+After turn R64, currentPos: 0
+currentPos: 0
+After turn R60, currentPos: 60
+currentPos: 60
+After turn R355, currentPos: 15
+currentPos: 15
+After turn L69, currentPos: 46
+currentPos: 46
+After turn L76, currentPos: 70
+currentPos: 70
+After turn R68, currentPos: 38
+currentPos: 38
+After turn R41, currentPos: 79
+currentPos: 79
+After turn R5, currentPos: 84
+currentPos: 84
+After turn R16, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn R12, currentPos: 0
+currentPos: 0
+After turn L840, currentPos: 60
+currentPos: 60
+After turn R37, currentPos: 97
+currentPos: 97
+After turn L797, currentPos: 0
+currentPos: 0
+After turn R59, currentPos: 59
+currentPos: 59
+After turn L20, currentPos: 39
+currentPos: 39
+After turn L32, currentPos: 7
+currentPos: 7
+After turn R83, currentPos: 90
+currentPos: 90
+After turn R392, currentPos: 82
+currentPos: 82
+After turn L896, currentPos: 86
+currentPos: 86
+After turn R11, currentPos: 97
+currentPos: 97
+After turn R203, currentPos: 0
+currentPos: 0
+After turn R482, currentPos: 82
+currentPos: 82
+After turn L82, currentPos: 0
+currentPos: 0
+After turn L34, currentPos: 66
+currentPos: 66
+After turn R5, currentPos: 71
+currentPos: 71
+After turn L71, currentPos: 0
+currentPos: 0
+After turn L52, currentPos: 48
+currentPos: 48
+After turn R2, currentPos: 50
+currentPos: 50
+After turn R364, currentPos: 14
+currentPos: 14
+After turn R86, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn L3, currentPos: 66
+currentPos: 66
+After turn R33, currentPos: 99
+currentPos: 99
+After turn R81, currentPos: 80
+currentPos: 80
+After turn R56, currentPos: 36
+currentPos: 36
+After turn R54, currentPos: 90
+currentPos: 90
+After turn R91, currentPos: 81
+currentPos: 81
+After turn L57, currentPos: 24
+currentPos: 24
+After turn L49, currentPos: 75
+currentPos: 75
+After turn R25, currentPos: 0
+currentPos: 0
+After turn R84, currentPos: 84
+currentPos: 84
+After turn R816, currentPos: 0
+currentPos: 0
+After turn R855, currentPos: 55
+currentPos: 55
+After turn R89, currentPos: 44
+currentPos: 44
+After turn R556, currentPos: 0
+currentPos: 0
+After turn R41, currentPos: 41
+currentPos: 41
+After turn L41, currentPos: 0
+currentPos: 0
+After turn L48, currentPos: 52
+currentPos: 52
+After turn L716, currentPos: 36
+currentPos: 36
+After turn L959, currentPos: 77
+currentPos: 77
+After turn L20, currentPos: 57
+currentPos: 57
+After turn R43, currentPos: 0
+currentPos: 0
+After turn R98, currentPos: 98
+currentPos: 98
+After turn L36, currentPos: 62
+currentPos: 62
+After turn R938, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn L38, currentPos: 0
+currentPos: 0
+After turn L70, currentPos: 30
+currentPos: 30
+After turn R61, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn R51, currentPos: 51
+currentPos: 51
+After turn R54, currentPos: 5
+currentPos: 5
+After turn R29, currentPos: 34
+currentPos: 34
+After turn L68, currentPos: 66
+currentPos: 66
+After turn R61, currentPos: 27
+currentPos: 27
+After turn L27, currentPos: 0
+currentPos: 0
+After turn R98, currentPos: 98
+currentPos: 98
+After turn L48, currentPos: 50
+currentPos: 50
+After turn L50, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn L88, currentPos: 0
+currentPos: 0
+After turn R33, currentPos: 33
+currentPos: 33
+After turn R967, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn L168, currentPos: 57
+currentPos: 57
+After turn R43, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L79, currentPos: 92
+currentPos: 92
+After turn L12, currentPos: 80
+currentPos: 80
+After turn R94, currentPos: 74
+currentPos: 74
+After turn R76, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn R460, currentPos: 60
+currentPos: 60
+After turn L60, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn L21, currentPos: 17
+currentPos: 17
+After turn L10, currentPos: 7
+currentPos: 7
+After turn R41, currentPos: 48
+currentPos: 48
+After turn R90, currentPos: 38
+currentPos: 38
+After turn L961, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn R9, currentPos: 9
+currentPos: 9
+After turn L209, currentPos: 0
+currentPos: 0
+After turn R37, currentPos: 37
+currentPos: 37
+After turn L95, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn L52, currentPos: 48
+currentPos: 48
+After turn R52, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn L64, currentPos: 24
+currentPos: 24
+After turn R652, currentPos: 76
+currentPos: 76
+After turn L76, currentPos: 0
+currentPos: 0
+After turn L240, currentPos: 60
+currentPos: 60
+After turn L160, currentPos: 0
+currentPos: 0
+After turn R521, currentPos: 21
+currentPos: 21
+After turn L955, currentPos: 66
+currentPos: 66
+After turn L94, currentPos: 72
+currentPos: 72
+After turn L95, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn L73, currentPos: 27
+currentPos: 27
+After turn L227, currentPos: 0
+currentPos: 0
+After turn L880, currentPos: 20
+currentPos: 20
+After turn R80, currentPos: 0
+currentPos: 0
+After turn R694, currentPos: 94
+currentPos: 94
+After turn L528, currentPos: 66
+currentPos: 66
+After turn L748, currentPos: 18
+currentPos: 18
+After turn R28, currentPos: 46
+currentPos: 46
+After turn R654, currentPos: 0
+currentPos: 0
+After turn L72, currentPos: 28
+currentPos: 28
+After turn R472, currentPos: 0
+currentPos: 0
+After turn R219, currentPos: 19
+currentPos: 19
+After turn R81, currentPos: 0
+currentPos: 0
+After turn L67, currentPos: 33
+currentPos: 33
+After turn L6, currentPos: 27
+currentPos: 27
+After turn R82, currentPos: 9
+currentPos: 9
+After turn R75, currentPos: 84
+currentPos: 84
+After turn R63, currentPos: 47
+currentPos: 47
+After turn L611, currentPos: 36
+currentPos: 36
+After turn R64, currentPos: 0
+currentPos: 0
+After turn L957, currentPos: 43
+currentPos: 43
+After turn L89, currentPos: 54
+currentPos: 54
+After turn R42, currentPos: 96
+currentPos: 96
+After turn R4, currentPos: 0
+currentPos: 0
+After turn L917, currentPos: 83
+currentPos: 83
+After turn L49, currentPos: 34
+currentPos: 34
+After turn R77, currentPos: 11
+currentPos: 11
+After turn L56, currentPos: 55
+currentPos: 55
+After turn L46, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn L70, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R937, currentPos: 37
+currentPos: 37
+After turn R20, currentPos: 57
+currentPos: 57
+After turn R2, currentPos: 59
+currentPos: 59
+After turn R68, currentPos: 27
+currentPos: 27
+After turn R22, currentPos: 49
+currentPos: 49
+After turn R68, currentPos: 17
+currentPos: 17
+After turn L28, currentPos: 89
+currentPos: 89
+After turn L23, currentPos: 66
+currentPos: 66
+After turn L13, currentPos: 53
+currentPos: 53
+After turn R64, currentPos: 17
+currentPos: 17
+After turn L757, currentPos: 60
+currentPos: 60
+After turn R38, currentPos: 98
+currentPos: 98
+After turn L128, currentPos: 70
+currentPos: 70
+After turn R56, currentPos: 26
+currentPos: 26
+After turn R74, currentPos: 0
+currentPos: 0
+After turn L97, currentPos: 3
+currentPos: 3
+After turn R93, currentPos: 96
+currentPos: 96
+After turn R4, currentPos: 0
+currentPos: 0
+After turn L137, currentPos: 63
+currentPos: 63
+After turn R62, currentPos: 25
+currentPos: 25
+After turn R39, currentPos: 64
+currentPos: 64
+After turn L49, currentPos: 15
+currentPos: 15
+After turn L11, currentPos: 4
+currentPos: 4
+After turn R304, currentPos: 8
+currentPos: 8
+After turn L66, currentPos: 42
+currentPos: 42
+After turn L36, currentPos: 6
+currentPos: 6
+After turn L6, currentPos: 0
+currentPos: 0
+After turn R84, currentPos: 84
+currentPos: 84
+After turn R49, currentPos: 33
+currentPos: 33
+After turn R67, currentPos: 0
+currentPos: 0
+After turn L99, currentPos: 1
+currentPos: 1
+After turn L659, currentPos: 42
+currentPos: 42
+After turn L42, currentPos: 0
+currentPos: 0
+After turn L27, currentPos: 73
+currentPos: 73
+After turn R27, currentPos: 0
+currentPos: 0
+After turn R74, currentPos: 74
+currentPos: 74
+After turn L86, currentPos: 88
+currentPos: 88
+After turn R10, currentPos: 98
+currentPos: 98
+After turn R3, currentPos: 1
+currentPos: 1
+After turn R99, currentPos: 0
+currentPos: 0
+After turn R182, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn L25, currentPos: 75
+currentPos: 75
+After turn R25, currentPos: 0
+currentPos: 0
+After turn R63, currentPos: 63
+currentPos: 63
+After turn R79, currentPos: 42
+currentPos: 42
+After turn L59, currentPos: 83
+currentPos: 83
+After turn L283, currentPos: 0
+currentPos: 0
+After turn R21, currentPos: 21
+currentPos: 21
+After turn L5, currentPos: 16
+currentPos: 16
+After turn L96, currentPos: 20
+currentPos: 20
+After turn R764, currentPos: 84
+currentPos: 84
+After turn L84, currentPos: 0
+currentPos: 0
+After turn R49, currentPos: 49
+currentPos: 49
+After turn R33, currentPos: 82
+currentPos: 82
+After turn R42, currentPos: 24
+currentPos: 24
+After turn R76, currentPos: 0
+currentPos: 0
+After turn R47, currentPos: 47
+currentPos: 47
+After turn L47, currentPos: 0
+currentPos: 0
+After turn R29, currentPos: 29
+currentPos: 29
+After turn R4, currentPos: 33
+currentPos: 33
+After turn L87, currentPos: 46
+currentPos: 46
+After turn R86, currentPos: 32
+currentPos: 32
+After turn L92, currentPos: 40
+currentPos: 40
+After turn L40, currentPos: 0
+currentPos: 0
+After turn R79, currentPos: 79
+currentPos: 79
+After turn L896, currentPos: 83
+currentPos: 83
+After turn L29, currentPos: 54
+currentPos: 54
+After turn R646, currentPos: 0
+currentPos: 0
+After turn R48, currentPos: 48
+currentPos: 48
+After turn R142, currentPos: 90
+currentPos: 90
+After turn L490, currentPos: 0
+currentPos: 0
+After turn R260, currentPos: 60
+currentPos: 60
+After turn R61, currentPos: 21
+currentPos: 21
+After turn R364, currentPos: 85
+currentPos: 85
+After turn L85, currentPos: 0
+currentPos: 0
+After turn L942, currentPos: 58
+currentPos: 58
+After turn L735, currentPos: 23
+currentPos: 23
+After turn R77, currentPos: 0
+currentPos: 0
+After turn R543, currentPos: 43
+currentPos: 43
+After turn R47, currentPos: 90
+currentPos: 90
+After turn R18, currentPos: 8
+currentPos: 8
+After turn L15, currentPos: 93
+currentPos: 93
+After turn L93, currentPos: 0
+currentPos: 0
+After turn R92, currentPos: 92
+currentPos: 92
+After turn L92, currentPos: 0
+currentPos: 0
+After turn L418, currentPos: 82
+currentPos: 82
+After turn L96, currentPos: 86
+currentPos: 86
+After turn L86, currentPos: 0
+currentPos: 0
+After turn L38, currentPos: 62
+currentPos: 62
+After turn R90, currentPos: 52
+currentPos: 52
+After turn R590, currentPos: 42
+currentPos: 42
+After turn L24, currentPos: 18
+currentPos: 18
+After turn R16, currentPos: 34
+currentPos: 34
+After turn R26, currentPos: 60
+currentPos: 60
+After turn L11, currentPos: 49
+currentPos: 49
+After turn R76, currentPos: 25
+currentPos: 25
+After turn L25, currentPos: 0
+currentPos: 0
+After turn L165, currentPos: 35
+currentPos: 35
+After turn L18, currentPos: 17
+currentPos: 17
+After turn L27, currentPos: 90
+currentPos: 90
+After turn L44, currentPos: 46
+currentPos: 46
+After turn L64, currentPos: 82
+currentPos: 82
+After turn L82, currentPos: 0
+currentPos: 0
+After turn R74, currentPos: 74
+currentPos: 74
+After turn R62, currentPos: 36
+currentPos: 36
+After turn L97, currentPos: 39
+currentPos: 39
+After turn L446, currentPos: 93
+currentPos: 93
+After turn R824, currentPos: 17
+currentPos: 17
+After turn R83, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn L6, currentPos: 21
+currentPos: 21
+After turn L21, currentPos: 0
+currentPos: 0
+After turn R489, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn L19, currentPos: 81
+currentPos: 81
+After turn L48, currentPos: 33
+currentPos: 33
+After turn R3, currentPos: 36
+currentPos: 36
+After turn L21, currentPos: 15
+currentPos: 15
+After turn L878, currentPos: 37
+currentPos: 37
+After turn L738, currentPos: 99
+currentPos: 99
+After turn R1, currentPos: 0
+currentPos: 0
+After turn L11, currentPos: 89
+currentPos: 89
+After turn R55, currentPos: 44
+currentPos: 44
+After turn L88, currentPos: 56
+currentPos: 56
+After turn R50, currentPos: 6
+currentPos: 6
+After turn R94, currentPos: 0
+currentPos: 0
+After turn L16, currentPos: 84
+currentPos: 84
+After turn L27, currentPos: 57
+currentPos: 57
+After turn R21, currentPos: 78
+currentPos: 78
+After turn L14, currentPos: 64
+currentPos: 64
+After turn L64, currentPos: 0
+currentPos: 0
+After turn R82, currentPos: 82
+currentPos: 82
+After turn L47, currentPos: 35
+currentPos: 35
+After turn L35, currentPos: 0
+currentPos: 0
+After turn R358, currentPos: 58
+currentPos: 58
+After turn R87, currentPos: 45
+currentPos: 45
+After turn L845, currentPos: 0
+currentPos: 0
+After turn R20, currentPos: 20
+currentPos: 20
+After turn R580, currentPos: 0
+currentPos: 0
+After turn L701, currentPos: 99
+currentPos: 99
+After turn L99, currentPos: 0
+currentPos: 0
+After turn L29, currentPos: 71
+currentPos: 71
+After turn L82, currentPos: 89
+currentPos: 89
+After turn L32, currentPos: 57
+currentPos: 57
+After turn L29, currentPos: 28
+currentPos: 28
+After turn L59, currentPos: 69
+currentPos: 69
+After turn R13, currentPos: 82
+currentPos: 82
+After turn L94, currentPos: 88
+currentPos: 88
+After turn R41, currentPos: 29
+currentPos: 29
+After turn L2, currentPos: 27
+currentPos: 27
+After turn R863, currentPos: 90
+currentPos: 90
+After turn R56, currentPos: 46
+currentPos: 46
+After turn L72, currentPos: 74
+currentPos: 74
+After turn L13, currentPos: 61
+currentPos: 61
+After turn R107, currentPos: 68
+currentPos: 68
+After turn L90, currentPos: 78
+currentPos: 78
+After turn L45, currentPos: 33
+currentPos: 33
+After turn L20, currentPos: 13
+currentPos: 13
+After turn L13, currentPos: 0
+currentPos: 0
+After turn R975, currentPos: 75
+currentPos: 75
+After turn L491, currentPos: 84
+currentPos: 84
+After turn L89, currentPos: 95
+currentPos: 95
+After turn R787, currentPos: 82
+currentPos: 82
+After turn R29, currentPos: 11
+currentPos: 11
+After turn R53, currentPos: 64
+currentPos: 64
+After turn R84, currentPos: 48
+currentPos: 48
+After turn L48, currentPos: 0
+currentPos: 0
+After turn R21, currentPos: 21
+currentPos: 21
+After turn L21, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn L268, currentPos: 82
+currentPos: 82
+After turn R33, currentPos: 15
+currentPos: 15
+After turn R985, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn L39, currentPos: 26
+currentPos: 26
+After turn R33, currentPos: 59
+currentPos: 59
+After turn R2, currentPos: 61
+currentPos: 61
+After turn L61, currentPos: 0
+currentPos: 0
+After turn R38, currentPos: 38
+currentPos: 38
+After turn L56, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn R142, currentPos: 0
+currentPos: 0
+After turn R34, currentPos: 34
+currentPos: 34
+After turn L5, currentPos: 29
+currentPos: 29
+After turn R24, currentPos: 53
+currentPos: 53
+After turn R37, currentPos: 90
+currentPos: 90
+After turn L90, currentPos: 0
+currentPos: 0
+After turn L959, currentPos: 41
+currentPos: 41
+After turn L41, currentPos: 0
+currentPos: 0
+After turn L84, currentPos: 16
+currentPos: 16
+After turn R187, currentPos: 3
+currentPos: 3
+After turn L674, currentPos: 29
+currentPos: 29
+After turn R71, currentPos: 0
+currentPos: 0
+After turn R408, currentPos: 8
+currentPos: 8
+After turn R666, currentPos: 74
+currentPos: 74
+After turn R26, currentPos: 0
+currentPos: 0
+After turn R281, currentPos: 81
+currentPos: 81
+After turn R13, currentPos: 94
+currentPos: 94
+After turn R348, currentPos: 42
+currentPos: 42
+After turn R258, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn L614, currentPos: 0
+currentPos: 0
+After turn L841, currentPos: 59
+currentPos: 59
+After turn L59, currentPos: 0
+currentPos: 0
+After turn L14, currentPos: 86
+currentPos: 86
+After turn R89, currentPos: 75
+currentPos: 75
+After turn L87, currentPos: 88
+currentPos: 88
+After turn L88, currentPos: 0
+currentPos: 0
+After turn R87, currentPos: 87
+currentPos: 87
+After turn L48, currentPos: 39
+currentPos: 39
+After turn L22, currentPos: 17
+currentPos: 17
+After turn R383, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn R52, currentPos: 86
+currentPos: 86
+After turn L36, currentPos: 50
+currentPos: 50
+After turn L850, currentPos: 0
+currentPos: 0
+After turn R77, currentPos: 77
+currentPos: 77
+After turn L164, currentPos: 13
+currentPos: 13
+After turn R87, currentPos: 0
+currentPos: 0
+After turn L153, currentPos: 47
+currentPos: 47
+After turn L47, currentPos: 0
+currentPos: 0
+After turn R167, currentPos: 67
+currentPos: 67
+After turn L67, currentPos: 0
+currentPos: 0
+After turn L20, currentPos: 80
+currentPos: 80
+After turn L80, currentPos: 0
+currentPos: 0
+After turn R361, currentPos: 61
+currentPos: 61
+After turn L90, currentPos: 71
+currentPos: 71
+After turn L10, currentPos: 61
+currentPos: 61
+After turn L61, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn R31, currentPos: 0
+currentPos: 0
+After turn L10, currentPos: 90
+currentPos: 90
+After turn L90, currentPos: 0
+currentPos: 0
+After turn R410, currentPos: 10
+currentPos: 10
+After turn R24, currentPos: 34
+currentPos: 34
+After turn R66, currentPos: 0
+currentPos: 0
+After turn L579, currentPos: 21
+currentPos: 21
+After turn L55, currentPos: 66
+currentPos: 66
+After turn R31, currentPos: 97
+currentPos: 97
+After turn R16, currentPos: 13
+currentPos: 13
+After turn L313, currentPos: 0
+currentPos: 0
+After turn R7, currentPos: 7
+currentPos: 7
+After turn R49, currentPos: 56
+currentPos: 56
+After turn R201, currentPos: 57
+currentPos: 57
+After turn R43, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn R66, currentPos: 0
+currentPos: 0
+After turn L83, currentPos: 17
+currentPos: 17
+After turn L17, currentPos: 0
+currentPos: 0
+After turn R73, currentPos: 73
+currentPos: 73
+After turn L545, currentPos: 28
+currentPos: 28
+After turn R99, currentPos: 27
+currentPos: 27
+After turn R85, currentPos: 12
+currentPos: 12
+After turn R74, currentPos: 86
+currentPos: 86
+After turn R14, currentPos: 0
+currentPos: 0
+After turn R34, currentPos: 34
+currentPos: 34
+After turn R920, currentPos: 54
+currentPos: 54
+After turn R46, currentPos: 0
+currentPos: 0
+After turn R48, currentPos: 48
+currentPos: 48
+After turn L48, currentPos: 0
+currentPos: 0
+After turn L80, currentPos: 20
+currentPos: 20
+After turn L99, currentPos: 21
+currentPos: 21
+After turn R21, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn R731, currentPos: 31
+currentPos: 31
+After turn R69, currentPos: 0
+currentPos: 0
+After turn R813, currentPos: 13
+currentPos: 13
+After turn R87, currentPos: 0
+currentPos: 0
+After turn L54, currentPos: 46
+currentPos: 46
+After turn R683, currentPos: 29
+currentPos: 29
+After turn R9, currentPos: 38
+currentPos: 38
+After turn L376, currentPos: 62
+currentPos: 62
+After turn L74, currentPos: 88
+currentPos: 88
+After turn L60, currentPos: 28
+currentPos: 28
+After turn L976, currentPos: 52
+currentPos: 52
+After turn R48, currentPos: 0
+currentPos: 0
+After turn R80, currentPos: 80
+currentPos: 80
+After turn L51, currentPos: 29
+currentPos: 29
+After turn L68, currentPos: 61
+currentPos: 61
+After turn L61, currentPos: 0
+currentPos: 0
+After turn R55, currentPos: 55
+currentPos: 55
+After turn R63, currentPos: 18
+currentPos: 18
+After turn L361, currentPos: 57
+currentPos: 57
+After turn L45, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn L60, currentPos: 40
+currentPos: 40
+After turn R79, currentPos: 19
+currentPos: 19
+After turn R3, currentPos: 22
+currentPos: 22
+After turn R395, currentPos: 17
+currentPos: 17
+After turn R56, currentPos: 73
+currentPos: 73
+After turn R27, currentPos: 0
+currentPos: 0
+After turn L571, currentPos: 29
+currentPos: 29
+After turn L63, currentPos: 66
+currentPos: 66
+After turn L66, currentPos: 0
+currentPos: 0
+After turn L95, currentPos: 5
+currentPos: 5
+After turn R36, currentPos: 41
+currentPos: 41
+After turn L81, currentPos: 60
+currentPos: 60
+After turn R43, currentPos: 3
+currentPos: 3
+After turn R184, currentPos: 87
+currentPos: 87
+After turn R513, currentPos: 0
+currentPos: 0
+After turn L71, currentPos: 29
+currentPos: 29
+After turn L625, currentPos: 4
+currentPos: 4
+After turn L50, currentPos: 54
+currentPos: 54
+After turn R746, currentPos: 0
+currentPos: 0
+After turn L14, currentPos: 86
+currentPos: 86
+After turn R16, currentPos: 2
+currentPos: 2
+After turn L61, currentPos: 41
+currentPos: 41
+After turn L82, currentPos: 59
+currentPos: 59
+After turn L9, currentPos: 50
+currentPos: 50
+After turn L150, currentPos: 0
+currentPos: 0
+After turn L493, currentPos: 7
+currentPos: 7
+After turn L30, currentPos: 77
+currentPos: 77
+After turn R12, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn L947, currentPos: 53
+currentPos: 53
+After turn L153, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn R76, currentPos: 90
+currentPos: 90
+After turn L714, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn R91, currentPos: 91
+currentPos: 91
+After turn L56, currentPos: 35
+currentPos: 35
+After turn L52, currentPos: 83
+currentPos: 83
+After turn R17, currentPos: 0
+currentPos: 0
+After turn L5, currentPos: 95
+currentPos: 95
+After turn L87, currentPos: 8
+currentPos: 8
+After turn L29, currentPos: 79
+currentPos: 79
+After turn L937, currentPos: 42
+currentPos: 42
+After turn L30, currentPos: 12
+currentPos: 12
+After turn R10, currentPos: 22
+currentPos: 22
+After turn R78, currentPos: 0
+currentPos: 0
+After turn L499, currentPos: 1
+currentPos: 1
+After turn R99, currentPos: 0
+currentPos: 0
+After turn L49, currentPos: 51
+currentPos: 51
+After turn L485, currentPos: 66
+currentPos: 66
+After turn R51, currentPos: 17
+currentPos: 17
+After turn R83, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn R250, currentPos: 0
+currentPos: 0
+After turn L86, currentPos: 14
+currentPos: 14
+After turn L54, currentPos: 60
+currentPos: 60
+After turn R75, currentPos: 35
+currentPos: 35
+After turn R519, currentPos: 54
+currentPos: 54
+After turn R75, currentPos: 29
+currentPos: 29
+After turn L68, currentPos: 61
+currentPos: 61
+After turn L61, currentPos: 0
+currentPos: 0
+After turn L950, currentPos: 50
+currentPos: 50
+After turn R33, currentPos: 83
+currentPos: 83
+After turn L83, currentPos: 0
+currentPos: 0
+After turn R280, currentPos: 80
+currentPos: 80
+After turn L43, currentPos: 37
+currentPos: 37
+After turn R663, currentPos: 0
+currentPos: 0
+After turn R137, currentPos: 37
+currentPos: 37
+After turn R71, currentPos: 8
+currentPos: 8
+After turn L66, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn L48, currentPos: 77
+currentPos: 77
+After turn R423, currentPos: 0
+currentPos: 0
+After turn R775, currentPos: 75
+currentPos: 75
+After turn L75, currentPos: 0
+currentPos: 0
+After turn L1, currentPos: 99
+currentPos: 99
+After turn R30, currentPos: 29
+currentPos: 29
+After turn R28, currentPos: 57
+currentPos: 57
+After turn L57, currentPos: 0
+currentPos: 0
+After turn L63, currentPos: 37
+currentPos: 37
+After turn R55, currentPos: 92
+currentPos: 92
+After turn L33, currentPos: 59
+currentPos: 59
+After turn R115, currentPos: 74
+currentPos: 74
+After turn R656, currentPos: 30
+currentPos: 30
+After turn L38, currentPos: 92
+currentPos: 92
+After turn R99, currentPos: 91
+currentPos: 91
+After turn R98, currentPos: 89
+currentPos: 89
+After turn R11, currentPos: 0
+currentPos: 0
+After turn L60, currentPos: 40
+currentPos: 40
+After turn L41, currentPos: 99
+currentPos: 99
+After turn R1, currentPos: 0
+currentPos: 0
+After turn R563, currentPos: 63
+currentPos: 63
+After turn R37, currentPos: 0
+currentPos: 0
+After turn R47, currentPos: 47
+currentPos: 47
+After turn R53, currentPos: 0
+currentPos: 0
+After turn R78, currentPos: 78
+currentPos: 78
+After turn L25, currentPos: 53
+currentPos: 53
+After turn L367, currentPos: 86
+currentPos: 86
+After turn R86, currentPos: 72
+currentPos: 72
+After turn L39, currentPos: 33
+currentPos: 33
+After turn L533, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn R13, currentPos: 74
+currentPos: 74
+After turn L20, currentPos: 54
+currentPos: 54
+After turn L9, currentPos: 45
+currentPos: 45
+After turn R180, currentPos: 25
+currentPos: 25
+After turn L97, currentPos: 28
+currentPos: 28
+After turn L705, currentPos: 23
+currentPos: 23
+After turn R97, currentPos: 20
+currentPos: 20
+After turn L820, currentPos: 0
+currentPos: 0
+After turn R66, currentPos: 66
+currentPos: 66
+After turn R30, currentPos: 96
+currentPos: 96
+After turn R33, currentPos: 29
+currentPos: 29
+After turn R776, currentPos: 5
+currentPos: 5
+After turn R892, currentPos: 97
+currentPos: 97
+After turn R92, currentPos: 89
+currentPos: 89
+After turn L7, currentPos: 82
+currentPos: 82
+After turn L41, currentPos: 41
+currentPos: 41
+After turn L41, currentPos: 0
+currentPos: 0
+After turn R894, currentPos: 94
+currentPos: 94
+After turn R6, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn L39, currentPos: 95
+currentPos: 95
+After turn L65, currentPos: 30
+currentPos: 30
+After turn R620, currentPos: 50
+currentPos: 50
+After turn R250, currentPos: 0
+currentPos: 0
+After turn R56, currentPos: 56
+currentPos: 56
+After turn R444, currentPos: 0
+currentPos: 0
+After turn L94, currentPos: 6
+currentPos: 6
+After turn R68, currentPos: 74
+currentPos: 74
+After turn L37, currentPos: 37
+currentPos: 37
+After turn R63, currentPos: 0
+currentPos: 0
+After turn R93, currentPos: 93
+currentPos: 93
+After turn R38, currentPos: 31
+currentPos: 31
+After turn R598, currentPos: 29
+currentPos: 29
+After turn L221, currentPos: 8
+currentPos: 8
+After turn R642, currentPos: 50
+currentPos: 50
+After turn L77, currentPos: 73
+currentPos: 73
+After turn L48, currentPos: 25
+currentPos: 25
+After turn L625, currentPos: 0
+currentPos: 0
+After turn L556, currentPos: 44
+currentPos: 44
+After turn R55, currentPos: 99
+currentPos: 99
+After turn L79, currentPos: 20
+currentPos: 20
+After turn R418, currentPos: 38
+currentPos: 38
+After turn R27, currentPos: 65
+currentPos: 65
+After turn R35, currentPos: 0
+currentPos: 0
+After turn R80, currentPos: 80
+currentPos: 80
+After turn L17, currentPos: 63
+currentPos: 63
+After turn R446, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn L47, currentPos: 53
+currentPos: 53
+After turn R149, currentPos: 2
+currentPos: 2
+After turn L44, currentPos: 58
+currentPos: 58
+After turn R11, currentPos: 69
+currentPos: 69
+After turn R31, currentPos: 0
+currentPos: 0
+After turn L95, currentPos: 5
+currentPos: 5
+After turn L7, currentPos: 98
+currentPos: 98
+After turn R402, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn L401, currentPos: 49
+currentPos: 49
+After turn L49, currentPos: 0
+currentPos: 0
+After turn L24, currentPos: 76
+currentPos: 76
+After turn R2, currentPos: 78
+currentPos: 78
+After turn L83, currentPos: 95
+currentPos: 95
+After turn L95, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn R54, currentPos: 66
+currentPos: 66
+After turn L3, currentPos: 63
+currentPos: 63
+After turn R37, currentPos: 0
+currentPos: 0
+After turn L33, currentPos: 67
+currentPos: 67
+After turn L467, currentPos: 0
+currentPos: 0
+After turn L8, currentPos: 92
+currentPos: 92
+After turn L92, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn L998, currentPos: 63
+currentPos: 63
+After turn L63, currentPos: 0
+currentPos: 0
+After turn R97, currentPos: 97
+currentPos: 97
+After turn L59, currentPos: 38
+currentPos: 38
+After turn R8, currentPos: 46
+currentPos: 46
+After turn L116, currentPos: 30
+currentPos: 30
+After turn L28, currentPos: 2
+currentPos: 2
+After turn R2, currentPos: 4
+currentPos: 4
+After turn R71, currentPos: 75
+currentPos: 75
+After turn R56, currentPos: 31
+currentPos: 31
+After turn R69, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L12, currentPos: 16
+currentPos: 16
+After turn R43, currentPos: 59
+currentPos: 59
+After turn L62, currentPos: 97
+currentPos: 97
+After turn L48, currentPos: 49
+currentPos: 49
+After turn R26, currentPos: 75
+currentPos: 75
+After turn R3, currentPos: 78
+currentPos: 78
+After turn L93, currentPos: 85
+currentPos: 85
+After turn L85, currentPos: 0
+currentPos: 0
+After turn L27, currentPos: 73
+currentPos: 73
+After turn L734, currentPos: 39
+currentPos: 39
+After turn L4, currentPos: 35
+currentPos: 35
+After turn R80, currentPos: 15
+currentPos: 15
+After turn L15, currentPos: 0
+currentPos: 0
+After turn L87, currentPos: 13
+currentPos: 13
+After turn L873, currentPos: 40
+currentPos: 40
+After turn L719, currentPos: 21
+currentPos: 21
+After turn L37, currentPos: 84
+currentPos: 84
+After turn L284, currentPos: 0
+currentPos: 0
+After turn R22, currentPos: 22
+currentPos: 22
+After turn R84, currentPos: 6
+currentPos: 6
+After turn R54, currentPos: 60
+currentPos: 60
+After turn L60, currentPos: 0
+currentPos: 0
+After turn L71, currentPos: 29
+currentPos: 29
+After turn L72, currentPos: 57
+currentPos: 57
+After turn L57, currentPos: 0
+currentPos: 0
+After turn R85, currentPos: 85
+currentPos: 85
+After turn R15, currentPos: 0
+currentPos: 0
+After turn R990, currentPos: 90
+currentPos: 90
+After turn R10, currentPos: 0
+currentPos: 0
+After turn R258, currentPos: 58
+currentPos: 58
+After turn R26, currentPos: 84
+currentPos: 84
+After turn R16, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn L34, currentPos: 66
+currentPos: 66
+After turn R37, currentPos: 3
+currentPos: 3
+After turn R82, currentPos: 85
+currentPos: 85
+After turn L9, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn R45, currentPos: 45
+currentPos: 45
+After turn L83, currentPos: 62
+currentPos: 62
+After turn R38, currentPos: 0
+currentPos: 0
+After turn R5, currentPos: 5
+currentPos: 5
+After turn R55, currentPos: 60
+currentPos: 60
+After turn R24, currentPos: 84
+currentPos: 84
+After turn R74, currentPos: 58
+currentPos: 58
+After turn L158, currentPos: 0
+currentPos: 0
+After turn R590, currentPos: 90
+currentPos: 90
+After turn R10, currentPos: 0
+currentPos: 0
+After turn R743, currentPos: 43
+currentPos: 43
+After turn R54, currentPos: 97
+currentPos: 97
+After turn L97, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn R66, currentPos: 54
+currentPos: 54
+After turn R46, currentPos: 0
+currentPos: 0
+After turn R18, currentPos: 18
+currentPos: 18
+After turn L5, currentPos: 13
+currentPos: 13
+After turn L913, currentPos: 0
+currentPos: 0
+After turn R985, currentPos: 85
+currentPos: 85
+After turn L85, currentPos: 0
+currentPos: 0
+After turn R3, currentPos: 3
+currentPos: 3
+After turn R97, currentPos: 0
+currentPos: 0
+After turn R45, currentPos: 45
+currentPos: 45
+After turn R415, currentPos: 60
+currentPos: 60
+After turn R142, currentPos: 2
+currentPos: 2
+After turn R40, currentPos: 42
+currentPos: 42
+After turn R89, currentPos: 31
+currentPos: 31
+After turn R42, currentPos: 73
+currentPos: 73
+After turn L96, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn L250, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn L18, currentPos: 70
+currentPos: 70
+After turn R30, currentPos: 0
+currentPos: 0
+After turn R61, currentPos: 61
+currentPos: 61
+After turn L6, currentPos: 55
+currentPos: 55
+After turn R22, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn L695, currentPos: 5
+currentPos: 5
+After turn L29, currentPos: 76
+currentPos: 76
+After turn L95, currentPos: 81
+currentPos: 81
+After turn L81, currentPos: 0
+currentPos: 0
+After turn R564, currentPos: 64
+currentPos: 64
+After turn L64, currentPos: 0
+currentPos: 0
+After turn R99, currentPos: 99
+currentPos: 99
+After turn R68, currentPos: 67
+currentPos: 67
+After turn L86, currentPos: 81
+currentPos: 81
+After turn L67, currentPos: 14
+currentPos: 14
+After turn R323, currentPos: 37
+currentPos: 37
+After turn L37, currentPos: 0
+currentPos: 0
+After turn L476, currentPos: 24
+currentPos: 24
+After turn L124, currentPos: 0
+currentPos: 0
+After turn R52, currentPos: 52
+currentPos: 52
+After turn L873, currentPos: 79
+currentPos: 79
+After turn L6, currentPos: 73
+currentPos: 73
+After turn L54, currentPos: 19
+currentPos: 19
+After turn L80, currentPos: 39
+currentPos: 39
+After turn L15, currentPos: 24
+currentPos: 24
+After turn L74, currentPos: 50
+currentPos: 50
+After turn R850, currentPos: 0
+currentPos: 0
+After turn L55, currentPos: 45
+currentPos: 45
+After turn L745, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn L324, currentPos: 88
+currentPos: 88
+After turn R12, currentPos: 0
+currentPos: 0
+After turn R257, currentPos: 57
+currentPos: 57
+After turn L33, currentPos: 24
+currentPos: 24
+After turn R1, currentPos: 25
+currentPos: 25
+After turn L24, currentPos: 1
+currentPos: 1
+After turn L1, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn L127, currentPos: 0
+currentPos: 0
+After turn L235, currentPos: 65
+currentPos: 65
+After turn R35, currentPos: 0
+currentPos: 0
+After turn R37, currentPos: 37
+currentPos: 37
+After turn R63, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn R12, currentPos: 0
+currentPos: 0
+After turn R48, currentPos: 48
+currentPos: 48
+After turn R52, currentPos: 0
+currentPos: 0
+After turn L94, currentPos: 6
+currentPos: 6
+After turn R53, currentPos: 59
+currentPos: 59
+After turn R17, currentPos: 76
+currentPos: 76
+After turn L57, currentPos: 19
+currentPos: 19
+After turn R51, currentPos: 70
+currentPos: 70
+After turn R494, currentPos: 64
+currentPos: 64
+After turn L52, currentPos: 12
+currentPos: 12
+After turn L50, currentPos: 62
+currentPos: 62
+After turn L32, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn R85, currentPos: 97
+currentPos: 97
+After turn L97, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L70, currentPos: 58
+currentPos: 58
+After turn L63, currentPos: 95
+currentPos: 95
+After turn R1, currentPos: 96
+currentPos: 96
+After turn R62, currentPos: 58
+currentPos: 58
+After turn R17, currentPos: 75
+currentPos: 75
+After turn L396, currentPos: 79
+currentPos: 79
+After turn R74, currentPos: 53
+currentPos: 53
+After turn R547, currentPos: 0
+currentPos: 0
+After turn L58, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn R42, currentPos: 42
+currentPos: 42
+After turn L42, currentPos: 0
+currentPos: 0
+After turn R64, currentPos: 64
+currentPos: 64
+After turn L34, currentPos: 30
+currentPos: 30
+After turn L430, currentPos: 0
+currentPos: 0
+After turn R287, currentPos: 87
+currentPos: 87
+After turn R78, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn L28, currentPos: 72
+currentPos: 72
+After turn R28, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn R36, currentPos: 55
+currentPos: 55
+After turn R82, currentPos: 37
+currentPos: 37
+After turn L81, currentPos: 56
+currentPos: 56
+After turn R27, currentPos: 83
+currentPos: 83
+After turn L983, currentPos: 0
+currentPos: 0
+After turn R96, currentPos: 96
+currentPos: 96
+After turn L182, currentPos: 14
+currentPos: 14
+After turn R65, currentPos: 79
+currentPos: 79
+After turn L94, currentPos: 85
+currentPos: 85
+After turn R46, currentPos: 31
+currentPos: 31
+After turn L75, currentPos: 56
+currentPos: 56
+After turn R44, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn L9, currentPos: 18
+currentPos: 18
+After turn R82, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn R62, currentPos: 0
+currentPos: 0
+After turn L19, currentPos: 81
+currentPos: 81
+After turn L749, currentPos: 32
+currentPos: 32
+After turn R17, currentPos: 49
+currentPos: 49
+After turn L49, currentPos: 0
+currentPos: 0
+After turn R70, currentPos: 70
+currentPos: 70
+After turn R1, currentPos: 71
+currentPos: 71
+After turn R29, currentPos: 0
+currentPos: 0
+After turn R85, currentPos: 85
+currentPos: 85
+After turn L675, currentPos: 10
+currentPos: 10
+After turn R90, currentPos: 0
+currentPos: 0
+After turn L55, currentPos: 45
+currentPos: 45
+After turn L568, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn L60, currentPos: 1
+currentPos: 1
+After turn L66, currentPos: 35
+currentPos: 35
+After turn L85, currentPos: 50
+currentPos: 50
+After turn L38, currentPos: 12
+currentPos: 12
+After turn R28, currentPos: 40
+currentPos: 40
+After turn R57, currentPos: 97
+currentPos: 97
+After turn L968, currentPos: 29
+currentPos: 29
+After turn R315, currentPos: 44
+currentPos: 44
+After turn L844, currentPos: 0
+currentPos: 0
+After turn R213, currentPos: 13
+currentPos: 13
+After turn R185, currentPos: 98
+currentPos: 98
+After turn R83, currentPos: 81
+currentPos: 81
+After turn L81, currentPos: 0
+currentPos: 0
+After turn R334, currentPos: 34
+currentPos: 34
+After turn L34, currentPos: 0
+currentPos: 0
+After turn L513, currentPos: 87
+currentPos: 87
+After turn R13, currentPos: 0
+currentPos: 0
+After turn L87, currentPos: 13
+currentPos: 13
+After turn L13, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn L863, currentPos: 51
+currentPos: 51
+After turn L10, currentPos: 41
+currentPos: 41
+After turn L17, currentPos: 24
+currentPos: 24
+After turn L66, currentPos: 58
+currentPos: 58
+After turn R70, currentPos: 28
+currentPos: 28
+After turn L76, currentPos: 52
+currentPos: 52
+After turn R42, currentPos: 94
+currentPos: 94
+After turn L605, currentPos: 89
+currentPos: 89
+After turn L27, currentPos: 62
+currentPos: 62
+After turn L62, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn L62, currentPos: 36
+currentPos: 36
+After turn L43, currentPos: 93
+currentPos: 93
+After turn L644, currentPos: 49
+currentPos: 49
+After turn L8, currentPos: 41
+currentPos: 41
+After turn L65, currentPos: 76
+currentPos: 76
+After turn R524, currentPos: 0
+currentPos: 0
+After turn L61, currentPos: 39
+currentPos: 39
+After turn L939, currentPos: 0
+currentPos: 0
+After turn L80, currentPos: 20
+currentPos: 20
+After turn L40, currentPos: 80
+currentPos: 80
+After turn L64, currentPos: 16
+currentPos: 16
+After turn L52, currentPos: 64
+currentPos: 64
+After turn R22, currentPos: 86
+currentPos: 86
+After turn R14, currentPos: 0
+currentPos: 0
+After turn L3, currentPos: 97
+currentPos: 97
+After turn L97, currentPos: 0
+currentPos: 0
+After turn R33, currentPos: 33
+currentPos: 33
+After turn L8, currentPos: 25
+currentPos: 25
+After turn R62, currentPos: 87
+currentPos: 87
+After turn L53, currentPos: 34
+currentPos: 34
+After turn R367, currentPos: 1
+currentPos: 1
+After turn R299, currentPos: 0
+currentPos: 0
+After turn R52, currentPos: 52
+currentPos: 52
+After turn L69, currentPos: 83
+currentPos: 83
+After turn R35, currentPos: 18
+currentPos: 18
+After turn R54, currentPos: 72
+currentPos: 72
+After turn L72, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn R76, currentPos: 34
+currentPos: 34
+After turn R69, currentPos: 3
+currentPos: 3
+After turn R43, currentPos: 46
+currentPos: 46
+After turn R40, currentPos: 86
+currentPos: 86
+After turn L79, currentPos: 7
+currentPos: 7
+After turn R93, currentPos: 0
+currentPos: 0
+After turn R213, currentPos: 13
+currentPos: 13
+After turn L997, currentPos: 16
+currentPos: 16
+After turn R84, currentPos: 0
+currentPos: 0
+After turn R80, currentPos: 80
+currentPos: 80
+After turn L80, currentPos: 0
+currentPos: 0
+After turn R97, currentPos: 97
+currentPos: 97
+After turn L36, currentPos: 61
+currentPos: 61
+After turn R39, currentPos: 0
+currentPos: 0
+After turn R8, currentPos: 8
+currentPos: 8
+After turn R77, currentPos: 85
+currentPos: 85
+After turn L685, currentPos: 0
+currentPos: 0
+After turn L502, currentPos: 98
+currentPos: 98
+After turn R95, currentPos: 93
+currentPos: 93
+After turn R832, currentPos: 25
+currentPos: 25
+After turn L46, currentPos: 79
+currentPos: 79
+After turn L62, currentPos: 17
+currentPos: 17
+After turn L217, currentPos: 0
+currentPos: 0
+After turn L4, currentPos: 96
+currentPos: 96
+After turn R74, currentPos: 70
+currentPos: 70
+After turn L9, currentPos: 61
+currentPos: 61
+After turn R66, currentPos: 27
+currentPos: 27
+After turn L27, currentPos: 0
+currentPos: 0
+After turn L738, currentPos: 62
+currentPos: 62
+After turn R57, currentPos: 19
+currentPos: 19
+After turn L19, currentPos: 0
+currentPos: 0
+After turn R711, currentPos: 11
+currentPos: 11
+After turn R89, currentPos: 0
+currentPos: 0
+After turn R31, currentPos: 31
+currentPos: 31
+After turn R69, currentPos: 0
+currentPos: 0
+After turn R53, currentPos: 53
+currentPos: 53
+After turn L45, currentPos: 8
+currentPos: 8
+After turn R40, currentPos: 48
+currentPos: 48
+After turn R67, currentPos: 15
+currentPos: 15
+After turn L67, currentPos: 48
+currentPos: 48
+After turn L46, currentPos: 2
+currentPos: 2
+After turn R39, currentPos: 41
+currentPos: 41
+After turn L41, currentPos: 0
+currentPos: 0
+After turn R33, currentPos: 33
+currentPos: 33
+After turn L56, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn R41, currentPos: 41
+currentPos: 41
+After turn R41, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn R69, currentPos: 69
+currentPos: 69
+After turn L22, currentPos: 47
+currentPos: 47
+After turn R44, currentPos: 91
+currentPos: 91
+After turn L91, currentPos: 0
+currentPos: 0
+After turn L15, currentPos: 85
+currentPos: 85
+After turn R17, currentPos: 2
+currentPos: 2
+After turn R41, currentPos: 43
+currentPos: 43
+After turn L43, currentPos: 0
+currentPos: 0
+After turn L83, currentPos: 17
+currentPos: 17
+After turn L28, currentPos: 89
+currentPos: 89
+After turn L28, currentPos: 61
+currentPos: 61
+After turn R91, currentPos: 52
+currentPos: 52
+After turn L652, currentPos: 0
+currentPos: 0
+After turn R31, currentPos: 31
+currentPos: 31
+After turn L2, currentPos: 29
+currentPos: 29
+After turn R85, currentPos: 14
+currentPos: 14
+After turn R96, currentPos: 10
+currentPos: 10
+After turn L21, currentPos: 89
+currentPos: 89
+After turn R88, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn L84, currentPos: 16
+currentPos: 16
+After turn R75, currentPos: 91
+currentPos: 91
+After turn L25, currentPos: 66
+currentPos: 66
+After turn R16, currentPos: 82
+currentPos: 82
+After turn L28, currentPos: 54
+currentPos: 54
+After turn R88, currentPos: 42
+currentPos: 42
+After turn R89, currentPos: 31
+currentPos: 31
+After turn R94, currentPos: 25
+currentPos: 25
+After turn R875, currentPos: 0
+currentPos: 0
+After turn L68, currentPos: 32
+currentPos: 32
+After turn L32, currentPos: 0
+currentPos: 0
+After turn R3, currentPos: 3
+currentPos: 3
+After turn R97, currentPos: 0
+currentPos: 0
+After turn R53, currentPos: 53
+currentPos: 53
+After turn R12, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn L1, currentPos: 99
+currentPos: 99
+After turn R503, currentPos: 2
+currentPos: 2
+After turn L2, currentPos: 0
+currentPos: 0
+After turn R114, currentPos: 14
+currentPos: 14
+After turn L14, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R11, currentPos: 20
+currentPos: 20
+After turn R79, currentPos: 99
+currentPos: 99
+After turn L402, currentPos: 97
+currentPos: 97
+After turn R97, currentPos: 94
+currentPos: 94
+After turn L708, currentPos: 86
+currentPos: 86
+After turn L286, currentPos: 0
+currentPos: 0
+After turn R94, currentPos: 94
+currentPos: 94
+After turn L27, currentPos: 67
+currentPos: 67
+After turn R68, currentPos: 35
+currentPos: 35
+After turn L11, currentPos: 24
+currentPos: 24
+After turn R56, currentPos: 80
+currentPos: 80
+After turn R80, currentPos: 60
+currentPos: 60
+After turn L68, currentPos: 92
+currentPos: 92
+After turn L34, currentPos: 58
+currentPos: 58
+After turn R42, currentPos: 0
+currentPos: 0
+After turn L789, currentPos: 11
+currentPos: 11
+After turn L89, currentPos: 22
+currentPos: 22
+After turn R78, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn R12, currentPos: 24
+currentPos: 24
+After turn R942, currentPos: 66
+currentPos: 66
+After turn R44, currentPos: 10
+currentPos: 10
+After turn R16, currentPos: 26
+currentPos: 26
+After turn R74, currentPos: 0
+currentPos: 0
+After turn L27, currentPos: 73
+currentPos: 73
+After turn R54, currentPos: 27
+currentPos: 27
+After turn L13, currentPos: 14
+currentPos: 14
+After turn R86, currentPos: 0
+currentPos: 0
+After turn L49, currentPos: 51
+currentPos: 51
+After turn R83, currentPos: 34
+currentPos: 34
+After turn L134, currentPos: 0
+currentPos: 0
+After turn R9, currentPos: 9
+currentPos: 9
+After turn L48, currentPos: 61
+currentPos: 61
+After turn L28, currentPos: 33
+currentPos: 33
+After turn R80, currentPos: 13
+currentPos: 13
+After turn R87, currentPos: 0
+currentPos: 0
+After turn R83, currentPos: 83
+currentPos: 83
+After turn L857, currentPos: 26
+currentPos: 26
+After turn L67, currentPos: 59
+currentPos: 59
+After turn L33, currentPos: 26
+currentPos: 26
+After turn R54, currentPos: 80
+currentPos: 80
+After turn L50, currentPos: 30
+currentPos: 30
+After turn R170, currentPos: 0
+currentPos: 0
+After turn R75, currentPos: 75
+currentPos: 75
+After turn R18, currentPos: 93
+currentPos: 93
+After turn L31, currentPos: 62
+currentPos: 62
+After turn L27, currentPos: 35
+currentPos: 35
+After turn R65, currentPos: 0
+currentPos: 0
+After turn R42, currentPos: 42
+currentPos: 42
+After turn L27, currentPos: 15
+currentPos: 15
+After turn R308, currentPos: 23
+currentPos: 23
+After turn R77, currentPos: 0
+currentPos: 0
+After turn R761, currentPos: 61
+currentPos: 61
+After turn L83, currentPos: 78
+currentPos: 78
+After turn R522, currentPos: 0
+currentPos: 0
+After turn R87, currentPos: 87
+currentPos: 87
+After turn L53, currentPos: 34
+currentPos: 34
+After turn R66, currentPos: 0
+currentPos: 0
+After turn R18, currentPos: 18
+currentPos: 18
+After turn L865, currentPos: 53
+currentPos: 53
+After turn R47, currentPos: 0
+currentPos: 0
+After turn R519, currentPos: 19
+currentPos: 19
+After turn R73, currentPos: 92
+currentPos: 92
+After turn L45, currentPos: 47
+currentPos: 47
+After turn L47, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn R75, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn R48, currentPos: 48
+currentPos: 48
+After turn L56, currentPos: 92
+currentPos: 92
+After turn R46, currentPos: 38
+currentPos: 38
+After turn R851, currentPos: 89
+currentPos: 89
+After turn L266, currentPos: 23
+currentPos: 23
+After turn L23, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn L597, currentPos: 3
+currentPos: 3
+After turn L39, currentPos: 64
+currentPos: 64
+After turn L511, currentPos: 53
+currentPos: 53
+After turn R47, currentPos: 0
+currentPos: 0
+After turn L69, currentPos: 31
+currentPos: 31
+After turn R878, currentPos: 9
+currentPos: 9
+After turn R17, currentPos: 26
+currentPos: 26
+After turn R74, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn L89, currentPos: 38
+currentPos: 38
+After turn L81, currentPos: 57
+currentPos: 57
+After turn R37, currentPos: 94
+currentPos: 94
+After turn R706, currentPos: 0
+currentPos: 0
+After turn R698, currentPos: 98
+currentPos: 98
+After turn R76, currentPos: 74
+currentPos: 74
+After turn L87, currentPos: 87
+currentPos: 87
+After turn L97, currentPos: 90
+currentPos: 90
+After turn L9, currentPos: 81
+currentPos: 81
+After turn L183, currentPos: 98
+currentPos: 98
+After turn L98, currentPos: 0
+currentPos: 0
+After turn R78, currentPos: 78
+currentPos: 78
+After turn L35, currentPos: 43
+currentPos: 43
+After turn L37, currentPos: 6
+currentPos: 6
+After turn L96, currentPos: 10
+currentPos: 10
+After turn R99, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn L52, currentPos: 48
+currentPos: 48
+After turn L48, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn R8, currentPos: 46
+currentPos: 46
+After turn R57, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn L92, currentPos: 96
+currentPos: 96
+After turn L96, currentPos: 0
+currentPos: 0
+After turn L44, currentPos: 56
+currentPos: 56
+After turn R799, currentPos: 55
+currentPos: 55
+After turn L55, currentPos: 0
+currentPos: 0
+After turn R57, currentPos: 57
+currentPos: 57
+After turn L95, currentPos: 62
+currentPos: 62
+After turn R538, currentPos: 0
+currentPos: 0
+After turn L24, currentPos: 76
+currentPos: 76
+After turn R70, currentPos: 46
+currentPos: 46
+After turn R54, currentPos: 0
+currentPos: 0
+After turn L7, currentPos: 93
+currentPos: 93
+After turn L912, currentPos: 81
+currentPos: 81
+After turn L81, currentPos: 0
+currentPos: 0
+After turn L68, currentPos: 32
+currentPos: 32
+After turn L25, currentPos: 7
+currentPos: 7
+After turn L32, currentPos: 75
+currentPos: 75
+After turn L194, currentPos: 81
+currentPos: 81
+After turn R63, currentPos: 44
+currentPos: 44
+After turn L89, currentPos: 55
+currentPos: 55
+After turn R45, currentPos: 0
+currentPos: 0
+After turn L1, currentPos: 99
+currentPos: 99
+After turn R1, currentPos: 0
+currentPos: 0
+After turn R23, currentPos: 23
+currentPos: 23
+After turn R46, currentPos: 69
+currentPos: 69
+After turn R131, currentPos: 0
+currentPos: 0
+After turn R86, currentPos: 86
+currentPos: 86
+After turn R14, currentPos: 0
+currentPos: 0
+After turn L60, currentPos: 40
+currentPos: 40
+After turn R25, currentPos: 65
+currentPos: 65
+After turn L705, currentPos: 60
+currentPos: 60
+After turn R22, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn R51, currentPos: 51
+currentPos: 51
+After turn R38, currentPos: 89
+currentPos: 89
+After turn R63, currentPos: 52
+currentPos: 52
+After turn R48, currentPos: 0
+currentPos: 0
+After turn L278, currentPos: 22
+currentPos: 22
+After turn L24, currentPos: 98
+currentPos: 98
+After turn R9, currentPos: 7
+currentPos: 7
+After turn R96, currentPos: 3
+currentPos: 3
+After turn R497, currentPos: 0
+currentPos: 0
+After turn L723, currentPos: 77
+currentPos: 77
+After turn L17, currentPos: 60
+currentPos: 60
+After turn R23, currentPos: 83
+currentPos: 83
+After turn R17, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn L63, currentPos: 49
+currentPos: 49
+After turn R51, currentPos: 0
+currentPos: 0
+After turn R90, currentPos: 90
+currentPos: 90
+After turn R93, currentPos: 83
+currentPos: 83
+After turn L83, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn R86, currentPos: 67
+currentPos: 67
+After turn R217, currentPos: 84
+currentPos: 84
+After turn R16, currentPos: 0
+currentPos: 0
+After turn R440, currentPos: 40
+currentPos: 40
+After turn L57, currentPos: 83
+currentPos: 83
+After turn L526, currentPos: 57
+currentPos: 57
+After turn R27, currentPos: 84
+currentPos: 84
+After turn R6, currentPos: 90
+currentPos: 90
+After turn R38, currentPos: 28
+currentPos: 28
+After turn L29, currentPos: 99
+currentPos: 99
+After turn L33, currentPos: 66
+currentPos: 66
+After turn R86, currentPos: 52
+currentPos: 52
+After turn L230, currentPos: 22
+currentPos: 22
+After turn L142, currentPos: 80
+currentPos: 80
+After turn R38, currentPos: 18
+currentPos: 18
+After turn L618, currentPos: 0
+currentPos: 0
+After turn R98, currentPos: 98
+currentPos: 98
+After turn R795, currentPos: 93
+currentPos: 93
+After turn R43, currentPos: 36
+currentPos: 36
+After turn L71, currentPos: 65
+currentPos: 65
+After turn L94, currentPos: 71
+currentPos: 71
+After turn L71, currentPos: 0
+currentPos: 0
+After turn R56, currentPos: 56
+currentPos: 56
+After turn L72, currentPos: 84
+currentPos: 84
+After turn L73, currentPos: 11
+currentPos: 11
+After turn L28, currentPos: 83
+currentPos: 83
+After turn R97, currentPos: 80
+currentPos: 80
+After turn R23, currentPos: 3
+currentPos: 3
+After turn R97, currentPos: 0
+currentPos: 0
+After turn R434, currentPos: 34
+currentPos: 34
+After turn L85, currentPos: 49
+currentPos: 49
+After turn R439, currentPos: 88
+currentPos: 88
+After turn L88, currentPos: 0
+currentPos: 0
+After turn R60, currentPos: 60
+currentPos: 60
+After turn R43, currentPos: 3
+currentPos: 3
+After turn R97, currentPos: 0
+currentPos: 0
+After turn L454, currentPos: 46
+currentPos: 46
+After turn L21, currentPos: 25
+currentPos: 25
+After turn L5, currentPos: 20
+currentPos: 20
+After turn L20, currentPos: 0
+currentPos: 0
+After turn L22, currentPos: 78
+currentPos: 78
+After turn L75, currentPos: 3
+currentPos: 3
+After turn R555, currentPos: 58
+currentPos: 58
+After turn R58, currentPos: 16
+currentPos: 16
+After turn R30, currentPos: 46
+currentPos: 46
+After turn L207, currentPos: 39
+currentPos: 39
+After turn L89, currentPos: 50
+currentPos: 50
+After turn L50, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R74, currentPos: 83
+currentPos: 83
+After turn L53, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R365, currentPos: 65
+currentPos: 65
+After turn R83, currentPos: 48
+currentPos: 48
+After turn L965, currentPos: 83
+currentPos: 83
+After turn L39, currentPos: 44
+currentPos: 44
+After turn L507, currentPos: 37
+currentPos: 37
+After turn R36, currentPos: 73
+currentPos: 73
+After turn L73, currentPos: 0
+currentPos: 0
+After turn L88, currentPos: 12
+currentPos: 12
+After turn R88, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn R93, currentPos: 67
+currentPos: 67
+After turn R33, currentPos: 0
+currentPos: 0
+After turn L85, currentPos: 15
+currentPos: 15
+After turn R218, currentPos: 33
+currentPos: 33
+After turn R23, currentPos: 56
+currentPos: 56
+After turn R764, currentPos: 20
+currentPos: 20
+After turn L20, currentPos: 0
+currentPos: 0
+After turn R69, currentPos: 69
+currentPos: 69
+After turn R16, currentPos: 85
+currentPos: 85
+After turn L62, currentPos: 23
+currentPos: 23
+After turn R110, currentPos: 33
+currentPos: 33
+After turn L43, currentPos: 90
+currentPos: 90
+After turn L90, currentPos: 0
+currentPos: 0
+After turn R32, currentPos: 32
+currentPos: 32
+After turn L34, currentPos: 98
+currentPos: 98
+After turn L14, currentPos: 84
+currentPos: 84
+After turn R20, currentPos: 4
+currentPos: 4
+After turn R96, currentPos: 0
+currentPos: 0
+After turn R76, currentPos: 76
+currentPos: 76
+After turn R35, currentPos: 11
+currentPos: 11
+After turn L67, currentPos: 44
+currentPos: 44
+After turn L44, currentPos: 0
+currentPos: 0
+After turn L61, currentPos: 39
+currentPos: 39
+After turn R166, currentPos: 5
+currentPos: 5
+After turn L5, currentPos: 0
+currentPos: 0
+After turn R95, currentPos: 95
+currentPos: 95
+After turn R6, currentPos: 1
+currentPos: 1
+After turn R99, currentPos: 0
+currentPos: 0
+After turn R94, currentPos: 94
+currentPos: 94
+After turn R10, currentPos: 4
+currentPos: 4
+After turn R82, currentPos: 86
+currentPos: 86
+After turn R87, currentPos: 73
+currentPos: 73
+After turn L54, currentPos: 19
+currentPos: 19
+After turn R881, currentPos: 0
+currentPos: 0
+After turn L10, currentPos: 90
+currentPos: 90
+After turn L429, currentPos: 61
+currentPos: 61
+After turn R575, currentPos: 36
+currentPos: 36
+After turn L74, currentPos: 62
+currentPos: 62
+After turn L62, currentPos: 0
+currentPos: 0
+After turn L36, currentPos: 64
+currentPos: 64
+After turn R77, currentPos: 41
+currentPos: 41
+After turn R58, currentPos: 99
+currentPos: 99
+After turn L54, currentPos: 45
+currentPos: 45
+After turn L56, currentPos: 89
+currentPos: 89
+After turn R811, currentPos: 0
+currentPos: 0
+After turn R63, currentPos: 63
+currentPos: 63
+After turn R74, currentPos: 37
+currentPos: 37
+After turn R73, currentPos: 10
+currentPos: 10
+After turn R89, currentPos: 99
+currentPos: 99
+After turn L28, currentPos: 71
+currentPos: 71
+After turn R29, currentPos: 0
+currentPos: 0
+After turn R99, currentPos: 99
+currentPos: 99
+After turn R301, currentPos: 0
+currentPos: 0
+After turn R13, currentPos: 13
+currentPos: 13
+After turn L56, currentPos: 57
+currentPos: 57
+After turn L57, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L58, currentPos: 13
+currentPos: 13
+After turn L60, currentPos: 53
+currentPos: 53
+After turn R47, currentPos: 0
+currentPos: 0
+After turn L14, currentPos: 86
+currentPos: 86
+After turn R30, currentPos: 16
+currentPos: 16
+After turn L416, currentPos: 0
+currentPos: 0
+After turn R38, currentPos: 38
+currentPos: 38
+After turn R86, currentPos: 24
+currentPos: 24
+After turn R628, currentPos: 52
+currentPos: 52
+After turn L52, currentPos: 0
+currentPos: 0
+After turn R26, currentPos: 26
+currentPos: 26
+After turn L83, currentPos: 43
+currentPos: 43
+After turn L65, currentPos: 78
+currentPos: 78
+After turn R51, currentPos: 29
+currentPos: 29
+After turn L31, currentPos: 98
+currentPos: 98
+After turn R2, currentPos: 0
+currentPos: 0
+After turn R38, currentPos: 38
+currentPos: 38
+After turn R25, currentPos: 63
+currentPos: 63
+After turn R37, currentPos: 0
+currentPos: 0
+After turn L75, currentPos: 25
+currentPos: 25
+After turn R93, currentPos: 18
+currentPos: 18
+After turn R82, currentPos: 0
+currentPos: 0
+After turn R79, currentPos: 79
+currentPos: 79
+After turn L86, currentPos: 93
+currentPos: 93
+After turn L50, currentPos: 43
+currentPos: 43
+After turn R761, currentPos: 4
+currentPos: 4
+After turn L51, currentPos: 53
+currentPos: 53
+After turn R47, currentPos: 0
+currentPos: 0
+After turn R572, currentPos: 72
+currentPos: 72
+After turn R28, currentPos: 0
+currentPos: 0
+After turn L20, currentPos: 80
+currentPos: 80
+After turn L33, currentPos: 47
+currentPos: 47
+After turn R227, currentPos: 74
+currentPos: 74
+After turn R19, currentPos: 93
+currentPos: 93
+After turn R7, currentPos: 0
+currentPos: 0
+After turn L7, currentPos: 93
+currentPos: 93
+After turn L93, currentPos: 0
+currentPos: 0
+After turn R387, currentPos: 87
+currentPos: 87
+After turn L87, currentPos: 0
+currentPos: 0
+After turn R107, currentPos: 7
+currentPos: 7
+After turn R93, currentPos: 0
+currentPos: 0
+After turn L94, currentPos: 6
+currentPos: 6
+After turn R66, currentPos: 72
+currentPos: 72
+After turn R28, currentPos: 0
+currentPos: 0
+After turn L86, currentPos: 14
+currentPos: 14
+After turn L71, currentPos: 43
+currentPos: 43
+After turn R69, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn R8, currentPos: 8
+currentPos: 8
+After turn L299, currentPos: 9
+currentPos: 9
+After turn L9, currentPos: 0
+currentPos: 0
+After turn L55, currentPos: 45
+currentPos: 45
+After turn R91, currentPos: 36
+currentPos: 36
+After turn L408, currentPos: 28
+currentPos: 28
+After turn R22, currentPos: 50
+currentPos: 50
+After turn R19, currentPos: 69
+currentPos: 69
+After turn R94, currentPos: 63
+currentPos: 63
+After turn R49, currentPos: 12
+currentPos: 12
+After turn L36, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn L42, currentPos: 58
+currentPos: 58
+After turn L30, currentPos: 28
+currentPos: 28
+After turn L22, currentPos: 6
+currentPos: 6
+After turn R170, currentPos: 76
+currentPos: 76
+After turn L44, currentPos: 32
+currentPos: 32
+After turn R301, currentPos: 33
+currentPos: 33
+After turn R551, currentPos: 84
+currentPos: 84
+After turn R857, currentPos: 41
+currentPos: 41
+After turn R59, currentPos: 0
+currentPos: 0
+After turn L9, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn R26, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn L69, currentPos: 92
+currentPos: 92
+After turn R84, currentPos: 76
+currentPos: 76
+After turn R67, currentPos: 43
+currentPos: 43
+After turn L89, currentPos: 54
+currentPos: 54
+After turn R35, currentPos: 89
+currentPos: 89
+After turn L14, currentPos: 75
+currentPos: 75
+After turn L48, currentPos: 27
+currentPos: 27
+After turn L527, currentPos: 0
+currentPos: 0
+After turn R64, currentPos: 64
+currentPos: 64
+After turn R52, currentPos: 16
+currentPos: 16
+After turn R75, currentPos: 91
+currentPos: 91
+After turn R27, currentPos: 18
+currentPos: 18
+After turn R70, currentPos: 88
+currentPos: 88
+After turn L68, currentPos: 20
+currentPos: 20
+After turn R31, currentPos: 51
+currentPos: 51
+After turn R12, currentPos: 63
+currentPos: 63
+After turn L614, currentPos: 49
+currentPos: 49
+After turn R7, currentPos: 56
+currentPos: 56
+After turn R944, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn L7, currentPos: 31
+currentPos: 31
+After turn L17, currentPos: 14
+currentPos: 14
+After turn R63, currentPos: 77
+currentPos: 77
+After turn L32, currentPos: 45
+currentPos: 45
+After turn L37, currentPos: 8
+currentPos: 8
+After turn L8, currentPos: 0
+currentPos: 0
+After turn R56, currentPos: 56
+currentPos: 56
+After turn L2, currentPos: 54
+currentPos: 54
+After turn L254, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn R19, currentPos: 84
+currentPos: 84
+After turn R95, currentPos: 79
+currentPos: 79
+After turn R21, currentPos: 0
+currentPos: 0
+After turn R62, currentPos: 62
+currentPos: 62
+After turn L20, currentPos: 42
+currentPos: 42
+After turn R840, currentPos: 82
+currentPos: 82
+After turn R46, currentPos: 28
+currentPos: 28
+After turn R72, currentPos: 0
+currentPos: 0
+After turn L70, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn L290, currentPos: 10
+currentPos: 10
+After turn L973, currentPos: 37
+currentPos: 37
+After turn L37, currentPos: 0
+currentPos: 0
+After turn L50, currentPos: 50
+currentPos: 50
+After turn R51, currentPos: 1
+currentPos: 1
+After turn L70, currentPos: 31
+currentPos: 31
+After turn R21, currentPos: 52
+currentPos: 52
+After turn L52, currentPos: 0
+currentPos: 0
+After turn R181, currentPos: 81
+currentPos: 81
+After turn L92, currentPos: 89
+currentPos: 89
+After turn R4, currentPos: 93
+currentPos: 93
+After turn R765, currentPos: 58
+currentPos: 58
+After turn R46, currentPos: 4
+currentPos: 4
+After turn L31, currentPos: 73
+currentPos: 73
+After turn L92, currentPos: 81
+currentPos: 81
+After turn R923, currentPos: 4
+currentPos: 4
+After turn R196, currentPos: 0
+currentPos: 0
+After turn R35, currentPos: 35
+currentPos: 35
+After turn R68, currentPos: 3
+currentPos: 3
+After turn R45, currentPos: 48
+currentPos: 48
+After turn R52, currentPos: 0
+currentPos: 0
+After turn L22, currentPos: 78
+currentPos: 78
+After turn L78, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn R55, currentPos: 32
+currentPos: 32
+After turn R405, currentPos: 37
+currentPos: 37
+After turn R63, currentPos: 0
+currentPos: 0
+After turn R20, currentPos: 20
+currentPos: 20
+After turn L71, currentPos: 49
+currentPos: 49
+After turn R94, currentPos: 43
+currentPos: 43
+After turn R18, currentPos: 61
+currentPos: 61
+After turn R53, currentPos: 14
+currentPos: 14
+After turn L14, currentPos: 0
+currentPos: 0
+After turn R708, currentPos: 8
+currentPos: 8
+After turn R43, currentPos: 51
+currentPos: 51
+After turn R60, currentPos: 11
+currentPos: 11
+After turn R92, currentPos: 3
+currentPos: 3
+After turn R97, currentPos: 0
+currentPos: 0
+After turn R372, currentPos: 72
+currentPos: 72
+After turn L72, currentPos: 0
+currentPos: 0
+After turn L38, currentPos: 62
+currentPos: 62
+After turn L38, currentPos: 24
+currentPos: 24
+After turn L59, currentPos: 65
+currentPos: 65
+After turn R7, currentPos: 72
+currentPos: 72
+After turn R28, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn R9, currentPos: 90
+currentPos: 90
+After turn L90, currentPos: 0
+currentPos: 0
+After turn L624, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn L13, currentPos: 87
+currentPos: 87
+After turn L87, currentPos: 0
+currentPos: 0
+After turn R454, currentPos: 54
+currentPos: 54
+After turn R617, currentPos: 71
+currentPos: 71
+After turn R27, currentPos: 98
+currentPos: 98
+After turn R70, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn L196, currentPos: 4
+currentPos: 4
+After turn R96, currentPos: 0
+currentPos: 0
+After turn R6, currentPos: 6
+currentPos: 6
+After turn R88, currentPos: 94
+currentPos: 94
+After turn R221, currentPos: 15
+currentPos: 15
+After turn R540, currentPos: 55
+currentPos: 55
+After turn R64, currentPos: 19
+currentPos: 19
+After turn L79, currentPos: 40
+currentPos: 40
+After turn R56, currentPos: 96
+currentPos: 96
+After turn R304, currentPos: 0
+currentPos: 0
+After turn R87, currentPos: 87
+currentPos: 87
+After turn R67, currentPos: 54
+currentPos: 54
+After turn L66, currentPos: 88
+currentPos: 88
+After turn L4, currentPos: 84
+currentPos: 84
+After turn L384, currentPos: 0
+currentPos: 0
+After turn R73, currentPos: 73
+currentPos: 73
+After turn L30, currentPos: 43
+currentPos: 43
+After turn L43, currentPos: 0
+currentPos: 0
+After turn R52, currentPos: 52
+currentPos: 52
+After turn L53, currentPos: 99
+currentPos: 99
+After turn L182, currentPos: 17
+currentPos: 17
+After turn R883, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn R607, currentPos: 26
+currentPos: 26
+After turn L96, currentPos: 30
+currentPos: 30
+After turn R4, currentPos: 34
+currentPos: 34
+After turn R620, currentPos: 54
+currentPos: 54
+After turn L619, currentPos: 35
+currentPos: 35
+After turn L88, currentPos: 47
+currentPos: 47
+After turn R95, currentPos: 42
+currentPos: 42
+After turn L42, currentPos: 0
+currentPos: 0
+After turn L97, currentPos: 3
+currentPos: 3
+After turn R64, currentPos: 67
+currentPos: 67
+After turn R69, currentPos: 36
+currentPos: 36
+After turn R699, currentPos: 35
+currentPos: 35
+After turn L35, currentPos: 0
+currentPos: 0
+After turn L569, currentPos: 31
+currentPos: 31
+After turn L31, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn R77, currentPos: 4
+currentPos: 4
+After turn L4, currentPos: 0
+currentPos: 0
+After turn L45, currentPos: 55
+currentPos: 55
+After turn R87, currentPos: 42
+currentPos: 42
+After turn R644, currentPos: 86
+currentPos: 86
+After turn L985, currentPos: 1
+currentPos: 1
+After turn R11, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn L55, currentPos: 45
+currentPos: 45
+After turn L923, currentPos: 22
+currentPos: 22
+After turn L22, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn R61, currentPos: 26
+currentPos: 26
+After turn R135, currentPos: 61
+currentPos: 61
+After turn L51, currentPos: 10
+currentPos: 10
+After turn R90, currentPos: 0
+currentPos: 0
+After turn R72, currentPos: 72
+currentPos: 72
+After turn L261, currentPos: 11
+currentPos: 11
+After turn R20, currentPos: 31
+currentPos: 31
+After turn R97, currentPos: 28
+currentPos: 28
+After turn R72, currentPos: 0
+currentPos: 0
+After turn L4, currentPos: 96
+currentPos: 96
+After turn R4, currentPos: 0
+currentPos: 0
+After turn R49, currentPos: 49
+currentPos: 49
+After turn L49, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn L4, currentPos: 23
+currentPos: 23
+After turn L10, currentPos: 13
+currentPos: 13
+After turn R854, currentPos: 67
+currentPos: 67
+After turn R533, currentPos: 0
+currentPos: 0
+After turn R15, currentPos: 15
+currentPos: 15
+After turn R85, currentPos: 0
+currentPos: 0
+After turn L6, currentPos: 94
+currentPos: 94
+After turn R52, currentPos: 46
+currentPos: 46
+After turn L28, currentPos: 18
+currentPos: 18
+After turn R273, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn L735, currentPos: 65
+currentPos: 65
+After turn R35, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn L88, currentPos: 28
+currentPos: 28
+After turn L848, currentPos: 80
+currentPos: 80
+After turn L80, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn R38, currentPos: 65
+currentPos: 65
+After turn R971, currentPos: 36
+currentPos: 36
+After turn R66, currentPos: 2
+currentPos: 2
+After turn R178, currentPos: 80
+currentPos: 80
+After turn R12, currentPos: 92
+currentPos: 92
+After turn R2, currentPos: 94
+currentPos: 94
+After turn R71, currentPos: 65
+currentPos: 65
+After turn L25, currentPos: 40
+currentPos: 40
+After turn R977, currentPos: 17
+currentPos: 17
+After turn R491, currentPos: 8
+currentPos: 8
+After turn R74, currentPos: 82
+currentPos: 82
+After turn L40, currentPos: 42
+currentPos: 42
+After turn L91, currentPos: 51
+currentPos: 51
+After turn L51, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn L38, currentPos: 0
+currentPos: 0
+After turn L56, currentPos: 44
+currentPos: 44
+After turn R65, currentPos: 9
+currentPos: 9
+After turn R14, currentPos: 23
+currentPos: 23
+After turn L74, currentPos: 49
+currentPos: 49
+After turn L91, currentPos: 58
+currentPos: 58
+After turn L657, currentPos: 1
+currentPos: 1
+After turn R98, currentPos: 99
+currentPos: 99
+After turn L99, currentPos: 0
+currentPos: 0
+After turn R66, currentPos: 66
+currentPos: 66
+After turn L18, currentPos: 48
+currentPos: 48
+After turn L749, currentPos: 99
+currentPos: 99
+After turn R1, currentPos: 0
+currentPos: 0
+After turn R46, currentPos: 46
+currentPos: 46
+After turn R54, currentPos: 0
+currentPos: 0
+After turn R53, currentPos: 53
+currentPos: 53
+After turn L53, currentPos: 0
+currentPos: 0
+After turn R8, currentPos: 8
+currentPos: 8
+After turn L8, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn L63, currentPos: 71
+currentPos: 71
+After turn L90, currentPos: 81
+currentPos: 81
+After turn L585, currentPos: 96
+currentPos: 96
+After turn L19, currentPos: 77
+currentPos: 77
+After turn L8, currentPos: 69
+currentPos: 69
+After turn L889, currentPos: 80
+currentPos: 80
+After turn L38, currentPos: 42
+currentPos: 42
+After turn R74, currentPos: 16
+currentPos: 16
+After turn R284, currentPos: 0
+currentPos: 0
+After turn R17, currentPos: 17
+currentPos: 17
+After turn L73, currentPos: 44
+currentPos: 44
+After turn L844, currentPos: 0
+currentPos: 0
+After turn L9, currentPos: 91
+currentPos: 91
+After turn R29, currentPos: 20
+currentPos: 20
+After turn R98, currentPos: 18
+currentPos: 18
+After turn L509, currentPos: 9
+currentPos: 9
+After turn L65, currentPos: 44
+currentPos: 44
+After turn L30, currentPos: 14
+currentPos: 14
+After turn L14, currentPos: 0
+currentPos: 0
+After turn R76, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn R5, currentPos: 5
+currentPos: 5
+After turn R5, currentPos: 10
+currentPos: 10
+After turn R790, currentPos: 0
+currentPos: 0
+After turn R954, currentPos: 54
+currentPos: 54
+After turn L84, currentPos: 70
+currentPos: 70
+After turn R24, currentPos: 94
+currentPos: 94
+After turn L6, currentPos: 88
+currentPos: 88
+After turn R11, currentPos: 99
+currentPos: 99
+After turn L99, currentPos: 0
+currentPos: 0
+After turn L88, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn R21, currentPos: 21
+currentPos: 21
+After turn L21, currentPos: 0
+currentPos: 0
+After turn L53, currentPos: 47
+currentPos: 47
+After turn R53, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn L37, currentPos: 44
+currentPos: 44
+After turn L62, currentPos: 82
+currentPos: 82
+After turn L276, currentPos: 6
+currentPos: 6
+After turn R21, currentPos: 27
+currentPos: 27
+After turn R73, currentPos: 0
+currentPos: 0
+After turn R30, currentPos: 30
+currentPos: 30
+After turn L19, currentPos: 11
+currentPos: 11
+After turn L611, currentPos: 0
+currentPos: 0
+After turn L20, currentPos: 80
+currentPos: 80
+After turn R20, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L50, currentPos: 21
+currentPos: 21
+After turn R379, currentPos: 0
+currentPos: 0
+After turn R72, currentPos: 72
+currentPos: 72
+After turn R92, currentPos: 64
+currentPos: 64
+After turn R36, currentPos: 0
+currentPos: 0
+After turn R2, currentPos: 2
+currentPos: 2
+After turn L147, currentPos: 55
+currentPos: 55
+After turn L64, currentPos: 91
+currentPos: 91
+After turn R709, currentPos: 0
+currentPos: 0
+After turn R6, currentPos: 6
+currentPos: 6
+After turn L60, currentPos: 46
+currentPos: 46
+After turn R67, currentPos: 13
+currentPos: 13
+After turn L2, currentPos: 11
+currentPos: 11
+After turn R62, currentPos: 73
+currentPos: 73
+After turn R79, currentPos: 52
+currentPos: 52
+After turn L52, currentPos: 0
+currentPos: 0
+After turn L661, currentPos: 39
+currentPos: 39
+After turn L39, currentPos: 0
+currentPos: 0
+After turn R39, currentPos: 39
+currentPos: 39
+After turn R61, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn L82, currentPos: 99
+currentPos: 99
+After turn R12, currentPos: 11
+currentPos: 11
+After turn L21, currentPos: 90
+currentPos: 90
+After turn L76, currentPos: 14
+currentPos: 14
+After turn L72, currentPos: 42
+currentPos: 42
+After turn R39, currentPos: 81
+currentPos: 81
+After turn L14, currentPos: 67
+currentPos: 67
+After turn R47, currentPos: 14
+currentPos: 14
+After turn R186, currentPos: 0
+currentPos: 0
+After turn R88, currentPos: 88
+currentPos: 88
+After turn L488, currentPos: 0
+currentPos: 0
+After turn L11, currentPos: 89
+currentPos: 89
+After turn L635, currentPos: 54
+currentPos: 54
+After turn L97, currentPos: 57
+currentPos: 57
+After turn L24, currentPos: 33
+currentPos: 33
+After turn L33, currentPos: 0
+currentPos: 0
+After turn R75, currentPos: 75
+currentPos: 75
+After turn L46, currentPos: 29
+currentPos: 29
+After turn L87, currentPos: 42
+currentPos: 42
+After turn L623, currentPos: 19
+currentPos: 19
+After turn L43, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn L22, currentPos: 78
+currentPos: 78
+After turn L43, currentPos: 35
+currentPos: 35
+After turn L762, currentPos: 73
+currentPos: 73
+After turn L39, currentPos: 34
+currentPos: 34
+After turn L342, currentPos: 92
+currentPos: 92
+After turn L63, currentPos: 29
+currentPos: 29
+After turn L52, currentPos: 77
+currentPos: 77
+After turn R3, currentPos: 80
+currentPos: 80
+After turn R13, currentPos: 93
+currentPos: 93
+After turn R938, currentPos: 31
+currentPos: 31
+After turn L31, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L2, currentPos: 26
+currentPos: 26
+After turn R6, currentPos: 32
+currentPos: 32
+After turn R70, currentPos: 2
+currentPos: 2
+After turn L2, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn R19, currentPos: 0
+currentPos: 0
+After turn R705, currentPos: 5
+currentPos: 5
+After turn R162, currentPos: 67
+currentPos: 67
+After turn L61, currentPos: 6
+currentPos: 6
+After turn R83, currentPos: 89
+currentPos: 89
+After turn L41, currentPos: 48
+currentPos: 48
+After turn L512, currentPos: 36
+currentPos: 36
+After turn R29, currentPos: 65
+currentPos: 65
+After turn R35, currentPos: 0
+currentPos: 0
+After turn L93, currentPos: 7
+currentPos: 7
+After turn L45, currentPos: 62
+currentPos: 62
+After turn R538, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn L749, currentPos: 51
+currentPos: 51
+After turn R86, currentPos: 37
+currentPos: 37
+After turn L337, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn R56, currentPos: 25
+currentPos: 25
+After turn L65, currentPos: 60
+currentPos: 60
+After turn R40, currentPos: 0
+currentPos: 0
+After turn R22, currentPos: 22
+currentPos: 22
+After turn R23, currentPos: 45
+currentPos: 45
+After turn L503, currentPos: 42
+currentPos: 42
+After turn R99, currentPos: 41
+currentPos: 41
+After turn R9, currentPos: 50
+currentPos: 50
+After turn R24, currentPos: 74
+currentPos: 74
+After turn R26, currentPos: 0
+currentPos: 0
+After turn L40, currentPos: 60
+currentPos: 60
+After turn L52, currentPos: 8
+currentPos: 8
+After turn R92, currentPos: 0
+currentPos: 0
+After turn L73, currentPos: 27
+currentPos: 27
+After turn R802, currentPos: 29
+currentPos: 29
+After turn R71, currentPos: 0
+currentPos: 0
+After turn L9, currentPos: 91
+currentPos: 91
+After turn L31, currentPos: 60
+currentPos: 60
+After turn R842, currentPos: 2
+currentPos: 2
+After turn L2, currentPos: 0
+currentPos: 0
+After turn R8, currentPos: 8
+currentPos: 8
+After turn L8, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn L41, currentPos: 71
+currentPos: 71
+After turn L73, currentPos: 98
+currentPos: 98
+After turn L13, currentPos: 85
+currentPos: 85
+After turn R15, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn R73, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn L44, currentPos: 30
+currentPos: 30
+After turn L705, currentPos: 25
+currentPos: 25
+After turn R35, currentPos: 60
+currentPos: 60
+After turn R40, currentPos: 0
+currentPos: 0
+After turn R80, currentPos: 80
+currentPos: 80
+After turn R90, currentPos: 70
+currentPos: 70
+After turn R630, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn R37, currentPos: 65
+currentPos: 65
+After turn R96, currentPos: 61
+currentPos: 61
+After turn R39, currentPos: 0
+currentPos: 0
+After turn R267, currentPos: 67
+currentPos: 67
+After turn L83, currentPos: 84
+currentPos: 84
+After turn L917, currentPos: 67
+currentPos: 67
+After turn R33, currentPos: 0
+currentPos: 0
+After turn R36, currentPos: 36
+currentPos: 36
+After turn L16, currentPos: 20
+currentPos: 20
+After turn R66, currentPos: 86
+currentPos: 86
+After turn L96, currentPos: 90
+currentPos: 90
+After turn R28, currentPos: 18
+currentPos: 18
+After turn R5, currentPos: 23
+currentPos: 23
+After turn R71, currentPos: 94
+currentPos: 94
+After turn R903, currentPos: 97
+currentPos: 97
+After turn L65, currentPos: 32
+currentPos: 32
+After turn L83, currentPos: 49
+currentPos: 49
+After turn L61, currentPos: 88
+currentPos: 88
+After turn R84, currentPos: 72
+currentPos: 72
+After turn L26, currentPos: 46
+currentPos: 46
+After turn R637, currentPos: 83
+currentPos: 83
+After turn R72, currentPos: 55
+currentPos: 55
+After turn R26, currentPos: 81
+currentPos: 81
+After turn R44, currentPos: 25
+currentPos: 25
+After turn L22, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn L83, currentPos: 17
+currentPos: 17
+After turn R11, currentPos: 28
+currentPos: 28
+After turn L69, currentPos: 59
+currentPos: 59
+After turn L94, currentPos: 65
+currentPos: 65
+After turn R35, currentPos: 0
+currentPos: 0
+After turn R710, currentPos: 10
+currentPos: 10
+After turn R90, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn R626, currentPos: 38
+currentPos: 38
+After turn R17, currentPos: 55
+currentPos: 55
+After turn L88, currentPos: 67
+currentPos: 67
+After turn R33, currentPos: 0
+currentPos: 0
+After turn R196, currentPos: 96
+currentPos: 96
+After turn L96, currentPos: 0
+currentPos: 0
+After turn L553, currentPos: 47
+currentPos: 47
+After turn R53, currentPos: 0
+currentPos: 0
+After turn R20, currentPos: 20
+currentPos: 20
+After turn L26, currentPos: 94
+currentPos: 94
+After turn R633, currentPos: 27
+currentPos: 27
+After turn R93, currentPos: 20
+currentPos: 20
+After turn L849, currentPos: 71
+currentPos: 71
+After turn L54, currentPos: 17
+currentPos: 17
+After turn L68, currentPos: 49
+currentPos: 49
+After turn L54, currentPos: 95
+currentPos: 95
+After turn R5, currentPos: 0
+currentPos: 0
+After turn R63, currentPos: 63
+currentPos: 63
+After turn L63, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L76, currentPos: 95
+currentPos: 95
+After turn L995, currentPos: 0
+currentPos: 0
+After turn R69, currentPos: 69
+currentPos: 69
+After turn R31, currentPos: 0
+currentPos: 0
+After turn L60, currentPos: 40
+currentPos: 40
+After turn L94, currentPos: 46
+currentPos: 46
+After turn L630, currentPos: 16
+currentPos: 16
+After turn R756, currentPos: 72
+currentPos: 72
+After turn R79, currentPos: 51
+currentPos: 51
+After turn L18, currentPos: 33
+currentPos: 33
+After turn R71, currentPos: 4
+currentPos: 4
+After turn R96, currentPos: 0
+currentPos: 0
+After turn R86, currentPos: 86
+currentPos: 86
+After turn L21, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn R497, currentPos: 97
+currentPos: 97
+After turn L797, currentPos: 0
+currentPos: 0
+After turn R86, currentPos: 86
+currentPos: 86
+After turn R414, currentPos: 0
+currentPos: 0
+After turn L87, currentPos: 13
+currentPos: 13
+After turn L63, currentPos: 50
+currentPos: 50
+After turn L50, currentPos: 0
+currentPos: 0
+After turn L13, currentPos: 87
+currentPos: 87
+After turn L476, currentPos: 11
+currentPos: 11
+After turn L67, currentPos: 44
+currentPos: 44
+After turn R56, currentPos: 0
+currentPos: 0
+After turn R11, currentPos: 11
+currentPos: 11
+After turn L3, currentPos: 8
+currentPos: 8
+After turn L60, currentPos: 48
+currentPos: 48
+After turn R50, currentPos: 98
+currentPos: 98
+After turn L66, currentPos: 32
+currentPos: 32
+After turn L3, currentPos: 29
+currentPos: 29
+After turn R68, currentPos: 97
+currentPos: 97
+After turn L45, currentPos: 52
+currentPos: 52
+After turn R48, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn R19, currentPos: 0
+currentPos: 0
+After turn L89, currentPos: 11
+currentPos: 11
+After turn L1, currentPos: 10
+currentPos: 10
+After turn R90, currentPos: 0
+currentPos: 0
+After turn L8, currentPos: 92
+currentPos: 92
+After turn L92, currentPos: 0
+currentPos: 0
+After turn R3, currentPos: 3
+currentPos: 3
+After turn L403, currentPos: 0
+currentPos: 0
+After turn L37, currentPos: 63
+currentPos: 63
+After turn R61, currentPos: 24
+currentPos: 24
+After turn R84, currentPos: 8
+currentPos: 8
+After turn L11, currentPos: 97
+currentPos: 97
+After turn L36, currentPos: 61
+currentPos: 61
+After turn L23, currentPos: 38
+currentPos: 38
+After turn L54, currentPos: 84
+currentPos: 84
+After turn L61, currentPos: 23
+currentPos: 23
+After turn R708, currentPos: 31
+currentPos: 31
+After turn R22, currentPos: 53
+currentPos: 53
+After turn R47, currentPos: 0
+currentPos: 0
+After turn L44, currentPos: 56
+currentPos: 56
+After turn R25, currentPos: 81
+currentPos: 81
+After turn L68, currentPos: 13
+currentPos: 13
+After turn R72, currentPos: 85
+currentPos: 85
+After turn L21, currentPos: 64
+currentPos: 64
+After turn L932, currentPos: 32
+currentPos: 32
+After turn R68, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R78, currentPos: 87
+currentPos: 87
+After turn R69, currentPos: 56
+currentPos: 56
+After turn R69, currentPos: 25
+currentPos: 25
+After turn L19, currentPos: 6
+currentPos: 6
+After turn R3, currentPos: 9
+currentPos: 9
+After turn L559, currentPos: 50
+currentPos: 50
+After turn L98, currentPos: 52
+currentPos: 52
+After turn R531, currentPos: 83
+currentPos: 83
+After turn R4, currentPos: 87
+currentPos: 87
+After turn R213, currentPos: 0
+currentPos: 0
+After turn L68, currentPos: 32
+currentPos: 32
+After turn R87, currentPos: 19
+currentPos: 19
+After turn L67, currentPos: 52
+currentPos: 52
+After turn L35, currentPos: 17
+currentPos: 17
+After turn R23, currentPos: 40
+currentPos: 40
+After turn R632, currentPos: 72
+currentPos: 72
+After turn R243, currentPos: 15
+currentPos: 15
+After turn R85, currentPos: 0
+currentPos: 0
+After turn L37, currentPos: 63
+currentPos: 63
+After turn R60, currentPos: 23
+currentPos: 23
+After turn R814, currentPos: 37
+currentPos: 37
+After turn L36, currentPos: 1
+currentPos: 1
+After turn R52, currentPos: 53
+currentPos: 53
+After turn L1, currentPos: 52
+currentPos: 52
+After turn L32, currentPos: 20
+currentPos: 20
+After turn L20, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R91, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn L50, currentPos: 0
+currentPos: 0
+After turn L358, currentPos: 42
+currentPos: 42
+After turn L42, currentPos: 0
+currentPos: 0
+After turn L79, currentPos: 21
+currentPos: 21
+After turn R921, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn L520, currentPos: 80
+currentPos: 80
+After turn L291, currentPos: 89
+currentPos: 89
+After turn R61, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn L49, currentPos: 51
+currentPos: 51
+After turn L3, currentPos: 48
+currentPos: 48
+After turn L599, currentPos: 49
+currentPos: 49
+After turn R88, currentPos: 37
+currentPos: 37
+After turn R33, currentPos: 70
+currentPos: 70
+After turn R30, currentPos: 0
+currentPos: 0
+After turn R616, currentPos: 16
+currentPos: 16
+After turn L47, currentPos: 69
+currentPos: 69
+After turn L52, currentPos: 17
+currentPos: 17
+After turn L14, currentPos: 3
+currentPos: 3
+After turn R66, currentPos: 69
+currentPos: 69
+After turn L90, currentPos: 79
+currentPos: 79
+After turn R8, currentPos: 87
+currentPos: 87
+After turn R13, currentPos: 0
+currentPos: 0
+After turn L915, currentPos: 85
+currentPos: 85
+After turn R27, currentPos: 12
+currentPos: 12
+After turn L75, currentPos: 37
+currentPos: 37
+After turn L37, currentPos: 0
+currentPos: 0
+After turn L73, currentPos: 27
+currentPos: 27
+After turn R40, currentPos: 67
+currentPos: 67
+After turn L67, currentPos: 0
+currentPos: 0
+After turn R8, currentPos: 8
+currentPos: 8
+After turn R392, currentPos: 0
+currentPos: 0
+After turn R77, currentPos: 77
+currentPos: 77
+After turn L577, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn L719, currentPos: 0
+currentPos: 0
+After turn L56, currentPos: 44
+currentPos: 44
+After turn L53, currentPos: 91
+currentPos: 91
+After turn L59, currentPos: 32
+currentPos: 32
+After turn R68, currentPos: 0
+currentPos: 0
+After turn L25, currentPos: 75
+currentPos: 75
+After turn R43, currentPos: 18
+currentPos: 18
+After turn L18, currentPos: 0
+currentPos: 0
+After turn L54, currentPos: 46
+currentPos: 46
+After turn R19, currentPos: 65
+currentPos: 65
+After turn L53, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn L391, currentPos: 9
+currentPos: 9
+After turn R8, currentPos: 17
+currentPos: 17
+After turn L79, currentPos: 38
+currentPos: 38
+After turn R37, currentPos: 75
+currentPos: 75
+After turn L75, currentPos: 0
+currentPos: 0
+After turn L96, currentPos: 4
+currentPos: 4
+After turn R496, currentPos: 0
+currentPos: 0
+After turn L70, currentPos: 30
+currentPos: 30
+After turn R23, currentPos: 53
+currentPos: 53
+After turn L85, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn L39, currentPos: 26
+currentPos: 26
+After turn R174, currentPos: 0
+currentPos: 0
+After turn R75, currentPos: 75
+currentPos: 75
+After turn R25, currentPos: 0
+currentPos: 0
+After turn R90, currentPos: 90
+currentPos: 90
+After turn L42, currentPos: 48
+currentPos: 48
+After turn L578, currentPos: 70
+currentPos: 70
+After turn R830, currentPos: 0
+currentPos: 0
+After turn L9, currentPos: 91
+currentPos: 91
+After turn R1, currentPos: 92
+currentPos: 92
+After turn R92, currentPos: 84
+currentPos: 84
+After turn L484, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L728, currentPos: 0
+currentPos: 0
+After turn R7, currentPos: 7
+currentPos: 7
+After turn R96, currentPos: 3
+currentPos: 3
+After turn R97, currentPos: 0
+currentPos: 0
+After turn L72, currentPos: 28
+currentPos: 28
+After turn L19, currentPos: 9
+currentPos: 9
+After turn L25, currentPos: 84
+currentPos: 84
+After turn L284, currentPos: 0
+currentPos: 0
+After turn L59, currentPos: 41
+currentPos: 41
+After turn R71, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn L25, currentPos: 75
+currentPos: 75
+After turn L475, currentPos: 0
+currentPos: 0
+After turn L44, currentPos: 56
+currentPos: 56
+After turn R978, currentPos: 34
+currentPos: 34
+After turn L16, currentPos: 18
+currentPos: 18
+After turn L18, currentPos: 0
+currentPos: 0
+After turn R95, currentPos: 95
+currentPos: 95
+After turn L13, currentPos: 82
+currentPos: 82
+After turn L81, currentPos: 1
+currentPos: 1
+After turn R599, currentPos: 0
+currentPos: 0
+After turn L20, currentPos: 80
+currentPos: 80
+After turn L80, currentPos: 0
+currentPos: 0
+After turn L327, currentPos: 73
+currentPos: 73
+After turn R447, currentPos: 20
+currentPos: 20
+After turn L20, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L328, currentPos: 0
+currentPos: 0
+After turn R17, currentPos: 17
+currentPos: 17
+After turn L17, currentPos: 0
+currentPos: 0
+After turn R823, currentPos: 23
+currentPos: 23
+After turn L35, currentPos: 88
+currentPos: 88
+After turn R67, currentPos: 55
+currentPos: 55
+After turn L55, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn R2, currentPos: 0
+currentPos: 0
+After turn R5, currentPos: 5
+currentPos: 5
+After turn R76, currentPos: 81
+currentPos: 81
+After turn L781, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn R63, currentPos: 77
+currentPos: 77
+After turn L32, currentPos: 45
+currentPos: 45
+After turn L45, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn R53, currentPos: 27
+currentPos: 27
+After turn R573, currentPos: 0
+currentPos: 0
+After turn R54, currentPos: 54
+currentPos: 54
+After turn L10, currentPos: 44
+currentPos: 44
+After turn L56, currentPos: 88
+currentPos: 88
+After turn L288, currentPos: 0
+currentPos: 0
+After turn L51, currentPos: 49
+currentPos: 49
+After turn L81, currentPos: 68
+currentPos: 68
+After turn L68, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn R78, currentPos: 39
+currentPos: 39
+After turn R9, currentPos: 48
+currentPos: 48
+After turn L48, currentPos: 0
+currentPos: 0
+After turn R49, currentPos: 49
+currentPos: 49
+After turn R69, currentPos: 18
+currentPos: 18
+After turn R69, currentPos: 87
+currentPos: 87
+After turn R79, currentPos: 66
+currentPos: 66
+After turn R56, currentPos: 22
+currentPos: 22
+After turn R97, currentPos: 19
+currentPos: 19
+After turn R23, currentPos: 42
+currentPos: 42
+After turn L70, currentPos: 72
+currentPos: 72
+After turn R786, currentPos: 58
+currentPos: 58
+After turn L57, currentPos: 1
+currentPos: 1
+After turn L79, currentPos: 22
+currentPos: 22
+After turn R78, currentPos: 0
+currentPos: 0
+After turn L27, currentPos: 73
+currentPos: 73
+After turn R27, currentPos: 0
+currentPos: 0
+After turn L68, currentPos: 32
+currentPos: 32
+After turn R383, currentPos: 15
+currentPos: 15
+After turn L82, currentPos: 33
+currentPos: 33
+After turn L12, currentPos: 21
+currentPos: 21
+After turn R79, currentPos: 0
+currentPos: 0
+After turn L76, currentPos: 24
+currentPos: 24
+After turn L83, currentPos: 41
+currentPos: 41
+After turn L41, currentPos: 0
+currentPos: 0
+After turn R553, currentPos: 53
+currentPos: 53
+After turn R247, currentPos: 0
+currentPos: 0
+After turn R76, currentPos: 76
+currentPos: 76
+After turn L89, currentPos: 87
+currentPos: 87
+After turn R10, currentPos: 97
+currentPos: 97
+After turn L97, currentPos: 0
+currentPos: 0
+After turn L412, currentPos: 88
+currentPos: 88
+After turn L70, currentPos: 18
+currentPos: 18
+After turn R112, currentPos: 30
+currentPos: 30
+After turn L14, currentPos: 16
+currentPos: 16
+After turn L16, currentPos: 0
+currentPos: 0
+After turn R37, currentPos: 37
+currentPos: 37
+After turn R39, currentPos: 76
+currentPos: 76
+After turn R82, currentPos: 58
+currentPos: 58
+After turn L27, currentPos: 31
+currentPos: 31
+After turn R98, currentPos: 29
+currentPos: 29
+After turn L530, currentPos: 99
+currentPos: 99
+After turn R332, currentPos: 31
+currentPos: 31
+After turn L31, currentPos: 0
+currentPos: 0
+After turn R63, currentPos: 63
+currentPos: 63
+After turn L1, currentPos: 62
+currentPos: 62
+After turn L76, currentPos: 86
+currentPos: 86
+After turn R32, currentPos: 18
+currentPos: 18
+After turn R45, currentPos: 63
+currentPos: 63
+After turn L30, currentPos: 33
+currentPos: 33
+After turn L40, currentPos: 93
+currentPos: 93
+After turn R307, currentPos: 0
+currentPos: 0
+After turn L8, currentPos: 92
+currentPos: 92
+After turn R8, currentPos: 0
+currentPos: 0
+After turn R667, currentPos: 67
+currentPos: 67
+After turn L35, currentPos: 32
+currentPos: 32
+After turn R39, currentPos: 71
+currentPos: 71
+After turn R29, currentPos: 0
+currentPos: 0
+After turn L167, currentPos: 33
+currentPos: 33
+After turn R43, currentPos: 76
+currentPos: 76
+After turn L83, currentPos: 93
+currentPos: 93
+After turn R7, currentPos: 0
+currentPos: 0
+After turn R11, currentPos: 11
+currentPos: 11
+After turn R38, currentPos: 49
+currentPos: 49
+After turn R39, currentPos: 88
+currentPos: 88
+After turn L88, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn R24, currentPos: 58
+currentPos: 58
+After turn L47, currentPos: 11
+currentPos: 11
+After turn L4, currentPos: 7
+currentPos: 7
+After turn L43, currentPos: 64
+currentPos: 64
+After turn L34, currentPos: 30
+currentPos: 30
+After turn L59, currentPos: 71
+currentPos: 71
+After turn R860, currentPos: 31
+currentPos: 31
+After turn R69, currentPos: 0
+currentPos: 0
+After turn L3, currentPos: 97
+currentPos: 97
+After turn R3, currentPos: 0
+currentPos: 0
+After turn L22, currentPos: 78
+currentPos: 78
+After turn L78, currentPos: 0
+currentPos: 0
+After turn L93, currentPos: 7
+currentPos: 7
+After turn R93, currentPos: 0
+currentPos: 0
+After turn R30, currentPos: 30
+currentPos: 30
+After turn R70, currentPos: 0
+currentPos: 0
+After turn R643, currentPos: 43
+currentPos: 43
+After turn L43, currentPos: 0
+currentPos: 0
+After turn R79, currentPos: 79
+currentPos: 79
+After turn L35, currentPos: 44
+currentPos: 44
+After turn R8, currentPos: 52
+currentPos: 52
+After turn L98, currentPos: 54
+currentPos: 54
+After turn R769, currentPos: 23
+currentPos: 23
+After turn L42, currentPos: 81
+currentPos: 81
+After turn L81, currentPos: 0
+currentPos: 0
+After turn R99, currentPos: 99
+currentPos: 99
+After turn L76, currentPos: 23
+currentPos: 23
+After turn L533, currentPos: 90
+currentPos: 90
+After turn L51, currentPos: 39
+currentPos: 39
+After turn R61, currentPos: 0
+currentPos: 0
+After turn R8, currentPos: 8
+currentPos: 8
+After turn R492, currentPos: 0
+currentPos: 0
+After turn R47, currentPos: 47
+currentPos: 47
+After turn L747, currentPos: 0
+currentPos: 0
+After turn L15, currentPos: 85
+currentPos: 85
+After turn L85, currentPos: 0
+currentPos: 0
+After turn L99, currentPos: 1
+currentPos: 1
+After turn R99, currentPos: 0
+currentPos: 0
+After turn R297, currentPos: 97
+currentPos: 97
+After turn R55, currentPos: 52
+currentPos: 52
+After turn R48, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn R42, currentPos: 0
+currentPos: 0
+After turn L963, currentPos: 37
+currentPos: 37
+After turn L250, currentPos: 87
+currentPos: 87
+After turn R13, currentPos: 0
+currentPos: 0
+After turn R38, currentPos: 38
+currentPos: 38
+After turn R892, currentPos: 30
+currentPos: 30
+After turn L30, currentPos: 0
+currentPos: 0
+After turn R427, currentPos: 27
+currentPos: 27
+After turn R578, currentPos: 5
+currentPos: 5
+After turn L8, currentPos: 97
+currentPos: 97
+After turn L21, currentPos: 76
+currentPos: 76
+After turn R458, currentPos: 34
+currentPos: 34
+After turn L12, currentPos: 22
+currentPos: 22
+After turn R1, currentPos: 23
+currentPos: 23
+After turn L423, currentPos: 0
+currentPos: 0
+After turn L40, currentPos: 60
+currentPos: 60
+After turn R40, currentPos: 0
+currentPos: 0
+After turn R885, currentPos: 85
+currentPos: 85
+After turn L57, currentPos: 28
+currentPos: 28
+After turn L695, currentPos: 33
+currentPos: 33
+After turn L99, currentPos: 34
+currentPos: 34
+After turn L34, currentPos: 0
+currentPos: 0
+After turn L55, currentPos: 45
+currentPos: 45
+After turn R55, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn L88, currentPos: 86
+currentPos: 86
+After turn L86, currentPos: 0
+currentPos: 0
+After turn L85, currentPos: 15
+currentPos: 15
+After turn L15, currentPos: 0
+currentPos: 0
+After turn L5, currentPos: 95
+currentPos: 95
+After turn L86, currentPos: 9
+currentPos: 9
+After turn R801, currentPos: 10
+currentPos: 10
+After turn L10, currentPos: 0
+currentPos: 0
+After turn R30, currentPos: 30
+currentPos: 30
+After turn L810, currentPos: 20
+currentPos: 20
+After turn L346, currentPos: 74
+currentPos: 74
+After turn R49, currentPos: 23
+currentPos: 23
+After turn L23, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn R919, currentPos: 84
+currentPos: 84
+After turn R920, currentPos: 4
+currentPos: 4
+After turn L126, currentPos: 78
+currentPos: 78
+After turn R7, currentPos: 85
+currentPos: 85
+After turn L438, currentPos: 47
+currentPos: 47
+After turn R999, currentPos: 46
+currentPos: 46
+After turn R53, currentPos: 99
+currentPos: 99
+After turn L99, currentPos: 0
+currentPos: 0
+After turn L305, currentPos: 95
+currentPos: 95
+After turn L897, currentPos: 98
+currentPos: 98
+After turn L98, currentPos: 0
+currentPos: 0
+After turn R669, currentPos: 69
+currentPos: 69
+After turn R31, currentPos: 0
+currentPos: 0
+After turn R68, currentPos: 68
+currentPos: 68
+After turn L28, currentPos: 40
+currentPos: 40
+After turn R116, currentPos: 56
+currentPos: 56
+After turn L41, currentPos: 15
+currentPos: 15
+After turn R132, currentPos: 47
+currentPos: 47
+After turn R671, currentPos: 18
+currentPos: 18
+After turn L3, currentPos: 15
+currentPos: 15
+After turn R85, currentPos: 0
+currentPos: 0
+After turn L515, currentPos: 85
+currentPos: 85
+After turn L49, currentPos: 36
+currentPos: 36
+After turn R64, currentPos: 0
+currentPos: 0
+After turn L253, currentPos: 47
+currentPos: 47
+After turn L93, currentPos: 54
+currentPos: 54
+After turn R46, currentPos: 0
+currentPos: 0
+After turn R48, currentPos: 48
+currentPos: 48
+After turn R53, currentPos: 1
+currentPos: 1
+After turn R47, currentPos: 48
+currentPos: 48
+After turn R79, currentPos: 27
+currentPos: 27
+After turn R231, currentPos: 58
+currentPos: 58
+After turn R83, currentPos: 41
+currentPos: 41
+After turn R91, currentPos: 32
+currentPos: 32
+After turn L832, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L79, currentPos: 49
+currentPos: 49
+After turn L95, currentPos: 54
+currentPos: 54
+After turn L44, currentPos: 10
+currentPos: 10
+After turn L88, currentPos: 22
+currentPos: 22
+After turn R61, currentPos: 83
+currentPos: 83
+After turn R22, currentPos: 5
+currentPos: 5
+After turn L5, currentPos: 0
+currentPos: 0
+After turn R3, currentPos: 3
+currentPos: 3
+After turn L403, currentPos: 0
+currentPos: 0
+After turn L18, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn L440, currentPos: 60
+currentPos: 60
+After turn L84, currentPos: 76
+currentPos: 76
+After turn L76, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn R33, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn L16, currentPos: 84
+currentPos: 84
+After turn L6, currentPos: 78
+currentPos: 78
+After turn L36, currentPos: 42
+currentPos: 42
+After turn L42, currentPos: 0
+currentPos: 0
+After turn R971, currentPos: 71
+currentPos: 71
+After turn R89, currentPos: 60
+currentPos: 60
+After turn R13, currentPos: 73
+currentPos: 73
+After turn R17, currentPos: 90
+currentPos: 90
+After turn L625, currentPos: 65
+currentPos: 65
+After turn R35, currentPos: 0
+currentPos: 0
+After turn R608, currentPos: 8
+currentPos: 8
+After turn L54, currentPos: 54
+currentPos: 54
+After turn R46, currentPos: 0
+currentPos: 0
+After turn L57, currentPos: 43
+currentPos: 43
+After turn L749, currentPos: 94
+currentPos: 94
+After turn R26, currentPos: 20
+currentPos: 20
+After turn R7, currentPos: 27
+currentPos: 27
+After turn L827, currentPos: 0
+currentPos: 0
+After turn L54, currentPos: 46
+currentPos: 46
+After turn L46, currentPos: 0
+currentPos: 0
+After turn R328, currentPos: 28
+currentPos: 28
+After turn R43, currentPos: 71
+currentPos: 71
+After turn L71, currentPos: 0
+currentPos: 0
+After turn L482, currentPos: 18
+currentPos: 18
+After turn R87, currentPos: 5
+currentPos: 5
+After turn R14, currentPos: 19
+currentPos: 19
+After turn R81, currentPos: 0
+currentPos: 0
+After turn R91, currentPos: 91
+currentPos: 91
+After turn L34, currentPos: 57
+currentPos: 57
+After turn L479, currentPos: 78
+currentPos: 78
+After turn R75, currentPos: 53
+currentPos: 53
+After turn L53, currentPos: 0
+currentPos: 0
+After turn R903, currentPos: 3
+currentPos: 3
+After turn L33, currentPos: 70
+currentPos: 70
+After turn L82, currentPos: 88
+currentPos: 88
+After turn L26, currentPos: 62
+currentPos: 62
+After turn L81, currentPos: 81
+currentPos: 81
+After turn R19, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn L5, currentPos: 53
+currentPos: 53
+After turn R45, currentPos: 98
+currentPos: 98
+After turn R39, currentPos: 37
+currentPos: 37
+After turn L237, currentPos: 0
+currentPos: 0
+After turn R13, currentPos: 13
+currentPos: 13
+After turn R65, currentPos: 78
+currentPos: 78
+After turn R70, currentPos: 48
+currentPos: 48
+After turn R79, currentPos: 27
+currentPos: 27
+After turn L43, currentPos: 84
+currentPos: 84
+After turn L84, currentPos: 0
+currentPos: 0
+After turn R86, currentPos: 86
+currentPos: 86
+After turn L996, currentPos: 90
+currentPos: 90
+After turn R10, currentPos: 0
+currentPos: 0
+After turn L24, currentPos: 76
+currentPos: 76
+After turn R45, currentPos: 21
+currentPos: 21
+After turn L321, currentPos: 0
+currentPos: 0
+After turn L32, currentPos: 68
+currentPos: 68
+After turn R432, currentPos: 0
+currentPos: 0
+After turn L85, currentPos: 15
+currentPos: 15
+After turn R82, currentPos: 97
+currentPos: 97
+After turn R70, currentPos: 67
+currentPos: 67
+After turn L48, currentPos: 19
+currentPos: 19
+After turn R81, currentPos: 0
+currentPos: 0
+After turn R40, currentPos: 40
+currentPos: 40
+After turn L46, currentPos: 94
+currentPos: 94
+After turn L94, currentPos: 0
+currentPos: 0
+After turn R54, currentPos: 54
+currentPos: 54
+After turn R46, currentPos: 0
+currentPos: 0
+After turn R46, currentPos: 46
+currentPos: 46
+After turn L46, currentPos: 0
+currentPos: 0
+After turn R4, currentPos: 4
+currentPos: 4
+After turn L1, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L6, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn R72, currentPos: 72
+currentPos: 72
+After turn R979, currentPos: 51
+currentPos: 51
+After turn R519, currentPos: 70
+currentPos: 70
+After turn R29, currentPos: 99
+currentPos: 99
+After turn R244, currentPos: 43
+currentPos: 43
+After turn R57, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn R44, currentPos: 13
+currentPos: 13
+After turn R31, currentPos: 44
+currentPos: 44
+After turn L63, currentPos: 81
+currentPos: 81
+After turn L73, currentPos: 8
+currentPos: 8
+After turn L50, currentPos: 58
+currentPos: 58
+After turn R42, currentPos: 0
+currentPos: 0
+After turn R84, currentPos: 84
+currentPos: 84
+After turn L88, currentPos: 96
+currentPos: 96
+After turn R80, currentPos: 76
+currentPos: 76
+After turn R324, currentPos: 0
+currentPos: 0
+After turn L32, currentPos: 68
+currentPos: 68
+After turn R45, currentPos: 13
+currentPos: 13
+After turn L13, currentPos: 0
+currentPos: 0
+After turn L164, currentPos: 36
+currentPos: 36
+After turn L42, currentPos: 94
+currentPos: 94
+After turn L55, currentPos: 39
+currentPos: 39
+After turn R52, currentPos: 91
+currentPos: 91
+After turn L8, currentPos: 83
+currentPos: 83
+After turn R45, currentPos: 28
+currentPos: 28
+After turn L80, currentPos: 48
+currentPos: 48
+After turn R98, currentPos: 46
+currentPos: 46
+After turn L80, currentPos: 66
+currentPos: 66
+After turn R553, currentPos: 19
+currentPos: 19
+After turn R75, currentPos: 94
+currentPos: 94
+After turn R49, currentPos: 43
+currentPos: 43
+After turn R857, currentPos: 0
+currentPos: 0
+After turn L47, currentPos: 53
+currentPos: 53
+After turn L40, currentPos: 13
+currentPos: 13
+After turn L13, currentPos: 0
+currentPos: 0
+After turn L38, currentPos: 62
+currentPos: 62
+After turn R38, currentPos: 0
+currentPos: 0
+After turn R61, currentPos: 61
+currentPos: 61
+After turn R12, currentPos: 73
+currentPos: 73
+After turn L990, currentPos: 83
+currentPos: 83
+After turn L883, currentPos: 0
+currentPos: 0
+After turn L91, currentPos: 9
+currentPos: 9
+After turn L9, currentPos: 0
+currentPos: 0
+After turn L71, currentPos: 29
+currentPos: 29
+After turn R92, currentPos: 21
+currentPos: 21
+After turn R79, currentPos: 0
+currentPos: 0
+After turn R4, currentPos: 4
+currentPos: 4
+After turn R96, currentPos: 0
+currentPos: 0
+After turn L73, currentPos: 27
+currentPos: 27
+After turn R83, currentPos: 10
+currentPos: 10
+After turn L27, currentPos: 83
+currentPos: 83
+After turn R92, currentPos: 75
+currentPos: 75
+After turn L43, currentPos: 32
+currentPos: 32
+After turn R24, currentPos: 56
+currentPos: 56
+After turn R31, currentPos: 87
+currentPos: 87
+After turn R3, currentPos: 90
+currentPos: 90
+After turn R10, currentPos: 0
+currentPos: 0
+After turn L37, currentPos: 63
+currentPos: 63
+After turn R37, currentPos: 0
+currentPos: 0
+After turn R75, currentPos: 75
+currentPos: 75
+After turn R896, currentPos: 71
+currentPos: 71
+After turn L71, currentPos: 0
+currentPos: 0
+After turn L82, currentPos: 18
+currentPos: 18
+After turn L94, currentPos: 24
+currentPos: 24
+After turn L45, currentPos: 79
+currentPos: 79
+After turn R36, currentPos: 15
+currentPos: 15
+After turn R813, currentPos: 28
+currentPos: 28
+After turn L91, currentPos: 37
+currentPos: 37
+After turn L47, currentPos: 90
+currentPos: 90
+After turn R10, currentPos: 0
+currentPos: 0
+After turn R60, currentPos: 60
+currentPos: 60
+After turn R13, currentPos: 73
+currentPos: 73
+After turn L573, currentPos: 0
+currentPos: 0
+After turn L40, currentPos: 60
+currentPos: 60
+After turn L60, currentPos: 0
+currentPos: 0
+After turn L53, currentPos: 47
+currentPos: 47
+After turn R23, currentPos: 70
+currentPos: 70
+After turn R67, currentPos: 37
+currentPos: 37
+After turn L37, currentPos: 0
+currentPos: 0
+After turn R38, currentPos: 38
+currentPos: 38
+After turn R23, currentPos: 61
+currentPos: 61
+After turn R39, currentPos: 0
+currentPos: 0
+After turn R59, currentPos: 59
+currentPos: 59
+After turn R41, currentPos: 0
+currentPos: 0
+After turn R76, currentPos: 76
+currentPos: 76
+After turn L49, currentPos: 27
+currentPos: 27
+After turn L22, currentPos: 5
+currentPos: 5
+After turn L520, currentPos: 85
+currentPos: 85
+After turn L785, currentPos: 0
+currentPos: 0
+After turn R34, currentPos: 34
+currentPos: 34
+After turn R77, currentPos: 11
+currentPos: 11
+After turn L11, currentPos: 0
+currentPos: 0
+After turn L10, currentPos: 90
+currentPos: 90
+After turn R93, currentPos: 83
+currentPos: 83
+After turn R317, currentPos: 0
+currentPos: 0
+After turn L71, currentPos: 29
+currentPos: 29
+After turn L78, currentPos: 51
+currentPos: 51
+After turn R39, currentPos: 90
+currentPos: 90
+After turn L90, currentPos: 0
+currentPos: 0
+After turn L61, currentPos: 39
+currentPos: 39
+After turn L39, currentPos: 0
+currentPos: 0
+After turn L19, currentPos: 81
+currentPos: 81
+After turn R23, currentPos: 4
+currentPos: 4
+After turn L4, currentPos: 0
+currentPos: 0
+After turn R96, currentPos: 96
+currentPos: 96
+After turn L96, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn L4, currentPos: 30
+currentPos: 30
+After turn R70, currentPos: 0
+currentPos: 0
+After turn L509, currentPos: 91
+currentPos: 91
+After turn L91, currentPos: 0
+currentPos: 0
+After turn L57, currentPos: 43
+currentPos: 43
+After turn R657, currentPos: 0
+currentPos: 0
+After turn R548, currentPos: 48
+currentPos: 48
+After turn L48, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn L25, currentPos: 87
+currentPos: 87
+After turn R13, currentPos: 0
+currentPos: 0
+After turn L24, currentPos: 76
+currentPos: 76
+After turn R8, currentPos: 84
+currentPos: 84
+After turn R27, currentPos: 11
+currentPos: 11
+After turn R89, currentPos: 0
+currentPos: 0
+After turn R95, currentPos: 95
+currentPos: 95
+After turn R81, currentPos: 76
+currentPos: 76
+After turn L14, currentPos: 62
+currentPos: 62
+After turn L62, currentPos: 0
+currentPos: 0
+After turn R75, currentPos: 75
+currentPos: 75
+After turn L81, currentPos: 94
+currentPos: 94
+After turn L24, currentPos: 70
+currentPos: 70
+After turn L37, currentPos: 33
+currentPos: 33
+After turn R39, currentPos: 72
+currentPos: 72
+After turn R42, currentPos: 14
+currentPos: 14
+After turn L14, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn R86, currentPos: 0
+currentPos: 0
+After turn R275, currentPos: 75
+currentPos: 75
+After turn R98, currentPos: 73
+currentPos: 73
+After turn R308, currentPos: 81
+currentPos: 81
+After turn R70, currentPos: 51
+currentPos: 51
+After turn R21, currentPos: 72
+currentPos: 72
+After turn L93, currentPos: 79
+currentPos: 79
+After turn L379, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn R7, currentPos: 26
+currentPos: 26
+After turn L32, currentPos: 94
+currentPos: 94
+After turn R46, currentPos: 40
+currentPos: 40
+After turn L22, currentPos: 18
+currentPos: 18
+After turn R95, currentPos: 13
+currentPos: 13
+After turn L13, currentPos: 0
+currentPos: 0
+After turn L67, currentPos: 33
+currentPos: 33
+After turn L177, currentPos: 56
+currentPos: 56
+After turn R10, currentPos: 66
+currentPos: 66
+After turn L966, currentPos: 0
+currentPos: 0
+After turn R92, currentPos: 92
+currentPos: 92
+After turn R83, currentPos: 75
+currentPos: 75
+After turn L44, currentPos: 31
+currentPos: 31
+After turn R869, currentPos: 0
+currentPos: 0
+After turn R20, currentPos: 20
+currentPos: 20
+After turn L63, currentPos: 57
+currentPos: 57
+After turn R681, currentPos: 38
+currentPos: 38
+After turn L38, currentPos: 0
+currentPos: 0
+After turn L89, currentPos: 11
+currentPos: 11
+After turn L728, currentPos: 83
+currentPos: 83
+After turn L93, currentPos: 90
+currentPos: 90
+After turn L90, currentPos: 0
+currentPos: 0
+After turn R150, currentPos: 50
+currentPos: 50
+After turn L35, currentPos: 15
+currentPos: 15
+After turn L28, currentPos: 87
+currentPos: 87
+After turn L87, currentPos: 0
+currentPos: 0
+After turn L69, currentPos: 31
+currentPos: 31
+After turn R342, currentPos: 73
+currentPos: 73
+After turn R3, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn R412, currentPos: 12
+currentPos: 12
+After turn R23, currentPos: 35
+currentPos: 35
+After turn L52, currentPos: 83
+currentPos: 83
+After turn L87, currentPos: 96
+currentPos: 96
+After turn L92, currentPos: 4
+currentPos: 4
+After turn R52, currentPos: 56
+currentPos: 56
+After turn R33, currentPos: 89
+currentPos: 89
+After turn R93, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn R64, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn L13, currentPos: 87
+currentPos: 87
+After turn L29, currentPos: 58
+currentPos: 58
+After turn R16, currentPos: 74
+currentPos: 74
+After turn R80, currentPos: 54
+currentPos: 54
+After turn R74, currentPos: 28
+currentPos: 28
+After turn R24, currentPos: 52
+currentPos: 52
+After turn R60, currentPos: 12
+currentPos: 12
+After turn R78, currentPos: 90
+currentPos: 90
+After turn R903, currentPos: 93
+currentPos: 93
+After turn L6, currentPos: 87
+currentPos: 87
+After turn R71, currentPos: 58
+currentPos: 58
+After turn L12, currentPos: 46
+currentPos: 46
+After turn R742, currentPos: 88
+currentPos: 88
+After turn R59, currentPos: 47
+currentPos: 47
+After turn L47, currentPos: 0
+currentPos: 0
+After turn L492, currentPos: 8
+currentPos: 8
+After turn L66, currentPos: 42
+currentPos: 42
+After turn R5, currentPos: 47
+currentPos: 47
+After turn R53, currentPos: 0
+currentPos: 0
+After turn L44, currentPos: 56
+currentPos: 56
+After turn L556, currentPos: 0
+currentPos: 0
+After turn L836, currentPos: 64
+currentPos: 64
+After turn L65, currentPos: 99
+currentPos: 99
+After turn L126, currentPos: 73
+currentPos: 73
+After turn L48, currentPos: 25
+currentPos: 25
+After turn L93, currentPos: 32
+currentPos: 32
+After turn R49, currentPos: 81
+currentPos: 81
+After turn R348, currentPos: 29
+currentPos: 29
+After turn R8, currentPos: 37
+currentPos: 37
+After turn L3, currentPos: 34
+currentPos: 34
+After turn R454, currentPos: 88
+currentPos: 88
+After turn L377, currentPos: 11
+currentPos: 11
+After turn R89, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn L14, currentPos: 36
+currentPos: 36
+After turn L235, currentPos: 1
+currentPos: 1
+After turn L5, currentPos: 96
+currentPos: 96
+After turn L33, currentPos: 63
+currentPos: 63
+After turn R261, currentPos: 24
+currentPos: 24
+After turn L91, currentPos: 33
+currentPos: 33
+After turn L47, currentPos: 86
+currentPos: 86
+After turn R19, currentPos: 5
+currentPos: 5
+After turn R507, currentPos: 12
+currentPos: 12
+After turn R96, currentPos: 8
+currentPos: 8
+After turn R93, currentPos: 1
+currentPos: 1
+After turn R69, currentPos: 70
+currentPos: 70
+After turn L2, currentPos: 68
+currentPos: 68
+After turn R932, currentPos: 0
+currentPos: 0
+After turn R10, currentPos: 10
+currentPos: 10
+After turn L24, currentPos: 86
+currentPos: 86
+After turn R14, currentPos: 0
+currentPos: 0
+After turn L58, currentPos: 42
+currentPos: 42
+After turn L73, currentPos: 69
+currentPos: 69
+After turn L6, currentPos: 63
+currentPos: 63
+After turn R337, currentPos: 0
+currentPos: 0
+After turn L67, currentPos: 33
+currentPos: 33
+After turn R58, currentPos: 91
+currentPos: 91
+After turn R3, currentPos: 94
+currentPos: 94
+After turn R47, currentPos: 41
+currentPos: 41
+After turn L42, currentPos: 99
+currentPos: 99
+After turn R81, currentPos: 80
+currentPos: 80
+After turn R20, currentPos: 0
+currentPos: 0
+After turn R53, currentPos: 53
+currentPos: 53
+After turn L26, currentPos: 27
+currentPos: 27
+After turn L34, currentPos: 93
+currentPos: 93
+After turn R7, currentPos: 0
+currentPos: 0
+After turn R37, currentPos: 37
+currentPos: 37
+After turn L35, currentPos: 2
+currentPos: 2
+After turn R185, currentPos: 87
+currentPos: 87
+After turn L87, currentPos: 0
+currentPos: 0
+After turn L88, currentPos: 12
+currentPos: 12
+After turn R88, currentPos: 0
+currentPos: 0
+After turn L38, currentPos: 62
+currentPos: 62
+After turn R338, currentPos: 0
+currentPos: 0
+After turn L51, currentPos: 49
+currentPos: 49
+After turn R251, currentPos: 0
+currentPos: 0
+After turn L95, currentPos: 5
+currentPos: 5
+After turn L55, currentPos: 50
+currentPos: 50
+After turn L47, currentPos: 3
+currentPos: 3
+After turn L41, currentPos: 62
+currentPos: 62
+After turn R98, currentPos: 60
+currentPos: 60
+After turn L69, currentPos: 91
+currentPos: 91
+After turn R53, currentPos: 44
+currentPos: 44
+After turn R56, currentPos: 0
+currentPos: 0
+After turn L62, currentPos: 38
+currentPos: 38
+After turn L75, currentPos: 63
+currentPos: 63
+After turn R51, currentPos: 14
+currentPos: 14
+After turn R86, currentPos: 0
+currentPos: 0
+After turn L52, currentPos: 48
+currentPos: 48
+After turn L48, currentPos: 0
+currentPos: 0
+After turn R540, currentPos: 40
+currentPos: 40
+After turn R60, currentPos: 0
+currentPos: 0
+After turn R91, currentPos: 91
+currentPos: 91
+After turn L91, currentPos: 0
+currentPos: 0
+After turn L61, currentPos: 39
+currentPos: 39
+After turn L99, currentPos: 40
+currentPos: 40
+After turn R60, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn L17, currentPos: 44
+currentPos: 44
+After turn L23, currentPos: 21
+currentPos: 21
+After turn L37, currentPos: 84
+currentPos: 84
+After turn L46, currentPos: 38
+currentPos: 38
+After turn L47, currentPos: 91
+currentPos: 91
+After turn L991, currentPos: 0
+currentPos: 0
+After turn R91, currentPos: 91
+currentPos: 91
+After turn L2, currentPos: 89
+currentPos: 89
+After turn L15, currentPos: 74
+currentPos: 74
+After turn R84, currentPos: 58
+currentPos: 58
+After turn L358, currentPos: 0
+currentPos: 0
+After turn L86, currentPos: 14
+currentPos: 14
+After turn R86, currentPos: 0
+currentPos: 0
+After turn R45, currentPos: 45
+currentPos: 45
+After turn R655, currentPos: 0
+currentPos: 0
+After turn R90, currentPos: 90
+currentPos: 90
+After turn R21, currentPos: 11
+currentPos: 11
+After turn R573, currentPos: 84
+currentPos: 84
+After turn R40, currentPos: 24
+currentPos: 24
+After turn R1, currentPos: 25
+currentPos: 25
+After turn R16, currentPos: 41
+currentPos: 41
+After turn L41, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn L438, currentPos: 81
+currentPos: 81
+After turn R51, currentPos: 32
+currentPos: 32
+After turn L239, currentPos: 93
+currentPos: 93
+After turn R629, currentPos: 22
+currentPos: 22
+After turn L56, currentPos: 66
+currentPos: 66
+After turn L72, currentPos: 94
+currentPos: 94
+After turn L77, currentPos: 17
+currentPos: 17
+After turn L66, currentPos: 51
+currentPos: 51
+After turn L51, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn L833, currentPos: 44
+currentPos: 44
+After turn R51, currentPos: 95
+currentPos: 95
+After turn R72, currentPos: 67
+currentPos: 67
+After turn R33, currentPos: 0
+currentPos: 0
+After turn L40, currentPos: 60
+currentPos: 60
+After turn L48, currentPos: 12
+currentPos: 12
+After turn R21, currentPos: 33
+currentPos: 33
+After turn L41, currentPos: 92
+currentPos: 92
+After turn R79, currentPos: 71
+currentPos: 71
+After turn R56, currentPos: 27
+currentPos: 27
+After turn R41, currentPos: 68
+currentPos: 68
+After turn R452, currentPos: 20
+currentPos: 20
+After turn R33, currentPos: 53
+currentPos: 53
+After turn R78, currentPos: 31
+currentPos: 31
+After turn R269, currentPos: 0
+currentPos: 0
+After turn R709, currentPos: 9
+currentPos: 9
+After turn L18, currentPos: 91
+currentPos: 91
+After turn R95, currentPos: 86
+currentPos: 86
+After turn L684, currentPos: 2
+currentPos: 2
+After turn R72, currentPos: 74
+currentPos: 74
+After turn R40, currentPos: 14
+currentPos: 14
+After turn L14, currentPos: 0
+currentPos: 0
+After turn L611, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn R339, currentPos: 39
+currentPos: 39
+After turn L39, currentPos: 0
+currentPos: 0
+After turn R56, currentPos: 56
+currentPos: 56
+After turn R68, currentPos: 24
+currentPos: 24
+After turn L17, currentPos: 7
+currentPos: 7
+After turn R39, currentPos: 46
+currentPos: 46
+After turn L46, currentPos: 0
+currentPos: 0
+After turn L43, currentPos: 57
+currentPos: 57
+After turn R643, currentPos: 0
+currentPos: 0
+After turn L315, currentPos: 85
+currentPos: 85
+After turn R81, currentPos: 66
+currentPos: 66
+After turn R53, currentPos: 19
+currentPos: 19
+After turn L43, currentPos: 76
+currentPos: 76
+After turn L72, currentPos: 4
+currentPos: 4
+After turn L304, currentPos: 0
+currentPos: 0
+After turn R452, currentPos: 52
+currentPos: 52
+After turn L52, currentPos: 0
+currentPos: 0
+After turn R80, currentPos: 80
+currentPos: 80
+After turn R55, currentPos: 35
+currentPos: 35
+After turn L11, currentPos: 24
+currentPos: 24
+After turn R83, currentPos: 7
+currentPos: 7
+After turn L73, currentPos: 34
+currentPos: 34
+After turn R66, currentPos: 0
+currentPos: 0
+After turn R14, currentPos: 14
+currentPos: 14
+After turn R686, currentPos: 0
+currentPos: 0
+After turn L32, currentPos: 68
+currentPos: 68
+After turn R152, currentPos: 20
+currentPos: 20
+After turn L6, currentPos: 14
+currentPos: 14
+After turn R63, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn L39, currentPos: 61
+currentPos: 61
+After turn R39, currentPos: 0
+currentPos: 0
+After turn R18, currentPos: 18
+currentPos: 18
+After turn R82, currentPos: 0
+currentPos: 0
+After turn R524, currentPos: 24
+currentPos: 24
+After turn R82, currentPos: 6
+currentPos: 6
+After turn L6, currentPos: 0
+currentPos: 0
+After turn R99, currentPos: 99
+currentPos: 99
+After turn L463, currentPos: 36
+currentPos: 36
+After turn R64, currentPos: 0
+currentPos: 0
+After turn R72, currentPos: 72
+currentPos: 72
+After turn R3, currentPos: 75
+currentPos: 75
+After turn R50, currentPos: 25
+currentPos: 25
+After turn L16, currentPos: 9
+currentPos: 9
+After turn L106, currentPos: 3
+currentPos: 3
+After turn L720, currentPos: 83
+currentPos: 83
+After turn L99, currentPos: 84
+currentPos: 84
+After turn R32, currentPos: 16
+currentPos: 16
+After turn R38, currentPos: 54
+currentPos: 54
+After turn L54, currentPos: 0
+currentPos: 0
+After turn L57, currentPos: 43
+currentPos: 43
+After turn R96, currentPos: 39
+currentPos: 39
+After turn L32, currentPos: 7
+currentPos: 7
+After turn L98, currentPos: 9
+currentPos: 9
+After turn R43, currentPos: 52
+currentPos: 52
+After turn L189, currentPos: 63
+currentPos: 63
+After turn R85, currentPos: 48
+currentPos: 48
+After turn R80, currentPos: 28
+currentPos: 28
+After turn L73, currentPos: 55
+currentPos: 55
+After turn L45, currentPos: 10
+currentPos: 10
+After turn R84, currentPos: 94
+currentPos: 94
+After turn R6, currentPos: 0
+currentPos: 0
+After turn R74, currentPos: 74
+currentPos: 74
+After turn R58, currentPos: 32
+currentPos: 32
+After turn L32, currentPos: 0
+currentPos: 0
+After turn L95, currentPos: 5
+currentPos: 5
+After turn L305, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn L19, currentPos: 0
+currentPos: 0
+After turn L96, currentPos: 4
+currentPos: 4
+After turn R86, currentPos: 90
+currentPos: 90
+After turn R406, currentPos: 96
+currentPos: 96
+After turn L696, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn L24, currentPos: 95
+currentPos: 95
+After turn L95, currentPos: 0
+currentPos: 0
+After turn L16, currentPos: 84
+currentPos: 84
+After turn R191, currentPos: 75
+currentPos: 75
+After turn R25, currentPos: 0
+currentPos: 0
+After turn R502, currentPos: 2
+currentPos: 2
+After turn R373, currentPos: 75
+currentPos: 75
+After turn R625, currentPos: 0
+currentPos: 0
+After turn R57, currentPos: 57
+currentPos: 57
+After turn R58, currentPos: 15
+currentPos: 15
+After turn R85, currentPos: 0
+currentPos: 0
+After turn R17, currentPos: 17
+currentPos: 17
+After turn L17, currentPos: 0
+currentPos: 0
+After turn L94, currentPos: 6
+currentPos: 6
+After turn R23, currentPos: 29
+currentPos: 29
+After turn R31, currentPos: 60
+currentPos: 60
+After turn L60, currentPos: 0
+currentPos: 0
+After turn R904, currentPos: 4
+currentPos: 4
+After turn R96, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L971, currentPos: 0
+currentPos: 0
+After turn L21, currentPos: 79
+currentPos: 79
+After turn R21, currentPos: 0
+currentPos: 0
+After turn R94, currentPos: 94
+currentPos: 94
+After turn L294, currentPos: 0
+currentPos: 0
+After turn R54, currentPos: 54
+currentPos: 54
+After turn L54, currentPos: 0
+currentPos: 0
+After turn L58, currentPos: 42
+currentPos: 42
+After turn L984, currentPos: 58
+currentPos: 58
+After turn L58, currentPos: 0
+currentPos: 0
+After turn R77, currentPos: 77
+currentPos: 77
+After turn L15, currentPos: 62
+currentPos: 62
+After turn L89, currentPos: 73
+currentPos: 73
+After turn L34, currentPos: 39
+currentPos: 39
+After turn R17, currentPos: 56
+currentPos: 56
+After turn R44, currentPos: 0
+currentPos: 0
+After turn R85, currentPos: 85
+currentPos: 85
+After turn R15, currentPos: 0
+currentPos: 0
+After turn R97, currentPos: 97
+currentPos: 97
+After turn L55, currentPos: 42
+currentPos: 42
+After turn L211, currentPos: 31
+currentPos: 31
+After turn R1, currentPos: 32
+currentPos: 32
+After turn L32, currentPos: 0
+currentPos: 0
+After turn R64, currentPos: 64
+currentPos: 64
+After turn R70, currentPos: 34
+currentPos: 34
+After turn L930, currentPos: 4
+currentPos: 4
+After turn R13, currentPos: 17
+currentPos: 17
+After turn R15, currentPos: 32
+currentPos: 32
+After turn L32, currentPos: 0
+currentPos: 0
+After turn R50, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn L36, currentPos: 64
+currentPos: 64
+After turn R156, currentPos: 20
+currentPos: 20
+After turn L20, currentPos: 0
+currentPos: 0
+After turn L20, currentPos: 80
+currentPos: 80
+After turn R55, currentPos: 35
+currentPos: 35
+After turn L35, currentPos: 0
+currentPos: 0
+After turn R103, currentPos: 3
+currentPos: 3
+After turn R56, currentPos: 59
+currentPos: 59
+After turn R483, currentPos: 42
+currentPos: 42
+After turn R647, currentPos: 89
+currentPos: 89
+After turn L960, currentPos: 29
+currentPos: 29
+After turn L13, currentPos: 16
+currentPos: 16
+After turn R73, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn L35, currentPos: 65
+currentPos: 65
+After turn L79, currentPos: 86
+currentPos: 86
+After turn R34, currentPos: 20
+currentPos: 20
+After turn R80, currentPos: 0
+currentPos: 0
+After turn R499, currentPos: 99
+currentPos: 99
+After turn R60, currentPos: 59
+currentPos: 59
+After turn L555, currentPos: 4
+currentPos: 4
+After turn R96, currentPos: 0
+currentPos: 0
+After turn R24, currentPos: 24
+currentPos: 24
+After turn L48, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn L382, currentPos: 18
+currentPos: 18
+After turn L18, currentPos: 0
+currentPos: 0
+After turn R77, currentPos: 77
+currentPos: 77
+After turn R78, currentPos: 55
+currentPos: 55
+After turn L26, currentPos: 29
+currentPos: 29
+After turn R92, currentPos: 21
+currentPos: 21
+After turn L321, currentPos: 0
+currentPos: 0
+After turn R73, currentPos: 73
+currentPos: 73
+After turn L15, currentPos: 58
+currentPos: 58
+After turn L4, currentPos: 54
+currentPos: 54
+After turn R931, currentPos: 85
+currentPos: 85
+After turn L57, currentPos: 28
+currentPos: 28
+After turn L75, currentPos: 53
+currentPos: 53
+After turn L37, currentPos: 16
+currentPos: 16
+After turn L82, currentPos: 34
+currentPos: 34
+After turn R22, currentPos: 56
+currentPos: 56
+After turn R37, currentPos: 93
+currentPos: 93
+After turn R91, currentPos: 84
+currentPos: 84
+After turn L84, currentPos: 0
+currentPos: 0
+After turn R94, currentPos: 94
+currentPos: 94
+After turn L93, currentPos: 1
+currentPos: 1
+After turn L1, currentPos: 0
+currentPos: 0
+After turn L97, currentPos: 3
+currentPos: 3
+After turn L28, currentPos: 75
+currentPos: 75
+After turn L80, currentPos: 95
+currentPos: 95
+After turn L67, currentPos: 28
+currentPos: 28
+After turn R72, currentPos: 0
+currentPos: 0
+After turn L85, currentPos: 15
+currentPos: 15
+After turn R35, currentPos: 50
+currentPos: 50
+After turn L1, currentPos: 49
+currentPos: 49
+After turn L149, currentPos: 0
+currentPos: 0
+After turn L71, currentPos: 29
+currentPos: 29
+After turn R71, currentPos: 0
+currentPos: 0
+After turn R85, currentPos: 85
+currentPos: 85
+After turn R90, currentPos: 75
+currentPos: 75
+After turn R20, currentPos: 95
+currentPos: 95
+After turn L6, currentPos: 89
+currentPos: 89
+After turn L12, currentPos: 77
+currentPos: 77
+After turn R50, currentPos: 27
+currentPos: 27
+After turn R773, currentPos: 0
+currentPos: 0
+After turn R668, currentPos: 68
+currentPos: 68
+After turn R64, currentPos: 32
+currentPos: 32
+After turn L132, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L75, currentPos: 53
+currentPos: 53
+After turn L88, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn L4, currentPos: 96
+currentPos: 96
+After turn L96, currentPos: 0
+currentPos: 0
+After turn R76, currentPos: 76
+currentPos: 76
+After turn L434, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn R73, currentPos: 73
+currentPos: 73
+After turn R41, currentPos: 14
+currentPos: 14
+After turn R87, currentPos: 1
+currentPos: 1
+After turn R98, currentPos: 99
+currentPos: 99
+After turn R29, currentPos: 28
+currentPos: 28
+After turn R72, currentPos: 0
+currentPos: 0
+After turn R444, currentPos: 44
+currentPos: 44
+After turn L26, currentPos: 18
+currentPos: 18
+After turn L717, currentPos: 1
+currentPos: 1
+After turn R99, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn L71, currentPos: 0
+currentPos: 0
+After turn L82, currentPos: 18
+currentPos: 18
+After turn L78, currentPos: 40
+currentPos: 40
+After turn R62, currentPos: 2
+currentPos: 2
+After turn R81, currentPos: 83
+currentPos: 83
+After turn R8, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn L5, currentPos: 95
+currentPos: 95
+After turn L95, currentPos: 0
+currentPos: 0
+After turn L922, currentPos: 78
+currentPos: 78
+After turn R7, currentPos: 85
+currentPos: 85
+After turn L885, currentPos: 0
+currentPos: 0
+After turn L58, currentPos: 42
+currentPos: 42
+After turn L84, currentPos: 58
+currentPos: 58
+After turn L70, currentPos: 88
+currentPos: 88
+After turn L45, currentPos: 43
+currentPos: 43
+After turn R93, currentPos: 36
+currentPos: 36
+After turn R64, currentPos: 0
+currentPos: 0
+After turn L85, currentPos: 15
+currentPos: 15
+After turn R85, currentPos: 0
+currentPos: 0
+After turn L78, currentPos: 22
+currentPos: 22
+After turn R24, currentPos: 46
+currentPos: 46
+After turn R92, currentPos: 38
+currentPos: 38
+After turn R92, currentPos: 30
+currentPos: 30
+After turn R675, currentPos: 5
+currentPos: 5
+After turn L29, currentPos: 76
+currentPos: 76
+After turn R337, currentPos: 13
+currentPos: 13
+After turn R87, currentPos: 0
+currentPos: 0
+After turn R53, currentPos: 53
+currentPos: 53
+After turn L53, currentPos: 0
+currentPos: 0
+After turn L24, currentPos: 76
+currentPos: 76
+After turn L76, currentPos: 0
+currentPos: 0
+After turn R23, currentPos: 23
+currentPos: 23
+After turn R60, currentPos: 83
+currentPos: 83
+After turn L83, currentPos: 0
+currentPos: 0
+After turn R98, currentPos: 98
+currentPos: 98
+After turn L74, currentPos: 24
+currentPos: 24
+After turn L24, currentPos: 0
+currentPos: 0
+After turn L911, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn R376, currentPos: 76
+currentPos: 76
+After turn L141, currentPos: 35
+currentPos: 35
+After turn R665, currentPos: 0
+currentPos: 0
+After turn L53, currentPos: 47
+currentPos: 47
+After turn L47, currentPos: 0
+currentPos: 0
+After turn R72, currentPos: 72
+currentPos: 72
+After turn L50, currentPos: 22
+currentPos: 22
+After turn R78, currentPos: 0
+currentPos: 0
+After turn L65, currentPos: 35
+currentPos: 35
+After turn R32, currentPos: 67
+currentPos: 67
+After turn L67, currentPos: 0
+currentPos: 0
+After turn R902, currentPos: 2
+currentPos: 2
+After turn R1, currentPos: 3
+currentPos: 3
+After turn R75, currentPos: 78
+currentPos: 78
+After turn L76, currentPos: 2
+currentPos: 2
+After turn R314, currentPos: 16
+currentPos: 16
+After turn L16, currentPos: 0
+currentPos: 0
+After turn R26, currentPos: 26
+currentPos: 26
+After turn L71, currentPos: 55
+currentPos: 55
+After turn R80, currentPos: 35
+currentPos: 35
+After turn L261, currentPos: 74
+currentPos: 74
+After turn R361, currentPos: 35
+currentPos: 35
+After turn L15, currentPos: 20
+currentPos: 20
+After turn L127, currentPos: 93
+currentPos: 93
+After turn R227, currentPos: 20
+currentPos: 20
+After turn R32, currentPos: 52
+currentPos: 52
+After turn L95, currentPos: 57
+currentPos: 57
+After turn L12, currentPos: 45
+currentPos: 45
+After turn R24, currentPos: 69
+currentPos: 69
+After turn L596, currentPos: 73
+currentPos: 73
+After turn L73, currentPos: 0
+currentPos: 0
+After turn L50, currentPos: 50
+currentPos: 50
+After turn L256, currentPos: 94
+currentPos: 94
+After turn L41, currentPos: 53
+currentPos: 53
+After turn R15, currentPos: 68
+currentPos: 68
+After turn L39, currentPos: 29
+currentPos: 29
+After turn L15, currentPos: 14
+currentPos: 14
+After turn L29, currentPos: 85
+currentPos: 85
+After turn R15, currentPos: 0
+currentPos: 0
+After turn L73, currentPos: 27
+currentPos: 27
+After turn R51, currentPos: 78
+currentPos: 78
+After turn L30, currentPos: 48
+currentPos: 48
+After turn R41, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn R69, currentPos: 69
+currentPos: 69
+After turn L415, currentPos: 54
+currentPos: 54
+After turn R46, currentPos: 0
+currentPos: 0
+After turn R65, currentPos: 65
+currentPos: 65
+After turn L20, currentPos: 45
+currentPos: 45
+After turn R73, currentPos: 18
+currentPos: 18
+After turn R562, currentPos: 80
+currentPos: 80
+After turn R41, currentPos: 21
+currentPos: 21
+After turn R41, currentPos: 62
+currentPos: 62
+After turn R638, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn R81, currentPos: 97
+currentPos: 97
+After turn R38, currentPos: 35
+currentPos: 35
+After turn L43, currentPos: 92
+currentPos: 92
+After turn L4, currentPos: 88
+currentPos: 88
+After turn L46, currentPos: 42
+currentPos: 42
+After turn R58, currentPos: 0
+currentPos: 0
+After turn R891, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn R988, currentPos: 88
+currentPos: 88
+After turn L375, currentPos: 13
+currentPos: 13
+After turn L98, currentPos: 15
+currentPos: 15
+After turn L46, currentPos: 69
+currentPos: 69
+After turn R62, currentPos: 31
+currentPos: 31
+After turn R85, currentPos: 16
+currentPos: 16
+After turn R84, currentPos: 0
+currentPos: 0
+After turn R7, currentPos: 7
+currentPos: 7
+After turn L528, currentPos: 79
+currentPos: 79
+After turn L79, currentPos: 0
+currentPos: 0
+After turn R78, currentPos: 78
+currentPos: 78
+After turn L755, currentPos: 23
+currentPos: 23
+After turn L365, currentPos: 58
+currentPos: 58
+After turn R813, currentPos: 71
+currentPos: 71
+After turn R883, currentPos: 54
+currentPos: 54
+After turn R54, currentPos: 8
+currentPos: 8
+After turn R11, currentPos: 19
+currentPos: 19
+After turn R40, currentPos: 59
+currentPos: 59
+After turn R38, currentPos: 97
+currentPos: 97
+After turn R97, currentPos: 94
+currentPos: 94
+After turn L94, currentPos: 0
+currentPos: 0
+After turn L93, currentPos: 7
+currentPos: 7
+After turn L15, currentPos: 92
+currentPos: 92
+After turn L41, currentPos: 51
+currentPos: 51
+After turn R849, currentPos: 0
+currentPos: 0
+After turn R67, currentPos: 67
+currentPos: 67
+After turn R945, currentPos: 12
+currentPos: 12
+After turn L69, currentPos: 43
+currentPos: 43
+After turn L43, currentPos: 0
+currentPos: 0
+After turn R3, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn L83, currentPos: 17
+currentPos: 17
+After turn R98, currentPos: 15
+currentPos: 15
+After turn R62, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn L823, currentPos: 77
+currentPos: 77
+After turn L4, currentPos: 73
+currentPos: 73
+After turn L163, currentPos: 10
+currentPos: 10
+After turn L457, currentPos: 53
+currentPos: 53
+After turn L5, currentPos: 48
+currentPos: 48
+After turn L215, currentPos: 33
+currentPos: 33
+After turn L33, currentPos: 0
+currentPos: 0
+After turn L7, currentPos: 93
+currentPos: 93
+After turn L81, currentPos: 12
+currentPos: 12
+After turn R88, currentPos: 0
+currentPos: 0
+After turn R221, currentPos: 21
+currentPos: 21
+After turn R79, currentPos: 0
+currentPos: 0
+After turn L291, currentPos: 9
+currentPos: 9
+After turn L65, currentPos: 44
+currentPos: 44
+After turn L77, currentPos: 67
+currentPos: 67
+After turn L40, currentPos: 27
+currentPos: 27
+After turn R573, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn L74, currentPos: 0
+currentPos: 0
+After turn R92, currentPos: 92
+currentPos: 92
+After turn L83, currentPos: 9
+currentPos: 9
+After turn L403, currentPos: 6
+currentPos: 6
+After turn R94, currentPos: 0
+currentPos: 0
+After turn R763, currentPos: 63
+currentPos: 63
+After turn L63, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn R775, currentPos: 46
+currentPos: 46
+After turn R44, currentPos: 90
+currentPos: 90
+After turn R410, currentPos: 0
+currentPos: 0
+After turn L73, currentPos: 27
+currentPos: 27
+After turn L479, currentPos: 48
+currentPos: 48
+After turn R652, currentPos: 0
+currentPos: 0
+After turn R451, currentPos: 51
+currentPos: 51
+After turn L59, currentPos: 92
+currentPos: 92
+After turn L92, currentPos: 0
+currentPos: 0
+After turn L48, currentPos: 52
+currentPos: 52
+After turn L60, currentPos: 92
+currentPos: 92
+After turn R7, currentPos: 99
+currentPos: 99
+After turn L23, currentPos: 76
+currentPos: 76
+After turn R53, currentPos: 29
+currentPos: 29
+After turn L73, currentPos: 56
+currentPos: 56
+After turn R144, currentPos: 0
+currentPos: 0
+After turn R81, currentPos: 81
+currentPos: 81
+After turn R15, currentPos: 96
+currentPos: 96
+After turn R98, currentPos: 94
+currentPos: 94
+After turn L30, currentPos: 64
+currentPos: 64
+After turn L15, currentPos: 49
+currentPos: 49
+After turn R98, currentPos: 47
+currentPos: 47
+After turn L12, currentPos: 35
+currentPos: 35
+After turn L35, currentPos: 0
+currentPos: 0
+After turn L854, currentPos: 46
+currentPos: 46
+After turn L984, currentPos: 62
+currentPos: 62
+After turn R66, currentPos: 28
+currentPos: 28
+After turn L628, currentPos: 0
+currentPos: 0
+After turn L855, currentPos: 45
+currentPos: 45
+After turn L45, currentPos: 0
+currentPos: 0
+After turn R83, currentPos: 83
+currentPos: 83
+After turn L320, currentPos: 63
+currentPos: 63
+After turn R37, currentPos: 0
+currentPos: 0
+After turn L220, currentPos: 80
+currentPos: 80
+After turn R6, currentPos: 86
+currentPos: 86
+After turn L86, currentPos: 0
+currentPos: 0
+After turn L28, currentPos: 72
+currentPos: 72
+After turn L47, currentPos: 25
+currentPos: 25
+After turn L25, currentPos: 0
+currentPos: 0
+After turn L5, currentPos: 95
+currentPos: 95
+After turn L30, currentPos: 65
+currentPos: 65
+After turn R31, currentPos: 96
+currentPos: 96
+After turn L96, currentPos: 0
+currentPos: 0
+After turn L82, currentPos: 18
+currentPos: 18
+After turn R422, currentPos: 40
+currentPos: 40
+After turn R57, currentPos: 97
+currentPos: 97
+After turn L79, currentPos: 18
+currentPos: 18
+After turn R50, currentPos: 68
+currentPos: 68
+After turn L84, currentPos: 84
+currentPos: 84
+After turn L24, currentPos: 60
+currentPos: 60
+After turn L97, currentPos: 63
+currentPos: 63
+After turn R62, currentPos: 25
+currentPos: 25
+After turn L338, currentPos: 87
+currentPos: 87
+After turn R17, currentPos: 4
+currentPos: 4
+After turn L828, currentPos: 76
+currentPos: 76
+After turn L96, currentPos: 80
+currentPos: 80
+After turn R20, currentPos: 0
+currentPos: 0
+After turn R85, currentPos: 85
+currentPos: 85
+After turn L27, currentPos: 58
+currentPos: 58
+After turn R99, currentPos: 57
+currentPos: 57
+After turn R69, currentPos: 26
+currentPos: 26
+After turn R23, currentPos: 49
+currentPos: 49
+After turn R12, currentPos: 61
+currentPos: 61
+After turn L21, currentPos: 40
+currentPos: 40
+After turn R60, currentPos: 0
+currentPos: 0
+After turn R104, currentPos: 4
+currentPos: 4
+After turn L4, currentPos: 0
+currentPos: 0
+After turn R7, currentPos: 7
+currentPos: 7
+After turn R28, currentPos: 35
+currentPos: 35
+After turn R99, currentPos: 34
+currentPos: 34
+After turn R20, currentPos: 54
+currentPos: 54
+After turn L54, currentPos: 0
+currentPos: 0
+After turn L6, currentPos: 94
+currentPos: 94
+After turn L18, currentPos: 76
+currentPos: 76
+After turn L27, currentPos: 49
+currentPos: 49
+After turn R58, currentPos: 7
+currentPos: 7
+After turn R66, currentPos: 73
+currentPos: 73
+After turn R27, currentPos: 0
+currentPos: 0
+After turn L78, currentPos: 22
+currentPos: 22
+After turn R78, currentPos: 0
+currentPos: 0
+After turn R223, currentPos: 23
+currentPos: 23
+After turn L23, currentPos: 0
+currentPos: 0
+After turn L6, currentPos: 94
+currentPos: 94
+After turn L78, currentPos: 16
+currentPos: 16
+After turn L71, currentPos: 45
+currentPos: 45
+After turn R49, currentPos: 94
+currentPos: 94
+After turn L12, currentPos: 82
+currentPos: 82
+After turn L2, currentPos: 80
+currentPos: 80
+After turn R120, currentPos: 0
+currentPos: 0
+After turn L96, currentPos: 4
+currentPos: 4
+After turn R58, currentPos: 62
+currentPos: 62
+After turn R54, currentPos: 16
+currentPos: 16
+After turn R98, currentPos: 14
+currentPos: 14
+After turn R18, currentPos: 32
+currentPos: 32
+After turn L532, currentPos: 0
+currentPos: 0
+After turn R15, currentPos: 15
+currentPos: 15
+After turn L4, currentPos: 11
+currentPos: 11
+After turn L41, currentPos: 70
+currentPos: 70
+After turn R64, currentPos: 34
+currentPos: 34
+After turn L534, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn L31, currentPos: 85
+currentPos: 85
+After turn R415, currentPos: 0
+currentPos: 0
+After turn L86, currentPos: 14
+currentPos: 14
+After turn R99, currentPos: 13
+currentPos: 13
+After turn L41, currentPos: 72
+currentPos: 72
+After turn L72, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn R5, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn L225, currentPos: 75
+currentPos: 75
+After turn R91, currentPos: 66
+currentPos: 66
+After turn L66, currentPos: 0
+currentPos: 0
+After turn R61, currentPos: 61
+currentPos: 61
+After turn R65, currentPos: 26
+currentPos: 26
+After turn L901, currentPos: 25
+currentPos: 25
+After turn L25, currentPos: 0
+currentPos: 0
+After turn R42, currentPos: 42
+currentPos: 42
+After turn R508, currentPos: 50
+currentPos: 50
+After turn L71, currentPos: 79
+currentPos: 79
+After turn L69, currentPos: 10
+currentPos: 10
+After turn L10, currentPos: 0
+currentPos: 0
+After turn R47, currentPos: 47
+currentPos: 47
+After turn L78, currentPos: 69
+currentPos: 69
+After turn R60, currentPos: 29
+currentPos: 29
+After turn R499, currentPos: 28
+currentPos: 28
+After turn R80, currentPos: 8
+currentPos: 8
+After turn R92, currentPos: 0
+currentPos: 0
+After turn L137, currentPos: 63
+currentPos: 63
+After turn L58, currentPos: 5
+currentPos: 5
+After turn L25, currentPos: 80
+currentPos: 80
+After turn L86, currentPos: 94
+currentPos: 94
+After turn R24, currentPos: 18
+currentPos: 18
+After turn R15, currentPos: 33
+currentPos: 33
+After turn L33, currentPos: 0
+currentPos: 0
+After turn L77, currentPos: 23
+currentPos: 23
+After turn L32, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn R11, currentPos: 11
+currentPos: 11
+After turn R96, currentPos: 7
+currentPos: 7
+After turn L77, currentPos: 30
+currentPos: 30
+After turn R670, currentPos: 0
+currentPos: 0
+After turn L79, currentPos: 21
+currentPos: 21
+After turn R21, currentPos: 42
+currentPos: 42
+After turn R35, currentPos: 77
+currentPos: 77
+After turn L45, currentPos: 32
+currentPos: 32
+After turn L49, currentPos: 83
+currentPos: 83
+After turn R87, currentPos: 70
+currentPos: 70
+After turn L427, currentPos: 43
+currentPos: 43
+After turn L82, currentPos: 61
+currentPos: 61
+After turn L261, currentPos: 0
+currentPos: 0
+After turn R69, currentPos: 69
+currentPos: 69
+After turn R15, currentPos: 84
+currentPos: 84
+After turn L20, currentPos: 64
+currentPos: 64
+After turn R92, currentPos: 56
+currentPos: 56
+After turn R582, currentPos: 38
+currentPos: 38
+After turn R38, currentPos: 76
+currentPos: 76
+After turn L76, currentPos: 0
+currentPos: 0
+After turn R58, currentPos: 58
+currentPos: 58
+After turn R646, currentPos: 4
+currentPos: 4
+After turn L26, currentPos: 78
+currentPos: 78
+After turn L330, currentPos: 48
+currentPos: 48
+After turn L88, currentPos: 60
+currentPos: 60
+After turn R380, currentPos: 40
+currentPos: 40
+After turn L69, currentPos: 71
+currentPos: 71
+After turn R791, currentPos: 62
+currentPos: 62
+After turn R75, currentPos: 37
+currentPos: 37
+After turn L59, currentPos: 78
+currentPos: 78
+After turn R472, currentPos: 50
+currentPos: 50
+After turn R83, currentPos: 33
+currentPos: 33
+After turn L574, currentPos: 59
+currentPos: 59
+After turn R99, currentPos: 58
+currentPos: 58
+After turn L740, currentPos: 18
+currentPos: 18
+After turn L61, currentPos: 57
+currentPos: 57
+After turn R641, currentPos: 98
+currentPos: 98
+After turn L98, currentPos: 0
+currentPos: 0
+After turn R99, currentPos: 99
+currentPos: 99
+After turn R17, currentPos: 16
+currentPos: 16
+After turn R84, currentPos: 0
+currentPos: 0
+After turn L41, currentPos: 59
+currentPos: 59
+After turn L938, currentPos: 21
+currentPos: 21
+After turn R81, currentPos: 2
+currentPos: 2
+After turn L36, currentPos: 66
+currentPos: 66
+After turn R34, currentPos: 0
+currentPos: 0
+After turn L366, currentPos: 34
+currentPos: 34
+After turn R48, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn R62, currentPos: 78
+currentPos: 78
+After turn L78, currentPos: 0
+currentPos: 0
+After turn R16, currentPos: 16
+currentPos: 16
+After turn R84, currentPos: 0
+currentPos: 0
+After turn R91, currentPos: 91
+currentPos: 91
+After turn R34, currentPos: 25
+currentPos: 25
+After turn R75, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn R93, currentPos: 67
+currentPos: 67
+After turn L17, currentPos: 50
+currentPos: 50
+After turn R83, currentPos: 33
+currentPos: 33
+After turn R55, currentPos: 88
+currentPos: 88
+After turn R491, currentPos: 79
+currentPos: 79
+After turn R18, currentPos: 97
+currentPos: 97
+After turn L78, currentPos: 19
+currentPos: 19
+After turn R7, currentPos: 26
+currentPos: 26
+After turn L74, currentPos: 52
+currentPos: 52
+After turn L67, currentPos: 85
+currentPos: 85
+After turn R53, currentPos: 38
+currentPos: 38
+After turn R62, currentPos: 0
+currentPos: 0
+After turn L2, currentPos: 98
+currentPos: 98
+After turn L75, currentPos: 23
+currentPos: 23
+After turn R31, currentPos: 54
+currentPos: 54
+After turn R4, currentPos: 58
+currentPos: 58
+After turn R942, currentPos: 0
+currentPos: 0
+After turn R373, currentPos: 73
+currentPos: 73
+After turn L53, currentPos: 20
+currentPos: 20
+After turn R83, currentPos: 3
+currentPos: 3
+After turn R28, currentPos: 31
+currentPos: 31
+After turn R69, currentPos: 0
+currentPos: 0
+After turn L38, currentPos: 62
+currentPos: 62
+After turn R86, currentPos: 48
+currentPos: 48
+After turn R76, currentPos: 24
+currentPos: 24
+After turn L204, currentPos: 20
+currentPos: 20
+After turn R34, currentPos: 54
+currentPos: 54
+After turn L281, currentPos: 73
+currentPos: 73
+After turn L83, currentPos: 90
+currentPos: 90
+After turn R51, currentPos: 41
+currentPos: 41
+After turn R19, currentPos: 60
+currentPos: 60
+After turn L45, currentPos: 15
+currentPos: 15
+After turn R46, currentPos: 61
+currentPos: 61
+After turn L761, currentPos: 0
+currentPos: 0
+After turn R45, currentPos: 45
+currentPos: 45
+After turn R36, currentPos: 81
+currentPos: 81
+After turn L92, currentPos: 89
+currentPos: 89
+After turn L42, currentPos: 47
+currentPos: 47
+After turn L716, currentPos: 31
+currentPos: 31
+After turn R95, currentPos: 26
+currentPos: 26
+After turn L994, currentPos: 32
+currentPos: 32
+After turn L70, currentPos: 62
+currentPos: 62
+After turn L70, currentPos: 92
+currentPos: 92
+After turn L92, currentPos: 0
+currentPos: 0
+After turn R91, currentPos: 91
+currentPos: 91
+After turn R9, currentPos: 0
+currentPos: 0
+After turn R69, currentPos: 69
+currentPos: 69
+After turn L20, currentPos: 49
+currentPos: 49
+After turn R651, currentPos: 0
+currentPos: 0
+After turn L244, currentPos: 56
+currentPos: 56
+After turn L56, currentPos: 0
+currentPos: 0
+After turn L18, currentPos: 82
+currentPos: 82
+After turn R53, currentPos: 35
+currentPos: 35
+After turn R81, currentPos: 16
+currentPos: 16
+After turn R984, currentPos: 0
+currentPos: 0
+After turn L546, currentPos: 54
+currentPos: 54
+After turn R13, currentPos: 67
+currentPos: 67
+After turn R61, currentPos: 28
+currentPos: 28
+After turn R93, currentPos: 21
+currentPos: 21
+After turn R53, currentPos: 74
+currentPos: 74
+After turn R59, currentPos: 33
+currentPos: 33
+After turn L34, currentPos: 99
+currentPos: 99
+After turn L2, currentPos: 97
+currentPos: 97
+After turn R153, currentPos: 50
+currentPos: 50
+After turn L33, currentPos: 17
+currentPos: 17
+After turn R83, currentPos: 0
+currentPos: 0
+After turn R27, currentPos: 27
+currentPos: 27
+After turn L27, currentPos: 0
+currentPos: 0
+After turn L34, currentPos: 66
+currentPos: 66
+After turn L266, currentPos: 0
+currentPos: 0
+After turn L533, currentPos: 67
+currentPos: 67
+After turn R33, currentPos: 0
+currentPos: 0
+After turn L850, currentPos: 50
+currentPos: 50
+After turn R76, currentPos: 26
+currentPos: 26
+After turn R774, currentPos: 0
+currentPos: 0
+After turn L4, currentPos: 96
+currentPos: 96
+After turn L67, currentPos: 29
+currentPos: 29
+After turn L55, currentPos: 74
+currentPos: 74
+After turn L84, currentPos: 90
+currentPos: 90
+After turn R86, currentPos: 76
+currentPos: 76
+After turn R9, currentPos: 85
+currentPos: 85
+After turn R12, currentPos: 97
+currentPos: 97
+After turn R72, currentPos: 69
+currentPos: 69
+After turn R31, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn L50, currentPos: 24
+currentPos: 24
+After turn L24, currentPos: 0
+currentPos: 0
+After turn L27, currentPos: 73
+currentPos: 73
+After turn L13, currentPos: 60
+currentPos: 60
+After turn R540, currentPos: 0
+currentPos: 0
+After turn R64, currentPos: 64
+currentPos: 64
+After turn L143, currentPos: 21
+currentPos: 21
+After turn R29, currentPos: 50
+currentPos: 50
+After turn R59, currentPos: 9
+currentPos: 9
+After turn R9, currentPos: 18
+currentPos: 18
+After turn R82, currentPos: 0
+currentPos: 0
+After turn L50, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn L15, currentPos: 85
+currentPos: 85
+After turn R99, currentPos: 84
+currentPos: 84
+After turn L84, currentPos: 0
+currentPos: 0
+After turn L22, currentPos: 78
+currentPos: 78
+After turn R711, currentPos: 89
+currentPos: 89
+After turn L89, currentPos: 0
+currentPos: 0
+After turn R68, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn R46, currentPos: 46
+currentPos: 46
+After turn R54, currentPos: 0
+currentPos: 0
+After turn L51, currentPos: 49
+currentPos: 49
+After turn R29, currentPos: 78
+currentPos: 78
+After turn R30, currentPos: 8
+currentPos: 8
+After turn L74, currentPos: 34
+currentPos: 34
+After turn L34, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn R40, currentPos: 74
+currentPos: 74
+After turn R650, currentPos: 24
+currentPos: 24
+After turn L24, currentPos: 0
+currentPos: 0
+After turn R99, currentPos: 99
+currentPos: 99
+After turn L68, currentPos: 31
+currentPos: 31
+After turn R18, currentPos: 49
+currentPos: 49
+After turn L92, currentPos: 57
+currentPos: 57
+After turn R29, currentPos: 86
+currentPos: 86
+After turn R14, currentPos: 0
+currentPos: 0
+After turn L20, currentPos: 80
+currentPos: 80
+After turn R220, currentPos: 0
+currentPos: 0
+After turn L19, currentPos: 81
+currentPos: 81
+After turn L4, currentPos: 77
+currentPos: 77
+After turn R23, currentPos: 0
+currentPos: 0
+After turn L31, currentPos: 69
+currentPos: 69
+After turn R931, currentPos: 0
+currentPos: 0
+After turn R6, currentPos: 6
+currentPos: 6
+After turn R849, currentPos: 55
+currentPos: 55
+After turn R84, currentPos: 39
+currentPos: 39
+After turn L39, currentPos: 0
+currentPos: 0
+After turn R13, currentPos: 13
+currentPos: 13
+After turn L72, currentPos: 41
+currentPos: 41
+After turn L2, currentPos: 39
+currentPos: 39
+After turn R4, currentPos: 43
+currentPos: 43
+After turn R69, currentPos: 12
+currentPos: 12
+After turn L515, currentPos: 97
+currentPos: 97
+After turn R61, currentPos: 58
+currentPos: 58
+After turn R142, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn L904, currentPos: 30
+currentPos: 30
+After turn L97, currentPos: 33
+currentPos: 33
+After turn L534, currentPos: 99
+currentPos: 99
+After turn R69, currentPos: 68
+currentPos: 68
+After turn R32, currentPos: 0
+currentPos: 0
+After turn R82, currentPos: 82
+currentPos: 82
+After turn R18, currentPos: 0
+currentPos: 0
+After turn L77, currentPos: 23
+currentPos: 23
+After turn R106, currentPos: 29
+currentPos: 29
+After turn R582, currentPos: 11
+currentPos: 11
+After turn L111, currentPos: 0
+currentPos: 0
+After turn L435, currentPos: 65
+currentPos: 65
+After turn L65, currentPos: 0
+currentPos: 0
+After turn L28, currentPos: 72
+currentPos: 72
+After turn L601, currentPos: 71
+currentPos: 71
+After turn R116, currentPos: 87
+currentPos: 87
+After turn R13, currentPos: 0
+currentPos: 0
+After turn L14, currentPos: 86
+currentPos: 86
+After turn L38, currentPos: 48
+currentPos: 48
+After turn L89, currentPos: 59
+currentPos: 59
+After turn R17, currentPos: 76
+currentPos: 76
+After turn R31, currentPos: 7
+currentPos: 7
+After turn L7, currentPos: 0
+currentPos: 0
+After turn L523, currentPos: 77
+currentPos: 77
+After turn R448, currentPos: 25
+currentPos: 25
+After turn R26, currentPos: 51
+currentPos: 51
+After turn L22, currentPos: 29
+currentPos: 29
+After turn R62, currentPos: 91
+currentPos: 91
+After turn L19, currentPos: 72
+currentPos: 72
+After turn R44, currentPos: 16
+currentPos: 16
+After turn L16, currentPos: 0
+currentPos: 0
+After turn L82, currentPos: 18
+currentPos: 18
+After turn R82, currentPos: 0
+currentPos: 0
+After turn R18, currentPos: 18
+currentPos: 18
+After turn L135, currentPos: 83
+currentPos: 83
+After turn L94, currentPos: 89
+currentPos: 89
+After turn R17, currentPos: 6
+currentPos: 6
+After turn R94, currentPos: 0
+currentPos: 0
+After turn R65, currentPos: 65
+currentPos: 65
+After turn R12, currentPos: 77
+currentPos: 77
+After turn L77, currentPos: 0
+currentPos: 0
+After turn R67, currentPos: 67
+currentPos: 67
+After turn L67, currentPos: 0
+currentPos: 0
+After turn L26, currentPos: 74
+currentPos: 74
+After turn L374, currentPos: 0
+currentPos: 0
+After turn L88, currentPos: 12
+currentPos: 12
+After turn L12, currentPos: 0
+currentPos: 0
+After turn L192, currentPos: 8
+currentPos: 8
+After turn L74, currentPos: 34
+currentPos: 34
+After turn L99, currentPos: 35
+currentPos: 35
+After turn L35, currentPos: 0
+currentPos: 0
+After turn R38, currentPos: 38
+currentPos: 38
+After turn L46, currentPos: 92
+currentPos: 92
+After turn R21, currentPos: 13
+currentPos: 13
+After turn R58, currentPos: 71
+currentPos: 71
+After turn L71, currentPos: 0
+currentPos: 0
+After turn R97, currentPos: 97
+currentPos: 97
+After turn R3, currentPos: 0
+currentPos: 0
+After turn R35, currentPos: 35
+currentPos: 35
+After turn L85, currentPos: 50
+currentPos: 50
+After turn R50, currentPos: 0
+currentPos: 0
+After turn R305, currentPos: 5
+currentPos: 5
+After turn R47, currentPos: 52
+currentPos: 52
+After turn L58, currentPos: 94
+currentPos: 94
+After turn R97, currentPos: 91
+currentPos: 91
+After turn L68, currentPos: 23
+currentPos: 23
+After turn R35, currentPos: 58
+currentPos: 58
+After turn L94, currentPos: 64
+currentPos: 64
+After turn R64, currentPos: 28
+currentPos: 28
+After turn R913, currentPos: 41
+currentPos: 41
+After turn R841, currentPos: 82
+currentPos: 82
+After turn R4, currentPos: 86
+currentPos: 86
+After turn L53, currentPos: 33
+currentPos: 33
+After turn L96, currentPos: 37
+currentPos: 37
+After turn L11, currentPos: 26
+currentPos: 26
+After turn R74, currentPos: 0
+currentPos: 0
+After turn L96, currentPos: 4
+currentPos: 4
+After turn L4, currentPos: 0
+currentPos: 0
+After turn R35, currentPos: 35
+currentPos: 35
+After turn R65, currentPos: 0
+currentPos: 0
+After turn R86, currentPos: 86
+currentPos: 86
+After turn L86, currentPos: 0
+currentPos: 0
+After turn L19, currentPos: 81
+currentPos: 81
+After turn R49, currentPos: 30
+currentPos: 30
+After turn R91, currentPos: 21
+currentPos: 21
+After turn L74, currentPos: 47
+currentPos: 47
+After turn L24, currentPos: 23
+currentPos: 23
+After turn R67, currentPos: 90
+currentPos: 90
+After turn L790, currentPos: 0
+currentPos: 0
+After turn R6, currentPos: 6
+currentPos: 6
+After turn L77, currentPos: 29
+currentPos: 29
+After turn R94, currentPos: 23
+currentPos: 23
+After turn R85, currentPos: 8
+currentPos: 8
+After turn L108, currentPos: 0
+currentPos: 0
+After turn R83, currentPos: 83
+currentPos: 83
+After turn R89, currentPos: 72
+currentPos: 72
+After turn R52, currentPos: 24
+currentPos: 24
+After turn L24, currentPos: 0
+currentPos: 0
+After turn R858, currentPos: 58
+currentPos: 58
+After turn L58, currentPos: 0
+currentPos: 0
+After turn R80, currentPos: 80
+currentPos: 80
+After turn R71, currentPos: 51
+currentPos: 51
+After turn L751, currentPos: 0
+currentPos: 0
+After turn L993, currentPos: 7
+currentPos: 7
+After turn L71, currentPos: 36
+currentPos: 36
+After turn L36, currentPos: 0
+currentPos: 0
+After turn L29, currentPos: 71
+currentPos: 71
+After turn L530, currentPos: 41
+currentPos: 41
+After turn R847, currentPos: 88
+currentPos: 88
+After turn R412, currentPos: 0
+currentPos: 0
+After turn L81, currentPos: 19
+currentPos: 19
+After turn L10, currentPos: 9
+currentPos: 9
+After turn L309, currentPos: 0
+currentPos: 0
+After turn R47, currentPos: 47
+currentPos: 47
+After turn L47, currentPos: 0
+currentPos: 0
+After turn R11, currentPos: 11
+currentPos: 11
+After turn L411, currentPos: 0
+currentPos: 0
+After turn R71, currentPos: 71
+currentPos: 71
+After turn R29, currentPos: 0
+currentPos: 0
+After turn R42, currentPos: 42
+currentPos: 42
+After turn L28, currentPos: 14
+currentPos: 14
+After turn L55, currentPos: 59
+currentPos: 59
+After turn R21, currentPos: 80
+currentPos: 80
+After turn L37, currentPos: 43
+currentPos: 43
+After turn R74, currentPos: 17
+currentPos: 17
+After turn R7, currentPos: 24
+currentPos: 24
+After turn R80, currentPos: 4
+currentPos: 4
+After turn R74, currentPos: 78
+currentPos: 78
+After turn L70, currentPos: 8
+currentPos: 8
+After turn R40, currentPos: 48
+currentPos: 48
+After turn L44, currentPos: 4
+currentPos: 4
+After turn R21, currentPos: 25
+currentPos: 25
+After turn L25, currentPos: 0
+currentPos: 0
+After turn R29, currentPos: 29
+currentPos: 29
+After turn L29, currentPos: 0
+currentPos: 0
+After turn R52, currentPos: 52
+currentPos: 52
+After turn L89, currentPos: 63
+currentPos: 63
+After turn R192, currentPos: 55
+currentPos: 55
+After turn R45, currentPos: 0
+currentPos: 0
+After turn L18, currentPos: 82
+currentPos: 82
+After turn R218, currentPos: 0
+currentPos: 0
+After turn R957, currentPos: 57
+currentPos: 57
+After turn L34, currentPos: 23
+currentPos: 23
+After turn R16, currentPos: 39
+currentPos: 39
+After turn L39, currentPos: 0
+currentPos: 0
+After turn R577, currentPos: 77
+currentPos: 77
+After turn R75, currentPos: 52
+currentPos: 52
+After turn L78, currentPos: 74
+currentPos: 74
+After turn L92, currentPos: 82
+currentPos: 82
+After turn L782, currentPos: 0
+currentPos: 0
+After turn L46, currentPos: 54
+currentPos: 54
+After turn L54, currentPos: 0
+currentPos: 0
+After turn R15, currentPos: 15
+currentPos: 15
+After turn L415, currentPos: 0
+currentPos: 0
+After turn L93, currentPos: 7
+currentPos: 7
+After turn L65, currentPos: 42
+currentPos: 42
+After turn L74, currentPos: 68
+currentPos: 68
+After turn L10, currentPos: 58
+currentPos: 58
+After turn L58, currentPos: 0
+currentPos: 0
+After turn L30, currentPos: 70
+currentPos: 70
+After turn L28, currentPos: 42
+currentPos: 42
+After turn R90, currentPos: 32
+currentPos: 32
+After turn R68, currentPos: 0
+currentPos: 0
+After turn L23, currentPos: 77
+currentPos: 77
+After turn L22, currentPos: 55
+currentPos: 55
+After turn L67, currentPos: 88
+currentPos: 88
+After turn L57, currentPos: 31
+currentPos: 31
+After turn L990, currentPos: 41
+currentPos: 41
+After turn R88, currentPos: 29
+currentPos: 29
+After turn R2, currentPos: 31
+currentPos: 31
+After turn L218, currentPos: 13
+currentPos: 13
+After turn R23, currentPos: 36
+currentPos: 36
+After turn L36, currentPos: 0
+currentPos: 0
+After turn L34, currentPos: 66
+currentPos: 66
+After turn L62, currentPos: 4
+currentPos: 4
+After turn R17, currentPos: 21
+currentPos: 21
+After turn L99, currentPos: 22
+currentPos: 22
+After turn R73, currentPos: 95
+currentPos: 95
+After turn R15, currentPos: 10
+currentPos: 10
+After turn R59, currentPos: 69
+currentPos: 69
+After turn L69, currentPos: 0
+currentPos: 0
+After turn L5, currentPos: 95
+currentPos: 95
+After turn L89, currentPos: 6
+currentPos: 6
+After turn R94, currentPos: 0
+currentPos: 0
+After turn R54, currentPos: 54
+currentPos: 54
+After turn L5, currentPos: 49
+currentPos: 49
+After turn R312, currentPos: 61
+currentPos: 61
+After turn L67, currentPos: 94
+currentPos: 94
+After turn L64, currentPos: 30
+currentPos: 30
+After turn L22, currentPos: 8
+currentPos: 8
+After turn L80, currentPos: 28
+currentPos: 28
+After turn R72, currentPos: 0
+currentPos: 0
+After turn R31, currentPos: 31
+currentPos: 31
+After turn L18, currentPos: 13
+currentPos: 13
+After turn R49, currentPos: 62
+currentPos: 62
+After turn L62, currentPos: 0
+currentPos: 0
+After turn R160, currentPos: 60
+currentPos: 60
+After turn R61, currentPos: 21
+currentPos: 21
+After turn L121, currentPos: 0
+currentPos: 0
+After turn R18, currentPos: 18
+currentPos: 18
+After turn L60, currentPos: 58
+currentPos: 58
+After turn R42, currentPos: 0
+currentPos: 0
+After turn R19, currentPos: 19
+currentPos: 19
+After turn R81, currentPos: 0
+currentPos: 0
+After turn R73, currentPos: 73
+currentPos: 73
+After turn L50, currentPos: 23
+currentPos: 23
+After turn R196, currentPos: 19
+currentPos: 19
+After turn R65, currentPos: 84
+currentPos: 84
+After turn R16, currentPos: 0
+currentPos: 0
+After turn L154, currentPos: 46
+currentPos: 46
+After turn R84, currentPos: 30
+currentPos: 30
+After turn R32, currentPos: 62
+currentPos: 62
+After turn R45, currentPos: 7
+currentPos: 7
+After turn R7, currentPos: 14
+currentPos: 14
+After turn L68, currentPos: 46
+currentPos: 46
+After turn L23, currentPos: 23
+currentPos: 23
+After turn L58, currentPos: 65
+currentPos: 65
+After turn L80, currentPos: 85
+currentPos: 85
+After turn R709, currentPos: 94
+currentPos: 94
+After turn L94, currentPos: 0
+currentPos: 0
+After turn L97, currentPos: 3
+currentPos: 3
+After turn L45, currentPos: 58
+currentPos: 58
+After turn L1, currentPos: 57
+currentPos: 57
+After turn L83, currentPos: 74
+currentPos: 74
+After turn R26, currentPos: 0
+currentPos: 0
+After turn R44, currentPos: 44
+currentPos: 44
+After turn R20, currentPos: 64
+currentPos: 64
+After turn L504, currentPos: 60
+currentPos: 60
+After turn L60, currentPos: 0
+currentPos: 0
+After turn L468, currentPos: 32
+currentPos: 32
+After turn R31, currentPos: 63
+currentPos: 63
+After turn L14, currentPos: 49
+currentPos: 49
+After turn L69, currentPos: 80
+currentPos: 80
+After turn R23, currentPos: 3
+currentPos: 3
+After turn R84, currentPos: 87
+currentPos: 87
+After turn R13, currentPos: 0
+currentPos: 0
+After turn R820, currentPos: 20
+currentPos: 20
+After turn R23, currentPos: 43
+currentPos: 43
+After turn R57, currentPos: 0
+currentPos: 0
+After turn R32, currentPos: 32
+currentPos: 32
+After turn L36, currentPos: 96
+currentPos: 96
+After turn L86, currentPos: 10
+currentPos: 10
+After turn R90, currentPos: 0
+currentPos: 0
+After turn L34, currentPos: 66
+currentPos: 66
+After turn L5, currentPos: 61
+currentPos: 61
+After turn R988, currentPos: 49
+currentPos: 49
+After turn L35, currentPos: 14
+currentPos: 14
+After turn R86, currentPos: 0
+currentPos: 0
+After turn L99, currentPos: 1
+currentPos: 1
+After turn R99, currentPos: 0
+currentPos: 0
+After turn L37, currentPos: 63
+currentPos: 63
+After turn L63, currentPos: 0
+currentPos: 0
+After turn L24, currentPos: 76
+currentPos: 76
+After turn R89, currentPos: 65
+currentPos: 65
+After turn R23, currentPos: 88
+currentPos: 88
+After turn L88, currentPos: 0
+currentPos: 0
+After turn R25, currentPos: 25
+currentPos: 25
+After turn R2, currentPos: 27
+currentPos: 27
+After turn L17, currentPos: 10
+currentPos: 10
+After turn L10, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn R62, currentPos: 90
+currentPos: 90
+After turn L83, currentPos: 7
+currentPos: 7
+After turn R93, currentPos: 0
+currentPos: 0
+After turn L33, currentPos: 67
+currentPos: 67
+After turn R18, currentPos: 85
+currentPos: 85
+After turn L41, currentPos: 44
+currentPos: 44
+After turn R94, currentPos: 38
+currentPos: 38
+After turn L40, currentPos: 98
+currentPos: 98
+After turn L6, currentPos: 92
+currentPos: 92
+After turn L16, currentPos: 76
+currentPos: 76
+After turn R24, currentPos: 0
+currentPos: 0
+After turn L77, currentPos: 23
+currentPos: 23
+After turn R77, currentPos: 0
+currentPos: 0
+After turn R12, currentPos: 12
+currentPos: 12
+After turn R27, currentPos: 39
+currentPos: 39
+After turn R13, currentPos: 52
+currentPos: 52
+After turn L52, currentPos: 0
+currentPos: 0
+After turn L80, currentPos: 20
+currentPos: 20
+After turn R80, currentPos: 0
+currentPos: 0
+After turn L61, currentPos: 39
+currentPos: 39
+After turn R61, currentPos: 0
+currentPos: 0
+After turn L97, currentPos: 3
+currentPos: 3
+After turn L15, currentPos: 88
+currentPos: 88
+After turn R12, currentPos: 0
+currentPos: 0
+After turn R66, currentPos: 66
+currentPos: 66
+After turn L66, currentPos: 0
+currentPos: 0
+After turn L66, currentPos: 34
+currentPos: 34
+After turn R69, currentPos: 3
+currentPos: 3
+After turn L3, currentPos: 0
+currentPos: 0
+After turn R60, currentPos: 60
+currentPos: 60
+After turn R78, currentPos: 38
+currentPos: 38
+After turn L38, currentPos: 0
+currentPos: 0
+After turn L13, currentPos: 87
+currentPos: 87
+After turn L72, currentPos: 15
+currentPos: 15
+After turn L15, currentPos: 0
+currentPos: 0
+After turn R28, currentPos: 28
+currentPos: 28
+After turn L49, currentPos: 79
+currentPos: 79
+After turn L29, currentPos: 50
+currentPos: 50
+After turn L64, currentPos: 86
+currentPos: 86
+After turn L86, currentPos: 0
+currentPos: 0
+After turn L33, currentPos: 67
+currentPos: 67
+After turn R42, currentPos: 9
+currentPos: 9
+After turn L46, currentPos: 63
+currentPos: 63
+After turn R41, currentPos: 4
+currentPos: 4
+After turn R20, currentPos: 24
+currentPos: 24
+After turn L31, currentPos: 93
+currentPos: 93
+After turn R47, currentPos: 40
+currentPos: 40
+After turn R38, currentPos: 78
+currentPos: 78
+After turn R36, currentPos: 14
+currentPos: 14
+After turn R14, currentPos: 28
+currentPos: 28
+After turn L4, currentPos: 24
+currentPos: 24
+After turn R12, currentPos: 36
+currentPos: 36
+After turn R37, currentPos: 73
+currentPos: 73
+After turn L35, currentPos: 38
+currentPos: 38
+After turn R20, currentPos: 58
+currentPos: 58
+After turn R17, currentPos: 75
+currentPos: 75
+After turn R19, currentPos: 94
+currentPos: 94
+After turn R38, currentPos: 32
+currentPos: 32
+After turn R15, currentPos: 47
+currentPos: 47
+After turn R20, currentPos: 67
+currentPos: 67
+After turn R27, currentPos: 94
+currentPos: 94
+After turn R6, currentPos: 0
+currentPos: 0
+After turn R44, currentPos: 44
+currentPos: 44
+After turn L13, currentPos: 31
+currentPos: 31
+After turn R5, currentPos: 36
+currentPos: 36
+After turn L36, currentPos: 0
+currentPos: 0
+After turn L40, currentPos: 60
+currentPos: 60
+After turn R39, currentPos: 99
+currentPos: 99
+After turn L4, currentPos: 95
+currentPos: 95
+After turn L41, currentPos: 54
+currentPos: 54
+After turn L42, currentPos: 12
+currentPos: 12
+After turn L34, currentPos: 78
+currentPos: 78
+After turn L1, currentPos: 77
+currentPos: 77
+After turn L2, currentPos: 75
+currentPos: 75
+After turn L21, currentPos: 54
+currentPos: 54
+After turn R7, currentPos: 61
+currentPos: 61
+After turn L19, currentPos: 42
+currentPos: 42
+After turn L43, currentPos: 99
+currentPos: 99
+After turn R7, currentPos: 6
+currentPos: 6
+After turn R21, currentPos: 27
+currentPos: 27
+After turn R35, currentPos: 62
+currentPos: 62
+After turn R21, currentPos: 83
+currentPos: 83
+After turn L6, currentPos: 77
+currentPos: 77
+After turn L13, currentPos: 64
+currentPos: 64
+After turn L6, currentPos: 58
+currentPos: 58
+After turn R37, currentPos: 95
+currentPos: 95
+After turn R33, currentPos: 28
+currentPos: 28
+After turn L36, currentPos: 92
+currentPos: 92
+After turn R22, currentPos: 14
+currentPos: 14
+After turn R23, currentPos: 37
+Answer: 962

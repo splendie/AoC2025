@@ -1,0 +1,41 @@
+==== ZERO CROSSING TESTS ====
+Test 1: start=0 turn=R100
+  during zero hits: 0
+  final zero hit:   1
+  total:            1
+
+Test 2: start=0 turn=R200
+  during zero hits: 1
+  final zero hit:   1
+  total:            2
+
+Test 3: start=0 turn=R250
+  during zero hits: 2
+  final zero hit:   0
+  total:            2
+
+Test 4: start=99 turn=R201
+  during zero hits: 2
+  final zero hit:   1
+  total:            3
+
+Test 5: start=99 turn=R101
+  during zero hits: 1
+  final zero hit:   1
+  total:            2
+
+Test 6: start=1 turn=R199
+  during zero hits: 1
+  final zero hit:   1
+  total:            2
+
+Test 7: start=1 turn=R100
+  during zero hits: 1
+  final zero hit:   0
+  total:            1
+
+Test 8: start=50 turn=R250
+  during zero hits: 2
+  final zero hit:   1
+  total:            3
+

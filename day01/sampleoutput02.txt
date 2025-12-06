@@ -1,0 +1,15 @@
+currentPos: 50
+After turn L68, currentPos: 82, wraps: 1
+After turn L30, currentPos: 52, wraps: 0
+After turn R48, currentPos: 0, wraps: 0
+Hit zero
+After turn L5, currentPos: 95, wraps: 0
+After turn R60, currentPos: 55, wraps: 1
+After turn L55, currentPos: 0, wraps: 0
+Hit zero
+After turn L1, currentPos: 99, wraps: 0
+After turn L99, currentPos: 0, wraps: 0
+Hit zero
+After turn R14, currentPos: 14, wraps: 0
+After turn L82, currentPos: 32, wraps: 1
+Answer: 6
